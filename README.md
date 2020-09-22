@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 
 -   🌱 I’m currently a student at Vishwakarma Institute of Technology, Pune
 
--   📫 How to reach me: ![Click here!](/Online%20Presence/README.md)
+-   📫 How to reach me: [Click here!](/Online%20Presence/README.md)
 
--   ⚡ Fun fact: I am equally interested in making & playing ![games!](/Miscellaneous/Game.md)
+-   ⚡ Fun fact: I am equally interested in making & playing [games!](/Miscellaneous/Game.md)
