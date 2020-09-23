@@ -6,18 +6,25 @@ Also wherever possible, I will put Invite link instead of my usual Username.
 
 ## Developer
 
-| SIte                                   | Username |
-| -------------------------------------- | -------- |
-| [Heroku](https://www.heroku.com/home#) | N/A      |
+| Site                                             | Username                                   |
+| ------------------------------------------------ | ------------------------------------------ |
+| [Heroku](https://www.heroku.com/home#)           | N/A                                        |
+| [GitHub](https://mrdgh2821.github.io/MRDGH2821/) | [MRDGH2821](https://github.com/MRDGH2821/) |
 
 ## Forums
 
-| Site                                                                    | Username                |
-| ----------------------------------------------------------------------- | ----------------------- |
+| Site                                                         | Username                |
+| ------------------------------------------------------------ | ----------------------- |
 | [XDA Developers](https://forum.xda-developers.com/member.php?u=6224863) | amihir                  |
-| [OnePlus Forum](https://forums.oneplus.com/members/mrdh2000.1474463/)   | MRdH2000                |
-| [Reddit](https://www.reddit.com/user/amihir)                            | amihir                  |
-| [IEEE](http://www.ieee.org/)                                            | Member number: 95237574 |
+| [OnePlus Forum](https://forums.oneplus.com/members/mrdh2000.1474463/) | MRdH2000                |
+| [Reddit](https://www.reddit.com/user/amihir)                 | amihir                  |
+| [IEEE](http://www.ieee.org/)                                 | Member number: 95237574 |
+
+### Gaming Forums
+
+| Site                                                         | Username  |
+| ------------------------------------------------------------ | --------- |
+| [Alienware Arena](https://na.alienwarearena.com/member/MRDGH2821) | MRDGH2821 |
 
 ## Invite Links
 
@@ -37,6 +44,6 @@ Also wherever possible, I will put Invite link instead of my usual Username.
 
 ## Miscellaneous
 
-| Site      | Username  |
-| --------- | --------- |
-| Wordpress | mrdgh2821 |
+| Site      | Username  | Notes                                                        |
+| --------- | --------- | ------------------------------------------------------------ |
+| Wordpress | mrdgh2821 | Accidently generated a site there. I was primarily using it for [Gravatar](https://s.gravatar.com/avatar/b3b29d94774f9a4f7991f56203be63f9?s=80) |
