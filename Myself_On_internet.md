@@ -1,23 +1,42 @@
 # Myself On Internet
 
-I agree I shouldn't be telling about this as it would affect my privacy.
-So in few cases I would just mention social media titles, not direct links.
+I agree I shouldn't be telling about this as it would affect my privacy. So in few cases I would just mention social media titles, not direct links.
 
+Also wherever possible, I will put Invite link instead of my usual Username.
 
-### Forums
-[XDA Developers](https://forum.xda-developers.com/member.php?u=6224863)
-[OnePlus Forum](https://forums.oneplus.com/members/mrdh2000.1474463/)
-[Reddit](https://www.reddit.com/user/amihir)
-[IEEE](http://www.ieee.org/) Member number: 95237574
+## Developer
 
-### Invite Links
-[Uber](https://m.uber.com/looking) - mihirr1010ue
-[Paradox Plaza](https://www.paradoxplaza.com/) - aSb$84@AbYA5t6jf
+| SIte                                   | Username |
+| -------------------------------------- | -------- |
+| [Heroku](https://www.heroku.com/home#) | N/A      |
 
-### Gamer ID
-[Ubisoft](https://club.ubisoft.com/en-US/) - MRdGH2821
-PSN - MRDGH2821
-Square Enix - MRDGH2821
-Nvidia - MRDGH2821
+## Forums
 
-### Miscellaneous
+| Site                                                                    | Username                |
+| ----------------------------------------------------------------------- | ----------------------- |
+| [XDA Developers](https://forum.xda-developers.com/member.php?u=6224863) | amihir                  |
+| [OnePlus Forum](https://forums.oneplus.com/members/mrdh2000.1474463/)   | MRdH2000                |
+| [Reddit](https://www.reddit.com/user/amihir)                            | amihir                  |
+| [IEEE](http://www.ieee.org/)                                            | Member number: 95237574 |
+
+## Invite Links
+
+| Site                                           | Invite/Referral   |
+| ---------------------------------------------- | ----------------- |
+| [Uber](https://m.uber.com/looking)             | mihirr1010ue      |
+| [Paradox Plaza](https://www.paradoxplaza.com/) | aSb\$84@AbYA5t6jf |
+
+## Gamer ID
+
+| Site                                       | Gamer ID  |
+| ------------------------------------------ | --------- |
+| [Ubisoft](https://club.ubisoft.com/en-US/) | MRdGH2821 |
+| PSN                                        | MRDGH2821 |
+| Square Enix                                | MRDGH2821 |
+| nVIDIA                                     | MRDGH2821 |
+
+## Miscellaneous
+
+| Site      | Username  |
+| --------- | --------- |
+| Wordpress | mrdgh2821 |
