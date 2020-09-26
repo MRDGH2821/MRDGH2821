@@ -28,10 +28,11 @@ Also wherever possible, I will put Invite link instead of my usual Username.
 
 ## Invite Links
 
-| Site                                           | Invite/Referral   |
-| ---------------------------------------------- | ----------------- |
-| [Uber](https://m.uber.com/looking)             | mihirr1010ue      |
-| [Paradox Plaza](https://www.paradoxplaza.com/) | aSb\$84@AbYA5t6jf |
+| Site                                           | Invite/Referral Link/code | Expiry Date |
+| ---------------------------------------------- | ------------------------- | ----------- |
+| [Uber](https://m.uber.com/looking)             | mihirr1010ue              | None        |
+| [Paradox Plaza](https://www.paradoxplaza.com/) | aSb\$84@AbYA5t6jf         | None        |
+| [AMCAT](https://www.myamcat.com/)              | REVUNSD                   | 25-Oct-2020 |
 
 ## Gamer ID
 
