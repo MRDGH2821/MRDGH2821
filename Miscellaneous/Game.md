@@ -15,6 +15,8 @@ I will try to mention the dates as well wherever possible.
 - ⬛ Not purchased
 - ⚠ Not Applicable
 
+### Epic Games Store
+
 | Game Name                                                                     | Main Campaign Complete? | All DLCs Complete ? |
 | ----------------------------------------------------------------------------- | ----------------------- | ------------------- |
 | [Moonlighter](https://www.epicgames.com/store/en-US/product/moonlighter/home) | ✅ 21-09-2020           | ⬛                  |
