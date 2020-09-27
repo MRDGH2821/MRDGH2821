@@ -10,12 +10,26 @@ I will try to mention the dates as well wherever possible.
 
 ##### Notations
 
--   ✅ Completed
--   ❌ Not Completed
--   ⬛ Not purchased
-
-### Epic Games Store
+- ✅ Completed
+- ❌ Not Completed
+- ⬛ Not purchased
+- ⚠ Not Applicable
 
 | Game Name                                                                     | Main Campaign Complete? | All DLCs Complete ? |
 | ----------------------------------------------------------------------------- | ----------------------- | ------------------- |
-| [Moonlighter](https://www.epicgames.com/store/en-US/product/moonlighter/home) | ✅ 21-09-2020            | ⬛                   |
+| [Moonlighter](https://www.epicgames.com/store/en-US/product/moonlighter/home) | ✅ 21-09-2020           | ⬛                  |
+
+### GOG
+
+| Game Name                                                                                    | Main Campaign Complete? | All DLCs Complete ? |
+| -------------------------------------------------------------------------------------------- | ----------------------- | ------------------- |
+| [The Witcher: Enhanced Edition](https://www.gog.com/game/the_witcher)                        | ✅                      | ⚠                   |
+| [The Witcher 2: Assassins of Kings Enhanced Edition](https://www.gog.com/game/the_witcher_2) | ✅                      | ⚠                   |
+
+### Steam
+
+| Game Name                                                                                            | Main Campaign Complete? | All DLCs Complete ? |
+| ---------------------------------------------------------------------------------------------------- | ----------------------- | ------------------- |
+| [The Witcher® 3: Wild Hunt GOTY](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/) | ✅                      | ❌                  |
+
+[^goty]: Game Of The Year Edition
