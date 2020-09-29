@@ -6,6 +6,8 @@ Also wherever possible, I will put Invite link instead of my usual Username.
 
 Click on Site name to see my profile.
 
+You might want to check out some [nice stuff which I found on internet!](Nice_Stuff_On_Internet.md)
+
 ## Developer
 
 | Site                                             | Username                                   |
@@ -21,6 +23,7 @@ Click on Site name to see my profile.
 | [OnePlus Forum](https://forums.oneplus.com/members/mrdh2000.1474463/)   | MRdH2000                                     |
 | [Reddit](https://www.reddit.com/user/amihir)                            | [amihir](https://www.reddit.com/r/MRDC2821/) |
 | [IEEE](http://www.ieee.org/)                                            | Member number: 95237574                      |
+| [Quora](https://www.quora.com/profile/Mihir-Rabade)                     | Mihir Rabade                                 |
 
 ### Gaming Forums
 
@@ -30,15 +33,15 @@ Click on Site name to see my profile.
 
 ## Social
 
-| Site                                           | Username     |
-| ---------------------------------------------- | ------------ |
-| [Youtube](http://bit.ly/YTmrdgh)               | MRDGH 2821   |
-| [LinkedIn](http://bit.ly/mrdghLI)              | Mihir Rabade |
-| [Duolingo](https://www.duolingo.com/MRDGH2821) | MRDGH2821    |
-| [Twitter](http://bit.ly/mrdghtw)               | @MihirRabade |
-| [Pintrest](www.pinterest.com/mihirrabade)      | @mihirrabade |
-| [Instagram](http://bit.ly/mrdghig)             | mrdgh2821    |
-| [Facebook](http://bit.ly/mrdghfb)              | MRDG2821     |
+| Site                                               | Username     |
+| -------------------------------------------------- | ------------ |
+| [Youtube](http://bit.ly/YTmrdgh)                   | MRDGH 2821   |
+| [LinkedIn](http://bit.ly/mrdghLI)                  | Mihir Rabade |
+| [Duolingo](https://www.duolingo.com/MRDGH2821)     | MRDGH2821    |
+| [Twitter](http://bit.ly/mrdghtw)                   | @MihirRabade |
+| [Pintrest](https://www.pinterest.com/mihirrabade/) | @mihirrabade |
+| [Instagram](http://bit.ly/mrdghig)                 | mrdgh2821    |
+| [Facebook](http://bit.ly/mrdghfb)                  | MRDG2821     |
 
 ## Invite Links
 
@@ -56,17 +59,17 @@ Click on Site name to see my profile.
 
 ## Gamer ID
 
-| Site                                       | Gamer ID  |
-| ------------------------------------------ | --------- |
-| [Ubisoft](https://club.ubisoft.com/en-US/) | MRdGH2821 |
-| PSN                                        | MRDGH2821 |
-| Square Enix                                | MRDGH2821 |
-| nVIDIA                                     | MRDGH2821 |
-| [Steam](http://bit.ly/mrdghSTEAM)          | MRDG2821  |
+| Site                                                | Gamer ID  |
+| --------------------------------------------------- | --------- |
+| [Ubisoft](https://club.ubisoft.com/en-US/)          | MRdGH2821 |
+| [PSN](https://my.playstation.com/profile/MRDGH2821) | MRDGH2821 |
+| Square Enix                                         | MRDGH2821 |
+| nVIDIA                                              | MRDGH2821 |
+| [Steam](http://bit.ly/mrdghSTEAM)                   | MRDG2821  |
 
 ## Miscellaneous
 
-| Site                                                        | Username  | Notes                                                                                                                                           |
-| ----------------------------------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Wordpress                                                   | mrdgh2821 | Accidently generated a site there. I was primarily using it for [Gravatar](https://s.gravatar.com/avatar/b3b29d94774f9a4f7991f56203be63f9?s=80) |
-| [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/) | MRDGH2821 | This is a Game Store. Nothing more.                                                                                                             |
+| Site                                                        | Username  | Notes                                                                                              |
+| ----------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------- |
+| [Wordpress](https://mrdgh2821.wordpress.com/)               | mrdgh2821 | Accidently generated a site there. I was primarily using it for [Gravatar](https://bit.ly/36fl6Ee) |
+| [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/) | MRDGH2821 | This is a Game Store. Nothing more.                                                                |

@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am equally interested in making & playing [games!](/Miscellaneous/Game.md)
 - 🌐 Here's some nice stuff I [found](Nice_Stuff_On_Internet.md) on internet
 
-_Incase you came from Instagram click [here](Nice_Stuff_On_Internet.md)_
+_Incase you came from Instagram click [here](Nice_Stuff_On_Internet.md) or [here](/Myself_On_internet.md)_
 
 _Incase you are recruiter or a company official, you may wish to proceed [here](Resume_Section.md)_
