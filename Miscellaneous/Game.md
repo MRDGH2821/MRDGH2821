@@ -11,8 +11,8 @@ I will try to mention the dates as well wherever possible.
 ##### Notations
 
 - ✅ Completed
-- ❌ Not Completed
 - ⬛ Not purchased
+- ❌ Not Completed
 - ⚠ Not Applicable
 
 ### Epic Games Store
@@ -20,6 +20,7 @@ I will try to mention the dates as well wherever possible.
 | Game Name                                                                     | Main Campaign Complete? | All DLCs Complete ? |
 | ----------------------------------------------------------------------------- | ----------------------- | ------------------- |
 | [Moonlighter](https://www.epicgames.com/store/en-US/product/moonlighter/home) | ✅ 21-09-2020           | ⬛                  |
+| [Control](https://www.epicgames.com/store/en-US/product/control/home)         | ✅                      | ❌                  |
 
 ### GOG
 
