@@ -21,3 +21,10 @@ You Might want to visit My online [Profiles](Myself_On_internet.md)
 | [Learn to Code!](http://bit.ly/lrn2cde)                                                            | N/A        | Ebooks of programming lanugages                                       |
 | [EBooks Repo](http://bit.ly/EBOOKSbyRAaETH)                                                        | N/A        | Ebooks by my [friend](https://github.com/RootAndroid58)               |
 | [Saatvik Recipes](https://bit.ly/recipemaster)                                                     | N/A        | An excel sheet containing Saatvik Recipes + a video on how to use it  |
+
+## Other stuff I found useful
+
+This is how I got knowledge of tech. Subscribe for their Newsletter!
+
+[MakeUseOf.com](https://www.makeuseof.com/subscribe/)
+[HowToGeek.com](https://www.howtogeek.com/)
