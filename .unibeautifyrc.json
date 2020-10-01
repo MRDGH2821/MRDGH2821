@@ -1,0 +1,11 @@
+{
+	"Markdown": {
+		"indent_size": 2,
+		"indent_char": " ",
+		"wrap_line_length": 0,
+		"wrap_prose": "always",
+		"beautifiers": [
+			"Prettier"
+		]
+	}
+}
