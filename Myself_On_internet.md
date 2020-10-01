@@ -45,17 +45,18 @@ You might want to check out some [nice stuff which I found on internet!](Nice_St
 
 ## Invite Links
 
-| Site                                                              | Invite/Referral Link/code                                      | Expiry Date |
-| ----------------------------------------------------------------- | -------------------------------------------------------------- | ----------- |
-| [Uber](https://www.uber.com/invite/mihirr1010ue)                  | mihirr1010ue                                                   | None        |
-| [Paradox Plaza](https://www.paradoxplaza.com/)                    | aSb\$84@AbYA5t6jf                                              | None        |
-| [AMCAT](https://www.myamcat.com/)                                 | REVUNSD                                                        | 25-Oct-2020 |
-| [StepSetGo](https://app.stepsetgo.com/i/mihirr4qzg)               | mihirr4qzg                                                     | None        |
-| [Google Pay (India)](https://g.co/payinvite/i3zb2q)               | i3zb2q                                                         | None        |
-| [Free Game Lottery](https://freegamelottery.com?ref=Qdcsno)       | Qdcsno                                                         | None        |
-| [Huntmar](https://www.huntmar.com/?mref=MRDG2821)                 | [Click here](https://www.huntmar.com/?mref=MRDG2821)           | None        |
-| [OrlyGift](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4)      | [Click here](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4) | None        |
+| Site                                                         | Invite/Referral Link/code                                    | Expiry Date |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
+| [Uber](https://www.uber.com/invite/mihirr1010ue)             | mihirr1010ue                                                 | None        |
+| [Paradox Plaza](https://www.paradoxplaza.com/)               | aSb\$84@AbYA5t6jf                                            | None        |
+| [AMCAT](https://www.myamcat.com/)                            | REVUNSD                                                      | 25-Oct-2020 |
+| [StepSetGo](https://app.stepsetgo.com/i/mihirr4qzg)          | mihirr4qzg                                                   | None        |
+| [Google Pay (India)](https://g.co/payinvite/i3zb2q)          | i3zb2q                                                       | None        |
+| [Free Game Lottery](https://freegamelottery.com?ref=Qdcsno)  | Qdcsno                                                       | None        |
+| [Huntmar](https://www.huntmar.com/?mref=MRDG2821)            | [Click here](https://www.huntmar.com/?mref=MRDG2821)         | None        |
+| [OrlyGift](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4) | [Click here](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4) | None        |
 | [Humble Bundle](https://www.humblebundle.com/monthly?refc=2H6nrD) | [Click here](https://www.humblebundle.com/monthly?refc=2H6nrD) | None        |
+| [GameHag](https://gamehag.com/r/6020403)                     | mrdgh2821                                                    | None        |
 
 ## Gamer ID
 
