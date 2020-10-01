@@ -1,0 +1,6 @@
+Markdown:
+  beautifiers:
+    - Prettier
+  pragma_insert: true
+  wrap_line_length: 0
+  wrap_prose: !<tag:yaml.org,2002:js/undefined> ''
