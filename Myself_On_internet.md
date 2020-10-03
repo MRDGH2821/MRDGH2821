@@ -76,3 +76,5 @@ You might want to check out some [nice stuff which I found on internet!](Nice_St
 | ----------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------- |
 | [Wordpress](https://mrdgh2821.wordpress.com/)               | mrdgh2821 | Accidently generated a site there. I was primarily using it for [Gravatar](https://bit.ly/36fl6Ee) |
 | [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/) | MRDGH2821 | This is a Game Store. Nothing more.                                                                |
+
+_Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page!_
