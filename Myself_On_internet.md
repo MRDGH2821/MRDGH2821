@@ -17,6 +17,13 @@ You might want to check out some [nice stuff which I found on internet!](Nice_St
 | [Heroku](https://www.heroku.com/home#)           | N/A                                        |
 | [GitHub](https://mrdgh2821.github.io/MRDGH2821/) | [MRDGH2821](https://github.com/MRDGH2821/) |
 
+## Education
+
+| Site                                                         | Username   |
+| ------------------------------------------------------------ | ---------- |
+| [Khan Academy](http://www.khanacademy.org/profile/MRDGH2821) | @MRDGH2821 |
+| [Duolingo](https://www.duolingo.com/MRDGH2821)               | MRDGH2821  |
+
 ## Forums
 
 | Site                                                                    | Username                                     |
@@ -39,7 +46,6 @@ You might want to check out some [nice stuff which I found on internet!](Nice_St
 | -------------------------------------------------- | ------------ |
 | [Youtube](http://bit.ly/YTmrdgh)                   | MRDGH 2821   |
 | [LinkedIn](http://bit.ly/mrdghLI)                  | Mihir Rabade |
-| [Duolingo](https://www.duolingo.com/MRDGH2821)     | MRDGH2821    |
 | [Twitter](http://bit.ly/mrdghtw)                   | @MihirRabade |
 | [Pintrest](https://www.pinterest.com/mihirrabade/) | @mihirrabade |
 | [Instagram](http://bit.ly/mrdghig)                 | mrdgh2821    |
