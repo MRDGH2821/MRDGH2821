@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # My gamer side
 
 I have played many games in my life, I admit it. Fortunately I played brain developing games also!
@@ -9,6 +7,8 @@ I will be classifying them according to Platform/Store. The list here shows only
 There might be a case of games, which are endless in nature. So I will try to mention them as well. I'm skipping online games. They are naturally endless type.
 
 I will try to mention the dates as well wherever possible.
+
+Want to go back to [main page](README.md)?
 
 ##### Notations
 
