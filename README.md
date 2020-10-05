@@ -1,4 +1,4 @@
-<!-- @format -->
+
 
 # About MRDGH2821
 
@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 _Incase you came from Instagram click [here](Nice_Stuff_On_Internet.md) or [here](Myself_On_internet.md)_
 
 _Incase you are recruiter or a company official, you may wish to proceed [here](Resume_Section.md)_
+
+### Site Map
+
+- [Myself on Internet](Myself_On_internet.md)
+- [Nice Stuff on Internet](Nice_Stuff_On_Internet.md)
+- [Resume Section](Resume_Section.md)
+- Miscellaneous
+  - [Game](Miscellaneous\Game.md)
 
 ### Brief Info About myself
 
