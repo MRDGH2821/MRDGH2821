@@ -27,7 +27,7 @@ _Incase you are recruiter or a company official, you may wish to proceed [here](
 - [Nice Stuff on Internet](Nice_Stuff_On_Internet.md)
 - [Resume Section](Resume_Section.md)
 - Miscellaneous
-  - [Game](Miscellaneous\Game.md)
+  - [Game](/Miscellaneous/Game.md)
 
 ### Brief Info About myself
 
