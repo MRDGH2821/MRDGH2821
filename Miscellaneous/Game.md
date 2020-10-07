@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # My gamer side
 
 I have played many games in my life, I admit it. Fortunately I played brain developing games also!

@@ -1,4 +1,4 @@
-
+<!-- @format -->
 
 # About MRDGH2821
 
@@ -34,7 +34,7 @@ _Incase you are recruiter or a company official, you may wish to proceed [here](
 Greetings, I'm Mihir Rabade, Currently studying at Vishwakarma Institute of Technology, Pune. I'm an Introvert & an enthusiast about technology, especially in Gaming sector. Earlier I was more fascinated about front end of things. But once I went behind the scenes, I became interested in Game Development. For now I have started with a 2D Side Scroller project.
 Simply learning didn't help me unless I applied it, therefore I have a tendency to apply the knowledge I learnt.
 
-***Adjust-Adapt-Upgrade! (≧∇≦)ﾉ***
+**_Adjust-Adapt-Upgrade! (≧∇≦)ﾉ_**
 
 > **About my dislikes**
 > Most of the time I stay Neutral. But I dislike it when my friends are being exploited.
