@@ -59,13 +59,20 @@ Or you want to go back to [main page](README.md)?
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
 | [AMCAT](https://www.myamcat.com/)                            | REVUNSD                                                      | 25-Oct-2020 |
 | [Canva](https://www.canva.com/join/sgw-nxn-kzy)              | [Click here](https://www.canva.com/join/sgw-nxn-kzy)         | None        |
+| [Peak - Brain Games & Training](https://go.peak.net/RTeN1S2hM9) | [Click here](https://go.peak.net/RTeN1S2hM9)                 | None        |
+| [Elevate - Brain Training Games](http://go.elevateapp.com/MIHI131129) | MIHI131129                                                   | None        |
 | [Uber](https://www.uber.com/invite/mihirr1010ue)             | mihirr1010ue                                                 | None        |
-| [Paradox Plaza](https://www.paradoxplaza.com/)               | aSb\$84@AbYA5t6jf                                            | None        |
-| [StepSetGo](https://app.stepsetgo.com/i/mihirr4qzg)          | mihirr4qzg                                                   | None        |
+| [OneDrive](https://onedrive.live.com?invref=dc9882601e01cea6&invscr=90) | [Click here](https://onedrive.live.com?invref=dc9882601e01cea6&invscr=90) | None        |
 | [Google Pay (India)](https://g.co/payinvite/i3zb2q)          | i3zb2q                                                       | None        |
-| [Free Game Lottery](https://freegamelottery.com?ref=Qdcsno)  | Qdcsno                                                       | None        |
-| [Huntmar](https://www.huntmar.com/?mref=MRDG2821)            | [Click here](https://www.huntmar.com/?mref=MRDG2821)         | None        |
+| [Dropbox](https://www.dropbox.com/referrals/AADFS0x__HBEY3YIJbe0CdAIjj5cj8Jj68U?src=global9) | [Click here](https://www.dropbox.com/referrals/AADFS0x__HBEY3YIJbe0CdAIjj5cj8Jj68U?src=global9) | None        |
+| [MobiKwik](https://sak38.app.goo.gl/YVatryrzBe5tS3fy7)       | [Click here](https://sak38.app.goo.gl/YVatryrzBe5tS3fy7)     | None        |
+| [PhonePe](https://phon.pe/a24ahmfi)                          | [Click here](https://phon.pe/a24ahmfi)                       | None        |
+| [PayTM](https://p.paytm.me/xCTH/74e9c7c8)                    | [Click here](https://p.paytm.me/xCTH/74e9c7c8)               | None        |
+| [StepSetGo](https://app.stepsetgo.com/i/mihirr4qzg)          | mihirr4qzg                                                   | None        |
+| [Paradox Plaza](https://www.paradoxplaza.com/)               | aSb\$84@AbYA5t6jf                                            | None        |
 | [OrlyGift](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4) | [Click here](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4) | None        |
+| [Huntmar](https://www.huntmar.com/?mref=MRDG2821)            | [Click here](https://www.huntmar.com/?mref=MRDG2821)         | None        |
+| [Free Game Lottery](https://freegamelottery.com?ref=Qdcsno)  | Qdcsno                                                       | None        |
 | [Humble Bundle](https://www.humblebundle.com/monthly?refc=2H6nrD) | [Click here](https://www.humblebundle.com/monthly?refc=2H6nrD) | None        |
 | [GameHag](https://gamehag.com/r/6020403)                     | mrdgh2821                                                    | None        |
 
