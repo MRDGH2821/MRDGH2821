@@ -111,4 +111,4 @@ Or you want to go back to [main page](README.md)?
 | [Wordpress](https://mrdgh2821.wordpress.com/)               | mrdgh2821 | Accidently generated a site there. I was primarily using it for [Gravatar](https://bit.ly/36fl6Ee) |
 | [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/) | MRDGH2821 | This is a Game Store. Nothing more.                                                                |
 
-_Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page!_
+_Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page or at [PayPal](https://paypal.me/mrdgh2821)!_

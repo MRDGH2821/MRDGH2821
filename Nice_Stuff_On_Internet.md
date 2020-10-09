@@ -30,3 +30,5 @@ This is how I got knowledge of tech. Subscribe for their Newsletter!
 
 [MakeUseOf.com](https://www.makeuseof.com/subscribe/)
 [HowToGeek.com](https://www.howtogeek.com/)
+
+_Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page or at [PayPal](https://paypal.me/mrdgh2821)!_
