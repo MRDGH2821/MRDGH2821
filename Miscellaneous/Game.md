@@ -10,7 +10,7 @@ There might be a case of games, which are endless in nature. So I will try to me
 
 I will try to mention the dates as well wherever possible.
 
-Want to go back to [main page](/README.md)?
+Want to go back to [main page](./README.md)?
 
 ##### Notations
 
