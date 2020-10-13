@@ -12,10 +12,11 @@ You might want to check out some [nice stuff which I found on internet!](Nice_St
 
 Or you want to go back to [main page](README.md)?
 
-## Developer
+## Developer/Work
 
 | Site                                             | Username                                   |
 | ------------------------------------------------ | ------------------------------------------ |
+| [LinkedIn](http://bit.ly/mrdghLI)                  | Mihir Rabade |
 | [Heroku](https://www.heroku.com/home#)           | N/A                                        |
 | [GitHub](https://mrdgh2821.github.io/MRDGH2821/) | [MRDGH2821](https://github.com/MRDGH2821/) |
 
@@ -47,7 +48,6 @@ Or you want to go back to [main page](README.md)?
 | Site                                               | Username     |
 | -------------------------------------------------- | ------------ |
 | [Youtube](http://bit.ly/YTmrdgh)                   | MRDGH 2821   |
-| [LinkedIn](http://bit.ly/mrdghLI)                  | Mihir Rabade |
 | [Twitter](http://bit.ly/mrdghtw)                   | @MihirRabade |
 | [Pintrest](https://www.pinterest.com/mihirrabade/) | @mihirrabade |
 | [Instagram](http://bit.ly/mrdghig)                 | mrdgh2821    |
