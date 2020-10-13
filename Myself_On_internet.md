@@ -16,7 +16,7 @@ Or you want to go back to [main page](README.md)?
 
 | Site                                             | Username                                   |
 | ------------------------------------------------ | ------------------------------------------ |
-| [LinkedIn](http://bit.ly/mrdghLI)                  | Mihir Rabade |
+| [LinkedIn](http://bit.ly/mrdghLI)                | Mihir Rabade                               |
 | [Heroku](https://www.heroku.com/home#)           | N/A                                        |
 | [GitHub](https://mrdgh2821.github.io/MRDGH2821/) | [MRDGH2821](https://github.com/MRDGH2821/) |
 
