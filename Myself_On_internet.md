@@ -20,7 +20,7 @@ Or you want to go back to [main page](README.md)?
 | [Heroku](https://www.heroku.com/home#)           | N/A                                        |
 | [GitHub](https://mrdgh2821.github.io/MRDGH2821/) | [MRDGH2821](https://github.com/MRDGH2821/) |
 | [Sourcerer](https://sourcerer.io/mrdgh2821)      | Same as GitHub                             |
-| [Devpost](https://devpost.com/mihirrabade)       | Mihir Rabade                               |
+| [Devpost](https://devpost.com/mihirrabade)       | mihirrabade                                |
 
 ## Education
 
