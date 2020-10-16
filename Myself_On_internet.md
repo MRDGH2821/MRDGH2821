@@ -14,13 +14,14 @@ Or you want to go back to [main page](README.md)?
 
 ## Developer/Work
 
-| Site                                             | Username                                   |
-| ------------------------------------------------ | ------------------------------------------ |
-| [LinkedIn](http://bit.ly/mrdghLI)                | Mihir Rabade                               |
-| [Heroku](https://www.heroku.com/home#)           | N/A                                        |
-| [GitHub](https://mrdgh2821.github.io/MRDGH2821/) | [MRDGH2821](https://github.com/MRDGH2821/) |
-| [Sourcerer](https://sourcerer.io/mrdgh2821)      | Same as GitHub                             |
-| [Devpost](https://devpost.com/mihirrabade)       | mihirrabade                                |
+| Site                                                         | Username                                   |
+| ------------------------------------------------------------ | ------------------------------------------ |
+| [LinkedIn](http://bit.ly/mrdghLI)                            | Mihir Rabade                               |
+| [Heroku](https://www.heroku.com/home#)                       | N/A                                        |
+| [GitHub](https://mrdgh2821.github.io/MRDGH2821/)             | [MRDGH2821](https://github.com/MRDGH2821/) |
+| [Sourcerer](https://sourcerer.io/mrdgh2821)                  | Same as GitHub                             |
+| [Devpost](https://devpost.com/mihirrabade)                   | mihirrabade                                |
+| [Newton School](https://my.newtonschool.co/user/mihirrabade/) | mihirrabade                                |
 
 ## Education
 
