@@ -1,7 +1,7 @@
 # Invite Links
 
 Here's a dedicated page for all my invite links.
-Now it won't mess up with my [profile page](Myself_On_internet.md)
+Now it won't mess up with my [profile page](../Myself_On_internet.md)
 
 Want to go back to [main page](../README.md)?
 
