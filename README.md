@@ -30,6 +30,7 @@ _Incase you are recruiter or a company official, you may wish to proceed [here](
 - [Resume Section](Resume_Section.md)
 - Miscellaneous
   - [Game](/Miscellaneous/Game.md)
+  - [Invitations](/Miscellaneous/Invitations.md)
 
 ### Brief Info About myself
 
