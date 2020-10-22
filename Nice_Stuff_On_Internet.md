@@ -30,9 +30,12 @@ You Might want to visit My online [Profiles](Myself_On_internet.md) or you want 
 
 This is how I got knowledge of tech. Subscribe for their Newsletter!
 
-[MakeUseOf.com](https://www.makeuseof.com/subscribe/)
-[HowToGeek.com](https://www.howtogeek.com/)
-
-[These Are Reddit's Most Popular 'Life Pro Tips' of All Time](https://lifehacker.com/these-are-reddits-most-popular-life-pro-tips-of-all-tim-1845303538)
+| Site                                                                                  | Notes           |
+| ------------------------------------------------------------------------------------- | --------------- |
+| [MakeUseOf.com](https://www.makeuseof.com/subscribe/)                                 | Newsletter      |
+| [HowToGeek.com](https://www.howtogeek.com/)                                           | Newsletter      |
+| [These Are Reddit's Most Popular 'Life Pro Tips' of All Time](https://bit.ly/3dUAjww) | Lifehacks       |
+| [25 Insanely Useful Websites That'll Come in Handy Someday](https://bit.ly/2Tf5JE7)   | Useful websites |
+| [Press in Dire situations](http://nooooooooooooooo.com/)                              |                 |
 
 _Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page or at [PayPal](https://paypal.me/mrdgh2821)!_

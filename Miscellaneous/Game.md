@@ -10,6 +10,8 @@ There might be a case of games, which are endless in nature. So I will try to me
 
 I will try to mention the dates as well wherever possible.
 
+[Gaming terms you should know!](https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know/?utm_source=MUO-NL-RP&utm_medium=newsletter)
+
 Want to go back to [main page](../README.md)?
 
 ##### Notations
