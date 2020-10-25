@@ -11,7 +11,7 @@ Want to go back to [main page](../README.md)?
 
 | Site                                                                    | Invite/Referral Link/code                                                 | Expiry Date |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------- |
-| [AMCAT](https://www.myamcat.com/)                                       | REVUNSD                                                                   | 25-Oct-2020 |
+| [AMCAT](https://www.myamcat.com/)                                       | REO2Z7M                                                                   | 24-Nov-2020 |
 | [Canva](https://www.canva.com/join/sgw-nxn-kzy)                         | [Click here](https://www.canva.com/join/sgw-nxn-kzy)                      | None        |
 | [Trello](https://trello.com/mrdgh2821/recommend)                        | [Click here](https://trello.com/mrdgh2821/recommend)                      | None        |
 | [Dropbox](https://bit.ly/3iRpD2F)                                       | [Click here](https://bit.ly/3iRpD2F)                                      | None        |
