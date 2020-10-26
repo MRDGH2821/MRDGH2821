@@ -25,6 +25,7 @@ You Might want to visit My online [Profiles](Myself_On_internet.md) or you want 
 | [Learn to Code!](http://bit.ly/lrn2cde)                                                            | N/A        | Ebooks of programming lanugages                                       |
 | [EBooks Repo](http://bit.ly/EBOOKSbyRAaETH)                                                        | N/A        | Ebooks by my [friend](https://github.com/RootAndroid58)               |
 | [Saatvik Recipes](https://bit.ly/recipemaster)                                                     | N/A        | An excel sheet containing Saatvik Recipes + a video on how to use it  |
+| [Free Quantum Computing Course](https://www.qubitbyqubit.org/programs)|17-10-2020| You can still apply for it|
 
 ## Other stuff I found useful
 
