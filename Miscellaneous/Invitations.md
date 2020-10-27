@@ -8,9 +8,10 @@ Now it won't mess up with my [profile page](../Myself_On_internet.md)
 Want to go back to [main page](../README.md)?
 
 ### Developer
-| Site                                                                    | Invite/Referral Link/code                                                 | Expiry Date |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------- |
-| [Repl.it](https://repl.it/upgrade/MRDGH2821)                            | [Click Here](https://repl.it/upgrade/MRDGH2821)                           | None |
+
+| Site                                         | Invite/Referral Link/code                       | Expiry Date |
+| -------------------------------------------- | ----------------------------------------------- | ----------- |
+| [Repl.it](https://repl.it/upgrade/MRDGH2821) | [Click Here](https://repl.it/upgrade/MRDGH2821) | None        |
 
 ### Productivity & Work
 
