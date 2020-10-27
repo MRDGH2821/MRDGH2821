@@ -12,6 +12,7 @@ Want to go back to [main page](../README.md)?
 | Site                                         | Invite/Referral Link/code                       | Expiry Date |
 | -------------------------------------------- | ----------------------------------------------- | ----------- |
 | [Repl.it](https://repl.it/upgrade/MRDGH2821) | [Click Here](https://repl.it/upgrade/MRDGH2821) | None        |
+| [Credit Suisse](http://bit.ly/CSGCCmr)| [Click Here](http://bit.ly/CSGCCmr)| 9-Nov-2020 2pm UTC |
 
 ### Productivity & Work
 
