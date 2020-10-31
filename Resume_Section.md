@@ -32,3 +32,9 @@ Most of the details which you find here, might feel generic to you. Actually I i
 ### Other Aspects
 
 - I'm Introvert
+
+## Certificates
+
+With Due respect, please head over to this [link](https://bit.ly/2HO5GwO) or this [one](https://1drv.ms/u/s!AqbOAR5ggpjcgcVQxXjLoGFA-TaG8w?e=woTWb5) to see all my certificates.
+
+You may also visit my [LinkedIn profile](http://bit.ly/mrdghLI) to see all the certificates at one glance. I strictly put individual links to all the certificates over there.
