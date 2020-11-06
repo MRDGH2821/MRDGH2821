@@ -23,6 +23,11 @@ _Incase you came from Instagram click [here](Nice_Stuff_On_Internet.md) or [here
 
 _Incase you are recruiter or a company official, you may wish to proceed [here](Resume_Section.md)_
 
+### GitHub Trophies!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MRDGH2821&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Site Map
 
 - [Myself on Internet](Myself_On_internet.md)
