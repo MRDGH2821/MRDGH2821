@@ -27,7 +27,6 @@ _Incase you are recruiter or a company official, you may wish to proceed [here](
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MRDGH2821&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 ### Site Map
 
 - [Myself on Internet](Myself_On_internet.md)
