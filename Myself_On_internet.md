@@ -27,11 +27,12 @@ Or you want to go back to [main page](README.md)?
 
 ## Education
 
-| Site                                                           | Username   |
-| -------------------------------------------------------------- | ---------- |
-| [Khan Academy](http://www.khanacademy.org/profile/MRDGH2821)   | @MRDGH2821 |
-| [Duolingo](https://www.duolingo.com/MRDGH2821)                 | MRDGH2821  |
-| [BitDegree](https://www.bitdegree.org/user/mrdgh-2821/profile) | mrdgh2821  |
+| Site                                                         | Username     |
+| ------------------------------------------------------------ | ------------ |
+| [Khan Academy](http://www.khanacademy.org/profile/MRDGH2821) | @MRDGH2821   |
+| [Duolingo](https://www.duolingo.com/MRDGH2821)               | MRDGH2821    |
+| [BitDegree](https://www.bitdegree.org/user/mrdgh-2821/profile) | mrdgh2821    |
+| [Future Skills Nasscom Edcast](https://futureskillsnasscom.edcast.com/) | Mihir Rabade |
 
 ## Forums
 
