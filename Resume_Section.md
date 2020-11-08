@@ -22,7 +22,6 @@ Most of the details which you find here, might feel generic to you. Actually I i
 ### Weakness
 
 - Not so Good leader
-    - IF I'm assigned as leader, then I will need 1-2 Advisors after which this will no longer be a weakness
 -	I am plagued with some Vices
 
 ### Opportunities
@@ -33,6 +32,7 @@ Most of the details which you find here, might feel generic to you. Actually I i
 ### Challenges/Threats
 
 -	I happen to lose track, which could lead me to potential loss.
+- I happen to find more points for SWOC on the run, instead of
 
 ### Other Aspects
 
