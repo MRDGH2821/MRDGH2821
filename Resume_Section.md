@@ -22,12 +22,17 @@ Most of the details which you find here, might feel generic to you. Actually I i
 ### Weakness
 
 - Not so Good leader
-  - IF I'm assigned as leader, then I will need 1-2 Advisors after which this will no longer be a weakness
--
+    - IF I'm assigned as leader, then I will need 1-2 Advisors after which this will no longer be a weakness
+-	I am plagued with some Vices
 
 ### Opportunities
 
+-	If I am put in a leadership position along with 2 advisors, then I can overcome my weakness.
+-	If I practice setting determination efficiently, I can progress a lot.
+
 ### Challenges/Threats
+
+-	I happen to lose track, which could lead me to potential loss.
 
 ### Other Aspects
 
