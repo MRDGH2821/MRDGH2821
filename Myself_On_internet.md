@@ -15,29 +15,29 @@ Or you want to go back to [main page](README.md)?
 
 ## Developer/Work
 
-| Site                                                         | Username                                   |
-| ------------------------------------------------------------ | ------------------------------------------ |
-| [LinkedIn](http://bit.ly/mrdghLI)                            | Mihir Rabade                               |
-| [Heroku](https://www.heroku.com/home#)                       | N/A                                        |
-| [GitHub](https://mrdgh2821.github.io/MRDGH2821/)             | [MRDGH2821](https://github.com/MRDGH2821/) |
-| [Sourcerer](https://sourcerer.io/mrdgh2821)                  | Same as GitHub                             |
-| [Devpost](https://devpost.com/mihirrabade)                   | mihirrabade                                |
+| Site                                                          | Username                                   |
+| ------------------------------------------------------------- | ------------------------------------------ |
+| [LinkedIn](http://bit.ly/mrdghLI)                             | Mihir Rabade                               |
+| [Heroku](https://www.heroku.com/home#)                        | N/A                                        |
+| [GitHub](https://mrdgh2821.github.io/MRDGH2821/)              | [MRDGH2821](https://github.com/MRDGH2821/) |
+| [Sourcerer](https://sourcerer.io/mrdgh2821)                   | Same as GitHub                             |
+| [Devpost](https://devpost.com/mihirrabade)                    | mihirrabade                                |
 | [Newton School](https://my.newtonschool.co/user/mihirrabade/) | mihirrabade                                |
-| [Devfolio](https://devfolio.co/@MRDGH2821)                   | @MRDGH2821                                 |
-| [HackerEarth](https://www.hackerearth.com/@mihirrabade)      | @mihirrabade                               |
-| [Hackerrank](https://www.hackerrank.com/mihirrabade)         | mihirrabade                                |
+| [Devfolio](https://devfolio.co/@MRDGH2821)                    | @MRDGH2821                                 |
+| [HackerEarth](https://www.hackerearth.com/@mihirrabade)       | @mihirrabade                               |
+| [Hackerrank](https://www.hackerrank.com/mihirrabade)          | mihirrabade                                |
 
 ## Education
 
-| Site                                                         | Username     |
-| ------------------------------------------------------------ | ------------ |
-| [Khan Academy](http://www.khanacademy.org/profile/MRDGH2821) | @MRDGH2821   |
-| [Duolingo](https://www.duolingo.com/MRDGH2821)               | MRDGH2821    |
-| [BitDegree](https://www.bitdegree.org/user/mrdgh-2821/profile) | mrdgh2821    |
+| Site                                                                    | Username     |
+| ----------------------------------------------------------------------- | ------------ |
+| [Khan Academy](http://www.khanacademy.org/profile/MRDGH2821)            | @MRDGH2821   |
+| [Duolingo](https://www.duolingo.com/MRDGH2821)                          | MRDGH2821    |
+| [BitDegree](https://www.bitdegree.org/user/mrdgh-2821/profile)          | mrdgh2821    |
 | [Future Skills Nasscom Edcast](https://futureskillsnasscom.edcast.com/) | Mihir Rabade |
-| [Udemy](https://www.udemy.com/user/mrdgh-2821/)              | Mihir Rabade |
-| [Eduonix](https://www.eduonix.com/u/mrdgh-2821)              | Mihir Rabade |
-| [Edx.org](https://profile.edx.org/u/mihirrabade)             | mihirrabade  |
+| [Udemy](https://www.udemy.com/user/mrdgh-2821/)                         | Mihir Rabade |
+| [Eduonix](https://www.eduonix.com/u/mrdgh-2821)                         | Mihir Rabade |
+| [Edx.org](https://profile.edx.org/u/mihirrabade)                        | mihirrabade  |
 
 ## Forums
 
