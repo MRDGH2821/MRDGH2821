@@ -22,16 +22,16 @@ Most of the details which you find here, might feel generic to you. Actually I i
 ### Weakness
 
 - Not so Good leader
--	I am plagued with some Vices
+- I am plagued with some Vices
 
 ### Opportunities
 
--	If I am put in a leadership position along with 2 advisors, then I can overcome my weakness.
--	If I practice setting determination efficiently, I can progress a lot.
+- If I am put in a leadership position along with 2 advisors, then I can overcome my weakness.
+- If I practice setting determination efficiently, I can progress a lot.
 
 ### Challenges/Threats
 
--	I happen to lose track, which could lead me to potential loss.
+- I happen to lose track, which could lead me to potential loss.
 - I happen to find more points for SWOC on the run, instead of
 
 ### Other Aspects
