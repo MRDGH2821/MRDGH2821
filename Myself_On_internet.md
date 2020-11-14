@@ -4,7 +4,8 @@
 
 I agree I shouldn't be telling about this as it would affect my privacy. So in few cases I would just mention social media titles, not direct links.
 
-~Also wherever possible, I will put Invite link instead of my usual Username.~
+~Also wherever possible, I will put Invite link instead of my usual Username.~ <br>
+
 Invite section moved [here](/Miscellaneous/Invitations.md)
 
 Click on Site name to see my profile.
