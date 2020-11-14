@@ -45,11 +45,12 @@ Want to go back to [main page](../README.md)?
 
 ### Game related
 
-| Site                                                              | Invite/Referral Link/code                                      | Expiry Date |
-| ----------------------------------------------------------------- | -------------------------------------------------------------- | ----------- |
-| [Paradox Plaza](https://www.paradoxplaza.com/)                    | aSb\$84@AbYA5t6jf                                              | None        |
-| [OrlyGift](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4)      | [Click here](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4) | None        |
-| [Huntmar](https://www.huntmar.com/?mref=MRDG2821)                 | [Click here](https://www.huntmar.com/?mref=MRDG2821)           | None        |
-| [Free Game Lottery](https://freegamelottery.com?ref=Qdcsno)       | Qdcsno                                                         | None        |
+| Site                                                         | Invite/Referral Link/code                                    | Expiry Date |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
+| [Paradox Plaza](https://www.paradoxplaza.com/)               | aSb\$84@AbYA5t6jf                                            | None        |
+| [OrlyGift](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4) | [Click here](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4) | None        |
+| [Huntmar](https://www.huntmar.com/?mref=MRDG2821)            | [Click here](https://www.huntmar.com/?mref=MRDG2821)         | None        |
+| [Free Game Lottery](https://freegamelottery.com?ref=Qdcsno)  | Qdcsno                                                       | None        |
 | [Humble Bundle](https://www.humblebundle.com/monthly?refc=2H6nrD) | [Click here](https://www.humblebundle.com/monthly?refc=2H6nrD) | None        |
-| [GameHag](https://gamehag.com/r/6020403)                          | mrdgh2821                                                      | None        |
+| [GameHag](https://gamehag.com/r/6020403)                     | mrdgh2821                                                    | None        |
+| [Gamesbolt](https://gamesbolt.com/a/36)                      | [Click Here](https://gamesbolt.com/a/36)                     | None        |
