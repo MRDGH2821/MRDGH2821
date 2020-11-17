@@ -82,9 +82,10 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 
 ## Miscellaneous
 
-| Site                                                        | Username  | Notes                                                                                              |
-| ----------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------- |
+| Site                                                        | Username  | Notes                                                        |
+| ----------------------------------------------------------- | --------- | ------------------------------------------------------------ |
 | [Wordpress](https://mrdgh2821.wordpress.com/)               | mrdgh2821 | Accidently generated a site there. I was primarily using it for [Gravatar](https://bit.ly/36fl6Ee) |
-| [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/) | MRDGH2821 | This is a Game Store. Nothing more.                                                                |
+| [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/) | MRDGH2821 | This is a Game Store. Nothing more.                          |
+| [Itch.io](https://mrdgh2821.itch.io)                        | MRDGH2821 | This is an Indie Game store.                                 |
 
 _Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page or at [PayPal](https://paypal.me/mrdgh2821)!_
