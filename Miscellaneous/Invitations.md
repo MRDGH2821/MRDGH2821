@@ -24,6 +24,7 @@ Want to go back to [main page](../README.md)?
 | [Dropbox](https://bit.ly/3iRpD2F)                 | [Click here](https://bit.ly/3iRpD2F)                   | None        |
 | [OneDrive](https://bit.ly/38hrFra)                | [Click here](https://bit.ly/38hrFra)                   | None        |
 | [Prezi](https://prezi.com/referrals/7i4IRXlnHXzT) | [Click here](https://prezi.com/referrals/7i4IRXlnHXzT) | None        |
+| [Mega.nz](https://mega.nz/aff=xOaHpGQCMm4)        | [Click here](https://mega.nz/aff=xOaHpGQCMm4)          | None        |
 
 ### Payment apps
 
