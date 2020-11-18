@@ -32,7 +32,7 @@ _Incase you are recruiter or a company official, you may wish to proceed [here](
 - [Myself on Internet](Myself_On_internet.md)
 - [Nice Stuff on Internet](Nice_Stuff_On_Internet.md)
 - [Resume Section](Resume_Section.md)
-- Miscellaneous
+- [Miscellaneous](/Miscellaneous/README.md)
   - [Game](/Miscellaneous/Game.md)
   - [Invitations](/Miscellaneous/Invitations.md)
 - [Finance](/Finance/README.md)
