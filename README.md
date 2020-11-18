@@ -35,6 +35,7 @@ _Incase you are recruiter or a company official, you may wish to proceed [here](
 - Miscellaneous
   - [Game](/Miscellaneous/Game.md)
   - [Invitations](/Miscellaneous/Invitations.md)
+- [Finance](/Finance/README.md)
 
 ### Brief Info About myself
 
