@@ -15,18 +15,18 @@ Or you want to go back to [main page](README.md)?
 
 ## Developer/Work
 
-| Site                                                         | Username                                   |
-| ------------------------------------------------------------ | ------------------------------------------ |
-| [LinkedIn](http://bit.ly/mrdghLI)                            | Mihir Rabade                               |
-| [Heroku](https://www.heroku.com/home#)                       | N/A                                        |
-| [GitHub](https://mrdgh2821.github.io/MRDGH2821/)             | [MRDGH2821](https://github.com/MRDGH2821/) |
-| [Sourcerer](https://sourcerer.io/mrdgh2821)                  | Same as GitHub                             |
-| [Devpost](https://devpost.com/mihirrabade)                   | mihirrabade                                |
+| Site                                                          | Username                                   |
+| ------------------------------------------------------------- | ------------------------------------------ |
+| [LinkedIn](http://bit.ly/mrdghLI)                             | Mihir Rabade                               |
+| [Heroku](https://www.heroku.com/home#)                        | N/A                                        |
+| [GitHub](https://mrdgh2821.github.io/MRDGH2821/)              | [MRDGH2821](https://github.com/MRDGH2821/) |
+| [Sourcerer](https://sourcerer.io/mrdgh2821)                   | Same as GitHub                             |
+| [Devpost](https://devpost.com/mihirrabade)                    | mihirrabade                                |
 | [Newton School](https://my.newtonschool.co/user/mihirrabade/) | mihirrabade                                |
-| [Devfolio](https://devfolio.co/@MRDGH2821)                   | @MRDGH2821                                 |
-| [HackerEarth](https://www.hackerearth.com/@mihirrabade)      | @mihirrabade                               |
-| [Hackerrank](https://www.hackerrank.com/mihirrabade)         | mihirrabade                                |
-| [Medium](https://medium.com/@mihirrabade)                    | @mihirrabade                               |
+| [Devfolio](https://devfolio.co/@MRDGH2821)                    | @MRDGH2821                                 |
+| [HackerEarth](https://www.hackerearth.com/@mihirrabade)       | @mihirrabade                               |
+| [Hackerrank](https://www.hackerrank.com/mihirrabade)          | mihirrabade                                |
+| [Medium](https://medium.com/@mihirrabade)                     | @mihirrabade                               |
 
 ## Education
 
@@ -82,10 +82,10 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 
 ## Miscellaneous
 
-| Site                                                        | Username  | Notes                                                        |
-| ----------------------------------------------------------- | --------- | ------------------------------------------------------------ |
+| Site                                                        | Username  | Notes                                                                                              |
+| ----------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------- |
 | [Wordpress](https://mrdgh2821.wordpress.com/)               | mrdgh2821 | Accidently generated a site there. I was primarily using it for [Gravatar](https://bit.ly/36fl6Ee) |
-| [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/) | MRDGH2821 | This is a Game Store. Nothing more.                          |
-| [Itch.io](https://mrdgh2821.itch.io)                        | MRDGH2821 | This is an Indie Game store.                                 |
+| [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/) | MRDGH2821 | This is a Game Store. Nothing more.                                                                |
+| [Itch.io](https://mrdgh2821.itch.io)                        | MRDGH2821 | This is an Indie Game store.                                                                       |
 
 _Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page or at [PayPal](https://paypal.me/mrdgh2821)!_
