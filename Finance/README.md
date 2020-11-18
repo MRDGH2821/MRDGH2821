@@ -2,13 +2,16 @@
 
 Here you can find various payment gateways, to fund me. Or pay for some specific stuff.
 
-All my payment gateways - https://photos.app.goo.gl/XR3bAao6nU3rn9go6
+All my payment gateways - [https://photos.app.goo.gl/XR3bAao6nU3rn9go6](https://photos.app.goo.gl/XR3bAao6nU3rn9go6)
 
 ## UPI Platform
 
+It is best if you view this section as a [Website](https://mrdgh2821.github.io/MRDGH2821/Finance/) rather than as a Repo.
+Viewing the website in mobile will provide best experience. Because UPI apps are available only for mobile not for desktop/laptop, tapping/clicking on the "click here" button will straight away open your UPI app.
+
 ### Amazon UPI
 
-![Amazon UPI QR Code](https://lh3.googleusercontent.com/pw/ACtC-3d1NdT4eg2x8eddnSrMtiYezYg6NfmbrGQ54u_Zq71LWnLnsD4UkgeKRtyz61MfXSf7INBEVNYIsJ0qhdCMUZnPGXISUsbt7qRVuli1Os62hOOp-K5EklvviPqFuWz5-0uO3YrO6Z-W3uhe2A28XvFbBQ=w723-h903-no?authuser=0)
+[![Amazon UPI QR Code](https://lh3.googleusercontent.com/pw/ACtC-3d1NdT4eg2x8eddnSrMtiYezYg6NfmbrGQ54u_Zq71LWnLnsD4UkgeKRtyz61MfXSf7INBEVNYIsJ0qhdCMUZnPGXISUsbt7qRVuli1Os62hOOp-K5EklvviPqFuWz5-0uO3YrO6Z-W3uhe2A28XvFbBQ=w723-h903-no?authuser=0)](upi://pay?pa=mrdgh2821@apl&pn=MIHIR RABADE)
 
 Or [Click Here](upi://pay?pa=mrdgh2821@apl&pn=MIHIR RABADE)
 
