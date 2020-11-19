@@ -49,7 +49,7 @@ Want to go back to [main page](../README.md)?
 
 | Site                                                              | Invite/Referral Link/code                                      | Expiry Date/Notes                          |
 | ----------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ |
-| [Paradox Plaza](https://www.paradoxplaza.com/)                    | aSb\$84@AbYA5t6jf                                             | There is single slash not multiple slashes |
+| [Paradox Plaza](https://www.paradoxplaza.com/)                    | aSb\$84@AbYA5t6jf                                              | There is single slash not multiple slashes |
 | [OrlyGift](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4)      | [Click here](https://www.orlygift.com/invite/8PrjXnlvkr4KWAz4) | None                                       |
 | [Huntmar](https://www.huntmar.com/?mref=MRDG2821)                 | [Click here](https://www.huntmar.com/?mref=MRDG2821)           | None                                       |
 | [Free Game Lottery](https://freegamelottery.com?ref=Qdcsno)       | Qdcsno                                                         | None                                       |
