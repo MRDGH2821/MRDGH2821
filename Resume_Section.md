@@ -11,34 +11,36 @@ Most of the details which you find here, might feel generic to you. Actually I i
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="mihir-rabade"><a class="LI-simple-link" href='https://in.linkedin.com/in/mihir-rabade?trk=profile-badge'>Mihir Rabade</a></div>
+
 ## SWOCT Analysis of Myself
 
 ### Strengths
 
-- Good Organizational skills
-- Strong Integrity & Moral ethics
-- Good knowledge of Technology Gimmicks
-- A Good follower
-- I Adjust, I Adapt, I Upgrade
+-   Good Organizational skills
+-   Strong Integrity & Moral ethics
+-   Good knowledge of Technology Gimmicks
+-   A Good follower
+-   I Adjust, I Adapt, I Upgrade
 
 ### Weakness
 
-- Not so Good leader
-- I am plagued with some Vices
+-   Not so Good leader
+-   I am plagued with some Vices
 
 ### Opportunities
 
-- If I am put in a leadership position along with 2 advisors, then I can overcome my weakness.
-- If I practice setting determination efficiently, I can progress a lot.
+-   If I am put in a leadership position along with 2 advisors, then I can overcome my weakness.
+-   If I practice setting determination efficiently, I can progress a lot.
 
 ### Challenges/Threats
 
-- I happen to lose track, which could lead me to potential loss.
-- I happen to find more points for SWOC on the run, instead of
+-   I happen to lose track, which could lead me to potential loss.
+-   I happen to find more points for SWOC on the run, instead of
 
 ### Other Aspects
 
-- I'm Introvert
+-   I'm Introvert
 
 ## Certificates
 
