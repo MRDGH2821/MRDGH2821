@@ -13,19 +13,19 @@ Or you want to go back to [main page](README.md)?
 
 ## Developer/Work
 
-| Site                                                         | Username                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://bit.ly/mrdghLI) | Mihir Rabade                                                 |
-| [![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/home#) | N/A                                                          |
-| [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://mrdgh2821.github.io/MRDGH2821/) | [MRDGH2821](https://github.com/MRDGH2821/)                   |
-| [![HackerEarth](https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@mihirrabade) | @mihirrabade                                                 |
-| [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mihirrabade) | mihirrabade                                                  |
-| [![Medium](https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mihirrabade) | @mihirrabade                                                 |
-| [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12562197/mrdgh-2821) | MRDGH 2821                                                   |
-| [![Sourcerer](https://img.shields.io/badge/Sourcerer%20-%2300E7AA.svg?&style=for-the-badge&logo=Sourcerer&logoColor=white)](https://sourcerer.io/mrdgh2821) | [   ](https://stackoverflow.com/users/12562197/mrdgh-2821)Same as GitHub |
-| [![Devpost](https://img.shields.io/badge/Devpost%20-%23003E54.svg?&style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/mihirrabade) | mihirrabade                                                  |
-| [![Newton School](https://img.shields.io/badge/Newton%20School%20-%23719DE6.svg?&style=for-the-badge&logo=Newton%20School&logoColor=56CAD1)](https://my.newtonschool.co/user/mihirrabade/) | mihirrabade                                                  |
-| [![Devfolio](https://img.shields.io/badge/Devfolio%20-%233770FF.svg?&style=for-the-badge&logo=Devfolio&logoColor=white)](https://devfolio.co/@MRDGH2821) | @MRDGH2821                                                   |
+| Site                                                         | Username                                   |
+| ------------------------------------------------------------ | ------------------------------------------ |
+| [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://bit.ly/mrdghLI) | Mihir Rabade                               |
+| [![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/home#) | N/A                                        |
+| [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://mrdgh2821.github.io/MRDGH2821/) | [MRDGH2821](https://github.com/MRDGH2821/) |
+| [![HackerEarth](https://img.shields.io/badge/HackerEarth%20-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@mihirrabade) | @mihirrabade                               |
+| [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mihirrabade) | mihirrabade                                |
+| [![Medium](https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@mihirrabade) | @mihirrabade                               |
+| [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12562197/mrdgh-2821) | MRDGH 2821                                 |
+| [![Sourcerer](https://img.shields.io/badge/Sourcerer%20-%2300E7AA.svg?&style=for-the-badge&logo=Sourcerer&logoColor=white)](https://sourcerer.io/mrdgh2821) | Same as GitHub                             |
+| [![Devpost](https://img.shields.io/badge/Devpost%20-%23003E54.svg?&style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/mihirrabade) | mihirrabade                                |
+| [![Newton School](https://img.shields.io/badge/Newton%20School%20-%23719DE6.svg?&style=for-the-badge&logo=Newton%20School&logoColor=56CAD1)](https://my.newtonschool.co/user/mihirrabade/) | mihirrabade                                |
+| [![Devfolio](https://img.shields.io/badge/Devfolio%20-%233770FF.svg?&style=for-the-badge&logo=Devfolio&logoColor=white)](https://devfolio.co/@MRDGH2821) | @MRDGH2821                                 |
 
 ## Education
 
