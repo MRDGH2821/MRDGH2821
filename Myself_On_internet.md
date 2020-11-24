@@ -15,18 +15,18 @@ Or you want to go back to [main page](README.md)?
 
 ## Developer/Work
 
-| Site                                                          | Username                                   |
-| ------------------------------------------------------------- | ------------------------------------------ |
-| [LinkedIn](http://bit.ly/mrdghLI)                             | Mihir Rabade                               |
-| [Heroku](https://www.heroku.com/home#)                        | N/A                                        |
-| [GitHub](https://mrdgh2821.github.io/MRDGH2821/)              | [MRDGH2821](https://github.com/MRDGH2821/) |
-| [Sourcerer](https://sourcerer.io/mrdgh2821)                   | Same as GitHub                             |
-| [Devpost](https://devpost.com/mihirrabade)                    | mihirrabade                                |
-| [Newton School](https://my.newtonschool.co/user/mihirrabade/) | mihirrabade                                |
-| [Devfolio](https://devfolio.co/@MRDGH2821)                    | @MRDGH2821                                 |
-| [HackerEarth](https://www.hackerearth.com/@mihirrabade)       | @mihirrabade                               |
-| [Hackerrank](https://www.hackerrank.com/mihirrabade)          | mihirrabade                                |
-| [Medium](https://medium.com/@mihirrabade)                     | @mihirrabade                               |
+| Site                                                                                                                                                          | Username                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](http://bit.ly/mrdghLI)               | Mihir Rabade                               |
+| [<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>](https://www.heroku.com/home#)            | N/A                                        |
+| [ <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://mrdgh2821.github.io/MRDGH2821/) | [MRDGH2821](https://github.com/MRDGH2821/) |
+| [Sourcerer](https://sourcerer.io/mrdgh2821)                                                                                                                   | Same as GitHub                             |
+| [Devpost](https://devpost.com/mihirrabade)                                                                                                                    | mihirrabade                                |
+| [Newton School](https://my.newtonschool.co/user/mihirrabade/)                                                                                                 | mihirrabade                                |
+| [Devfolio](https://devfolio.co/@MRDGH2821)                                                                                                                    | @MRDGH2821                                 |
+| [HackerEarth](https://www.hackerearth.com/@mihirrabade)                                                                                                       | @mihirrabade                               |
+| [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/mihirrabade)    | mihirrabade                                |
+| [Medium](https://medium.com/@mihirrabade)                                                                                                                     | @mihirrabade                               |
 
 ## Education
 
@@ -62,23 +62,31 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 
 ## Social
 
-| Site                                               | Username     |
-| -------------------------------------------------- | ------------ |
-| [Youtube](http://bit.ly/YTmrdgh)                   | MRDGH 2821   |
-| [Twitter](http://bit.ly/mrdghtw)                   | @MihirRabade |
-| [Pintrest](https://www.pinterest.com/mihirrabade/) | @mihirrabade |
-| [Instagram](http://bit.ly/mrdghig)                 | mrdgh2821    |
-| [Facebook](http://bit.ly/mrdghfb)                  | MRDG2821     |
+| Site                                                                                                                                               | Username     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [<img src="https://img.shields.io/badge/MRDGH%202821%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](http://bit.ly/YTmrdgh) | MRDGH 2821   |
+| [<img src="https://img.shields.io/badge/@MihirRabade%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](http://bit.ly/mrdghtw) | @MihirRabade |
+| [Pintrest](https://www.pinterest.com/mihirrabade/)                                                                                                 | @mihirrabade |
+| [<img src="https://img.shields.io/badge/mrdgh2821%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](http://bit.ly/mrdghig)  | mrdgh2821    |
+| [Facebook](http://bit.ly/mrdghfb)                                                                                                                  | MRDG2821     |
+
+| Site                                                                                                                                               | Username     |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [![YouTube](https://img.shields.io/badge/MRDGH%202821%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](http://bit.ly/YTmrdgh)  | MRDGH 2821   |
+| [![Twitter](https://img.shields.io/badge/@MihirRabade%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](http://bit.ly/mrdghtw)  | @MihirRabade |
+| [Pintrest](https://www.pinterest.com/mihirrabade/)                                                                                                 | @mihirrabade |
+| [![Instagram](https://img.shields.io/badge/mrdgh2821%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](http://bit.ly/mrdghig) | mrdgh2821    |
+| [Facebook](http://bit.ly/mrdghfb)                                                                                                                  | MRDG2821     |
 
 ## Gamer ID
 
-| Site                                                | Gamer ID  |
-| --------------------------------------------------- | --------- |
-| [Ubisoft](https://club.ubisoft.com/en-US/)          | MRdGH2821 |
-| [PSN](https://my.playstation.com/profile/MRDGH2821) | MRDGH2821 |
-| Square Enix                                         | MRDGH2821 |
-| nVIDIA                                              | MRDGH2821 |
-| [Steam](http://bit.ly/mrdghSTEAM)                   | MRDG2821  |
+| Site                                                                                                                                         | Gamer ID  |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Ubisoft](https://club.ubisoft.com/en-US/)                                                                                                   | MRdGH2821 |
+| [PSN](https://my.playstation.com/profile/MRDGH2821)                                                                                          | MRDGH2821 |
+| Square Enix                                                                                                                                  | MRDGH2821 |
+| nVIDIA                                                                                                                                       | MRDGH2821 |
+| [<img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>](http://bit.ly/mrdghSTEAM) | MRDG2821  |
 
 ## Miscellaneous
 

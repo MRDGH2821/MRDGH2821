@@ -9,10 +9,6 @@ Click [here](README.md) to go back to main page.
 Respected Sir/Madam,
 Most of the details which you find here, might feel generic to you. Actually I intend to keep it that way, at the same time I will put links to Resume made Specifically for your company. This document can be said as template for my Resume.
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="mihir-rabade"><a class="LI-simple-link" href='https://in.linkedin.com/in/mihir-rabade?trk=profile-badge'>Mihir Rabade</a></div>
-
 ## SWOCT Analysis of Myself
 
 ### Strengths
@@ -47,3 +43,7 @@ Most of the details which you find here, might feel generic to you. Actually I i
 With Due respect, please head over to this [link](https://bit.ly/2HO5GwO) or this [one](https://1drv.ms/u/s!AqbOAR5ggpjcgcVQxXjLoGFA-TaG8w?e=woTWb5) to see all my certificates.
 
 You may also visit my [LinkedIn profile](http://bit.ly/mrdghLI) to see all the certificates at one glance. I strictly put individual links to all the certificates over there.
+
+## Programming Skills
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>     
