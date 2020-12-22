@@ -8,7 +8,7 @@ QR Codes to my payment gateways - <https://photos.app.goo.gl/XR3bAao6nU3rn9go6>
 
 ## PayPal
 
-Click on the link to pay [paypal.me/mrdgh2821](https://www.paypal.me/mrdgh2821)
+Click on the link to pay [paypal.me/mrdgh2821](https://www.paypal.me/mrdgh2821) <br>
 Or contact me on [LinkedIn](http://bit.ly/mrdghLI) or any of my [social profiles](../Myself_On_internet.md)
 
 ## Skrill
