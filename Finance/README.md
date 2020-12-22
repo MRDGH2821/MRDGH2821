@@ -2,16 +2,18 @@
 
 Here you can find various payment gateways, to fund me. Or pay for some specific stuff.
 
+Please mention the purpose of payment while paying to avoid confusion.
+
 QR Codes to my payment gateways - <https://photos.app.goo.gl/XR3bAao6nU3rn9go6>
 
 ## PayPal
 
 Click on the link to pay [paypal.me/mrdgh2821](https://www.paypal.me/mrdgh2821)
-Or Search - mihirrabade@gmail.com
+Or contact me on [LinkedIn](http://bit.ly/mrdghLI) or any of my [social profiles](../Myself_On_internet.md)
 
 ## Skrill
 
-Search mihirrabade@gmail.com to pay.
+Contact me on [LinkedIn](http://bit.ly/mrdghLI) or any of my [social profiles](../Myself_On_internet.md)
 
 ## Patreon
 
