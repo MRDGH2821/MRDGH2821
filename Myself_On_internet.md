@@ -5,11 +5,13 @@ I agree I shouldn't be telling about this as it would affect my privacy. So in f
 <strike>Also wherever possible, I will put Invite link instead of my usual Username.</strike>
 Invite section moved [here](/Miscellaneous/Invitations.md)
 
-Click on Site name to see my profile.
+Click on Site name/logo to see my profile.
 
 You might want to check out some [nice stuff which I found on internet!](Nice_Stuff_On_Internet.md)
 
 Or you want to go back to [main page](README.md)?
+
+You may email as well - askmihirrabade@outlook.in
 
 ## Developer/Work
 
