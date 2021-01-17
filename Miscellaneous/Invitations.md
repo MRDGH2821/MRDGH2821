@@ -7,9 +7,10 @@ Want to go back to [main page](../README.md)?
 
 ### Developer
 
-| Site                                                                                                                                                      | Invite/Referral Link/code                       | Expiry Date |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------- |
-| [<img src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>](https://repl.it/upgrade/MRDGH2821) | [Click Here](https://repl.it/upgrade/MRDGH2821) | None        |
+| Site                                                         | Invite/Referral Link/code                               | Expiry Date |
+| ------------------------------------------------------------ | ------------------------------------------------------- | ----------- |
+| [<img src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>](https://repl.it/upgrade/MRDGH2821) | [Click Here](https://repl.it/upgrade/MRDGH2821)         | None        |
+| [<img src="https://img.shields.io/badge/GitKraken%20-%23141422.svg?&style=for-the-badge&logo=GitKraken&logoColor=179287"/>](https://www.gitkraken.com/invite/dHrBfYHa) | [Click Here](https://www.gitkraken.com/invite/dHrBfYHa) | None        |
 
 ### Productivity & Work
 
