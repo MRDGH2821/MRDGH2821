@@ -27,6 +27,7 @@ You Might want to visit My online [Profiles](Myself_On_internet.md) or you want 
 | [EBooks Repo](http://bit.ly/EBOOKSbyRAaETH)                                                        | N/A        | Ebooks by my [friend](https://github.com/RootAndroid58)                       |
 | [Saatvik Recipes](https://bit.ly/recipemaster)                                                     | N/A        | An excel sheet containing Saatvik Recipes + a video on how to use it          |
 | [Free Quantum Computing Course](https://www.qubitbyqubit.org/programs)                             | 17-10-2020 | You can still apply for it                                                    |
+| [Practical Applications of Data Structures and Algorithms](http://bit.ly/2PySIH3) | N/A | A nice material for interview preparation|
 
 ## Other stuff I found useful
 
