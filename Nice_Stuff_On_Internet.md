@@ -27,19 +27,19 @@ You Might want to visit My online [Profiles](Myself_On_internet.md) or you want 
 | [EBooks Repo](http://bit.ly/EBOOKSbyRAaETH)                                                        | N/A        | Ebooks by my [friend](https://github.com/RootAndroid58)                       |
 | [Saatvik Recipes](https://bit.ly/recipemaster)                                                     | N/A        | An excel sheet containing Saatvik Recipes + a video on how to use it          |
 | [Free Quantum Computing Course](https://www.qubitbyqubit.org/programs)                             | 17-10-2020 | You can still apply for it                                                    |
-| [Practical Applications of Data Structures and Algorithms](http://bit.ly/2PySIH3) | N/A | A nice material for interview preparation|
+| [Practical Applications of Data Structures and Algorithms](http://bit.ly/2PySIH3)                  | N/A        | A nice material for interview preparation                                     |
 
 ## Other stuff I found useful
 
 This is how I got knowledge of tech. Subscribe for their Newsletter!
 
-| Site                                                         | Notes                                    |
-| ------------------------------------------------------------ | ---------------------------------------- |
-| [MakeUseOf.com](https://www.makeuseof.com/subscribe/)        | Newsletter                               |
-| [HowToGeek.com](https://www.howtogeek.com/)                  | Newsletter                               |
+| Site                                                                                  | Notes                                    |
+| ------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [MakeUseOf.com](https://www.makeuseof.com/subscribe/)                                 | Newsletter                               |
+| [HowToGeek.com](https://www.howtogeek.com/)                                           | Newsletter                               |
 | [These Are Reddit's Most Popular 'Life Pro Tips' of All Time](https://bit.ly/3dUAjww) | Lifehacks                                |
-| [25 Insanely Useful Websites That'll Come in Handy Someday](https://bit.ly/2Tf5JE7) | Useful websites                          |
-| [Press in Dire situations](http://nooooooooooooooo.com/)     | Star wars edition of saying Nooooooo     |
-| [Water Jug problem](https://bit.ly/39JH6sb)                  | Explains how to solve water jug problems |
+| [25 Insanely Useful Websites That'll Come in Handy Someday](https://bit.ly/2Tf5JE7)   | Useful websites                          |
+| [Press in Dire situations](http://nooooooooooooooo.com/)                              | Star wars edition of saying Nooooooo     |
+| [Water Jug problem](https://bit.ly/39JH6sb)                                           | Explains how to solve water jug problems |
 
 _Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page or at [PayPal](https://paypal.me/mrdgh2821)!_
