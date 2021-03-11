@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 [![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRDGH2821&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=MRDGH2821)](https://github.com/LordDashMe/github-contribution-stats/)
+
+
 _Incase you came from Instagram or any Social media click [here](Nice_Stuff_On_Internet.md) or [here](Myself_On_internet.md)_
 
 _Incase you are recruiter or a company official, you may wish to proceed [here](Resume_Section.md)_
