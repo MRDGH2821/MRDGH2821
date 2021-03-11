@@ -17,18 +17,17 @@ Here are some ideas to get you started:
 - 🌐 Here's some nice stuff I [found](Nice_Stuff_On_Internet.md) on internet
 - 📔 You can view this repo as [Website](https://bit.ly/mrdgh2821) or as [repo page](https://github.com/MRDGH2821/MRDGH2821)
 
-[![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRDGH2821&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=MRDGH2821)](https://github.com/LordDashMe/github-contribution-stats/)
-
-
 _Incase you came from Instagram or any Social media click [here](Nice_Stuff_On_Internet.md) or [here](Myself_On_internet.md)_
 
 _Incase you are recruiter or a company official, you may wish to proceed [here](Resume_Section.md)_
 
-### GitHub Trophies!
+### My overall Contribution at GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MRDGH2821&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRDGH2821&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=MRDGH2821)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ### Site Map
 
