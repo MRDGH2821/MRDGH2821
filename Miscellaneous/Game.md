@@ -39,6 +39,7 @@ Want to go back to [main page](../README.md)?
 | [Celeste](https://www.epicgames.com/store/en-US/product/celeste/home)                                                     | ✅                      | ⚠                   |
 | [Kingdom New Lands](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)                                 | ✅                      | ⚠                   |
 | [Totally Accurate Battle Simulator](https://www.epicgames.com/store/en-US/product/totally-accurate-battle-simulator/home) | ✅                      | ⬛                  |
+| [Assassin's Creed Odyssey](https://www.epicgames.com/store/en-US/p/assassins-creed-odyssey)                               | ✅ 24-03-2021           | ✅ 15-03-2021       |
 
 ### GOG
 
