@@ -52,7 +52,7 @@ Want to go back to [main page](../README.md)?
 
 | Game Name                                                                                                              | Main Campaign Complete? | All DLCs Complete ? |
 | ---------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------- |
-| [The Witcher® 3: Wild Hunt GOTY](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)                   | ✅                      | ❌                  |
+| [The Witcher® 3: Wild Hunt GOTY](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)                   | ✅                      | ✅ 09-05-2021                  |
 | [Anomaly Game Collection](https://store.steampowered.com/bundle/4678/Anomaly_Game_Collection/)                         | ✅ 14-07-2020           | ⚠                   |
 | [Another Perspective](https://store.steampowered.com/app/305920/Another_Perspective/)                                  | ✅ 10-07-2020           | ⚠                   |
 | [Bayonetta](https://store.steampowered.com/app/460790/Bayonetta/)                                                      | ✅                      | ⚠                   |
