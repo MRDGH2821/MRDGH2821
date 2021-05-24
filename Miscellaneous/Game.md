@@ -67,3 +67,4 @@ Want to go back to [main page](../README.md)?
 | [Sprout](https://store.steampowered.com/app/758530/Sprout/)                                                            | ✅ 24-05-2018           | ⚠                   |
 | [A Story About My Uncle](https://store.steampowered.com/app/278360/A_Story_About_My_Uncle/)                            | ✅ 1-08-2020            | ⚠                   |
 | [Tomb Raider](https://store.steampowered.com/app/203160/Tomb_Raider/)                                                  | ✅ 20-07-2020           | ✅                  |
+| [ Shadow of Tomb Raider](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/) | ✅ 23-05-2021 |❌|
