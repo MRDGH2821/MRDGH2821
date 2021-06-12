@@ -15,9 +15,9 @@ Or contact me on [LinkedIn](http://bit.ly/mrdghLI) or any of my [social profiles
 
 Contact me on [LinkedIn](http://bit.ly/mrdghLI) or any of my [social profiles](../Myself_On_internet.md)
 
-## Patreon
+## Kofi
 
-Click on the link to pay [www.patreon.com/mrdgh2821](https://www.patreon.com/mrdgh2821)
+Click on the link to pay [ko-fi.com/mrdgh2821](https://ko-fi.com/mrdgh2821)
 
 ## Paytm All In One QR Code
 
