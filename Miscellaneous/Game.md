@@ -68,3 +68,4 @@ Want to go back to [main page](../README.md)?
 | [A Story About My Uncle](https://store.steampowered.com/app/278360/A_Story_About_My_Uncle/)                            | ✅ 1-08-2020            | ⚠                   |
 | [Tomb Raider](https://store.steampowered.com/app/203160/Tomb_Raider/)                                                  | ✅ 20-07-2020           | ✅                  |
 | [ Shadow of Tomb Raider](https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/) | ✅ 23-05-2021 |❌|
+| [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/) | ✅ 22-06-2021 |❌|
