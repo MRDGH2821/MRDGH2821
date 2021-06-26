@@ -42,4 +42,4 @@ This is how I got knowledge of tech. Subscribe for their Newsletter!
 | [Press in Dire situations](http://nooooooooooooooo.com/)                              | Star wars edition of saying Nooooooo     |
 | [Water Jug problem](https://bit.ly/39JH6sb)                                           | Explains how to solve water jug problems |
 
-_Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page or at [PayPal](https://paypal.me/mrdgh2821)!_
+_Incase you feel Generous, please support me [here](../Finance/README.md)!_

@@ -13,7 +13,8 @@ Or contact me on [LinkedIn](http://bit.ly/mrdghLI) or any of my [social profiles
 
 ## Kofi
 
-Click on the link to pay [ko-fi.com/mrdgh2821](https://ko-fi.com/mrdgh2821)
+Click on the link/image to pay [ko-fi.com/mrdgh2821](https://ko-fi.com/mrdgh2821)<br>
+<a href='https://ko-fi.com/W7W44Y3KY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Paytm All In One QR Code
 
