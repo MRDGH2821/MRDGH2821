@@ -48,7 +48,6 @@ You may email as well - askmihirrabade@outlook.in
 | [![XDA Developers](https://img.shields.io/badge/XDA-Developers%20-%23AC6E2F.svg?&style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://forum.xda-developers.com/member.php?u=6224863) | amihir                                       |
 | [![OnePlus](https://img.shields.io/badge/OnePlus%20-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white)](https://forums.oneplus.com/members/mrdh2000.1474463/)                       | MRdH2000                                     |
 | [![Reddit](https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/amihir)                                            | [amihir](https://www.reddit.com/r/MRDC2821/) |
-| [![Quora](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Mihir-Rabade)                                       | Mihir Rabade                                 |
 | [![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange%20-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/17341742/mrdgh-2821)  | MRDGH 2821                                   |
 | [![IEEE](https://img.shields.io/badge/IEEE%20-%23006699.svg?&style=for-the-badge&logo=IEEE&logoColor=white)](http://www.ieee.org/)                                                                | Member number: 95237574                      |
 
@@ -67,9 +66,7 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 | Site                                                                                                                                                                   | Username       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | [![YouTube](https://img.shields.io/badge/MRDGH%202821%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](http://bit.ly/YTmrdgh)                      | MRDGH 2821     |
-| [![Twitter](https://img.shields.io/badge/@MihirRabade%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](http://bit.ly/mrdghtw)                      | @MihirRabade   |
 | [![Pinterest](https://img.shields.io/badge/@mihirrabade%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/mihirrabade/) | @mihirrabade   |
-| [![Instagram](https://img.shields.io/badge/mrdgh2821%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](http://bit.ly/mrdghig)                     | mrdgh2821      |
 | [![Facebook](https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](http://bit.ly/mrdghfb)                        | MRDG2821       |
 | [![Twitch](https://img.shields.io/badge/mrdgh2821%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/mrdgh2821)                 | mrdgh2821      |
 | ![MRDGH’s Lair](https://img.shields.io/badge/MRDGH's%20Lair%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)                                        | MRDGH2821#4398 |
@@ -95,5 +92,3 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 | [![WordPress](https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white)](https://mrdgh2821.wordpress.com/) | mrdgh2821 | Accidently generated a site there. I was primarily using it for [Gravatar](https://bit.ly/36fl6Ee) |
 | [![Itch.io](https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white)](https://mrdgh2821.itch.io)                 | MRDGH2821 | This is an Indie Game store.                                                                       |
 | [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/)                                                                                                   | MRDGH2821 | This is a Game Store. Nothing more.                                                                |
-
-_Incase you feel Generous, please support me at my [Patreon](https://www.patreon.com/mrdgh2821) page or at [PayPal](https://paypal.me/mrdgh2821)!_
