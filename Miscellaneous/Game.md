@@ -71,4 +71,4 @@ Want to go back to [main page](../README.md)?
 | [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)                                              | ✅ 22-06-2021            | ❌                   |
 | [BioShock Remastered](https://store.steampowered.com/app/409710/BioShock_Remastered/)                                  | ✅ 26-06-2021            | ⚠                   |
 | [Bioshock 2 Remastered](https://store.steampowered.com/app/409720/BioShock_2_Remastered/)                              | ✅ 29-06-2021            | ✅ 04-07-2021        |
-| [Bioshock Infinite](https://store.steampowered.com/app/8870/BioShock_Infinite/)                                        | ✅ 07-07-2021            | ❌                   |
+| [Bioshock Infinite](https://store.steampowered.com/app/8870/BioShock_Infinite/)                                        | ✅ 07-07-2021            | ✅ 08-07-2021        |
