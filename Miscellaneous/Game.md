@@ -40,6 +40,7 @@ Want to go back to [main page](../README.md)?
 | [Kingdom New Lands](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)                                 | ✅                       | ⚠                   |
 | [Totally Accurate Battle Simulator](https://www.epicgames.com/store/en-US/product/totally-accurate-battle-simulator/home) | ✅                       | ⬛                   |
 | [Assassin's Creed Odyssey](https://www.epicgames.com/store/en-US/p/assassins-creed-odyssey)                               | ✅ 24-03-2021            | ✅ 15-03-2021        |
+| [Assassin's Creed 3 Remastered](https://www.epicgames.com/store/en-US/p/assassins-creed-3)                                | ✅ 15-07-2021            | ❌                   |
 
 ### GOG
 
@@ -72,3 +73,4 @@ Want to go back to [main page](../README.md)?
 | [BioShock Remastered](https://store.steampowered.com/app/409710/BioShock_Remastered/)                                  | ✅ 26-06-2021            | ⚠                   |
 | [Bioshock 2 Remastered](https://store.steampowered.com/app/409720/BioShock_2_Remastered/)                              | ✅ 29-06-2021            | ✅ 04-07-2021        |
 | [Bioshock Infinite](https://store.steampowered.com/app/8870/BioShock_Infinite/)                                        | ✅ 07-07-2021            | ✅ 08-07-2021        |
+| [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                                                    | ✅ 11-07-2021            | ⚠                   |
