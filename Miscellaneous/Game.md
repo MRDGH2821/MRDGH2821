@@ -73,4 +73,14 @@ Want to go back to [main page](../README.md)?
 | [BioShock Remastered](https://store.steampowered.com/app/409710/BioShock_Remastered/)                                  | ✅ 26-06-2021            | ⚠                   |
 | [Bioshock 2 Remastered](https://store.steampowered.com/app/409720/BioShock_2_Remastered/)                              | ✅ 29-06-2021            | ✅ 04-07-2021        |
 | [Bioshock Infinite](https://store.steampowered.com/app/8870/BioShock_Infinite/)                                        | ✅ 07-07-2021            | ✅ 08-07-2021        |
-| [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                                                    | ✅ 11-07-2021            | ⚠                   |
+| [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                                                    | ✅ 11-07-2021            | ⬛                  |
+
+
+### Unofficial
+(In other words, cracked games. I think they too deserve attention. Those are also great games. By default I will mention the official links. Else EGS or Steam Links if possible. But in no way i will be mentioning any crack links. Game Developers also need to earn money. I didn't have any hence I resorted to cracks.)
+
+
+| Game Name            | Main Campaign Complete? | All DLCs Complete ? | Alternate link |
+|----------------------|-------------------------|----------------------|---------------|
+| [Haven](http://www.thegamebakers.com/haven/) |  ✅ 03-08-2021 | ⚠ | [EGS](https://www.epicgames.com/store/en-US/p/haven) |
+
