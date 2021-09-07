@@ -15,14 +15,12 @@ Most of the details which you find here, might feel generic to you. Actually I i
 
 - Good Organizational skills
 - Strong Integrity & Moral ethics
-- Good knowledge of Technology Gimmicks
 - A Good follower
 - I Adjust, I Adapt, I Upgrade
 
 ### Weakness
 
 - Not so Good leader
-- I am plagued with some Vices
 
 ### Opportunities
 
@@ -32,11 +30,12 @@ Most of the details which you find here, might feel generic to you. Actually I i
 ### Challenges/Threats
 
 - I happen to lose track, which could lead me to potential loss.
-- I happen to find more points for SWOC on the run, instead of
+- I happen to find more points for SWOC on the run, instead of thinking about it while sitting at one place.
 
 ### Other Aspects
 
 - I'm Introvert
+- Good knowledge of Technology Gimmicks
 
 ## Certificates
 
@@ -49,3 +48,14 @@ You may also visit my [LinkedIn profile](http://bit.ly/mrdghLI) to see all the c
 ### Programming Skills
 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+
+### Professional Skills
+
+- Teamwork
+- Organisational Skill
+- Creativity
+- Proactivity
+
+# Resumes/CV for Companies
+
+[Ubisoft](https://www.canva.com/design/DAEpUv_TfEE/PSCdquyebRkXgl6dSbqbeg/view?utm_content=DAEpUv_TfEE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
