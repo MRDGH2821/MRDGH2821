@@ -24,8 +24,8 @@ Want to go back to [main page](../README.md)?
 
 ### Epic Games Store
 
-| Game Name                                                                                                                 | Main Campaign Complete? | All DLCs Complete ?  |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------  |
+| Game Name                                                                                                                 | Main Campaign Complete? | All DLCs Complete ? |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------- |
 | [Moonlighter](https://www.epicgames.com/store/en-US/product/moonlighter/home)                                             | ✅ 21-09-2020           | ⬛                  |
 | [Control](https://www.epicgames.com/store/en-US/product/control/home)                                                     | ✅                      | ✅ 30-09-2020       |
 | [Alan Wake's American Nightmare](https://www.epicgames.com/store/en-US/product/alan-wake-american-nightmare/home)         | ✅                      | ⚠                   |
