@@ -24,8 +24,8 @@ Want to go back to [main page](../README.md)?
 
 ### Epic Games Store
 
-| Game Name                                                                                                                 | Main Campaign Complete? | All DLCs Complete ? |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------- |
+| Game Name                                                                                                                 | Main Campaign Complete? | All DLCs Complete ?  |
+| ------------------------------------------------------------------------------------------------------------------------- | ----------------------- | -------------------  |
 | [Moonlighter](https://www.epicgames.com/store/en-US/product/moonlighter/home)                                             | ✅ 21-09-2020           | ⬛                  |
 | [Control](https://www.epicgames.com/store/en-US/product/control/home)                                                     | ✅                      | ✅ 30-09-2020       |
 | [Alan Wake's American Nightmare](https://www.epicgames.com/store/en-US/product/alan-wake-american-nightmare/home)         | ✅                      | ⚠                   |
@@ -42,6 +42,7 @@ Want to go back to [main page](../README.md)?
 | [Assassin's Creed Odyssey](https://www.epicgames.com/store/en-US/p/assassins-creed-odyssey)                               | ✅ 24-03-2021           | ✅ 15-03-2021       |
 | [Assassin's Creed 3 Remastered](https://www.epicgames.com/store/en-US/p/assassins-creed-3)                                | ✅ 15-07-2021           | ✅ 18-07-2021       |
 | [A Plague Tale: Innocence](https://www.epicgames.com/store/en-US/p/a-plague-tale-innocence)                               | ✅ 10-08-2021           | ⚠                   |
+| [Darksiders: Warmastered Edition](https://www.epicgames.com/store/en-US/p/darksiders)                                     | ✅ 20-09-2021           | ⚠                   |
 
 ### GOG
 
