@@ -29,6 +29,10 @@ _Incase you are recruiter or a company official, you may wish to proceed [here](
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=MRDGH2821)](https://github.com/LordDashMe/github-contribution-stats/)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mrdgh2821&show_icons=true&locale=en&layout=compact)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdgh2821&)
+
 ### Site Map
 
 - [Myself on Internet](Myself_On_internet.md)
@@ -43,6 +47,8 @@ _Incase you are recruiter or a company official, you may wish to proceed [here](
 
 Greetings, I'm Mihir Rabade, Currently studying at Vishwakarma Institute of Technology, Pune. I'm an Introvert & an enthusiast about technology, especially in Gaming sector. Earlier I was more fascinated about front end of things. But once I went behind the scenes, I became interested in Game Development. For now I have started with a 2D Side Scroller project.
 Simply learning didn't help me unless I applied it, therefore I have a tendency to apply the knowledge I learnt.
+
+![Profile Views](https://komarev.com/ghpvc/?username=mrdgh2821&label=Profile%20views&color=0e75b6&style=flat)
 
 **_Adjust-Adapt-Upgrade! (≧∇≦)ﾉ_**
 
