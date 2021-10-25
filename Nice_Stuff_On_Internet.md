@@ -41,5 +41,6 @@ This is how I got knowledge of tech. Subscribe for their Newsletter!
 | [25 Insanely Useful Websites That'll Come in Handy Someday](https://bit.ly/2Tf5JE7)   | Useful websites                          |
 | [Press in Dire situations](http://nooooooooooooooo.com/)                              | Star wars edition of saying Nooooooo     |
 | [Water Jug problem](https://bit.ly/39JH6sb)                                           | Explains how to solve water jug problems |
+| [30 Insanely useful websites](https://www.makeuseof.com/tag/more-useful-websites/?utm_source=MUO-NL-RP&utm_medium=newsletter)| useful websites|
 
 _Incase you feel Generous, please support me [here](../Finance/README.md)!_
