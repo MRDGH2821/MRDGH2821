@@ -17,6 +17,7 @@ You Might want to visit My online [Profiles](Myself_On_internet.md) or you want 
 | [Student email benefits!](https://bit.ly/2S4A3AG)                                                  | Depends    |                                                                               |
 | [This free Linux course has trained a million people in open-source tools](https://tek.io/3cHmNf8) | N/A        | [Link to course](https://bit.ly/33aSZEh)                                      |
 | [Free Coding Courses](http://bit.ly/FreeCodingCourses)                                             |            |                                                                               |
+| [All Year stuff](https://1drv.ms/u/s!AqbOAR5ggpjcgvh3oM5oAmT-UZ1g_g?e=G5mK7B) | N/A | Created by me to keep notes organised|
 | [Computer Science 4th year stuff](http://bit.ly/CS4thYR)                                           | N/A        | Created by me to keep notes organized                                         |
 | [Computer Science 3rd year stuff](https://bit.ly/CS3rdYR)                                          | N/A        | Created by me to keep notes organized                                         |
 | [Computer Science 2nd year Stuff](http://bit.ly/CS2ndYR)                                           | N/A        | Created by me to keep notes organized                                         |
