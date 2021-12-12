@@ -80,7 +80,7 @@ Want to go back to [main page](../README.md)?
 
 ### Unofficial
 
-(In other words, cracked games. I think they too deserve attention. Those are also great games. By default I will mention the official links. Else EGS or Steam Links if possible. But in no way i will be mentioning any crack links. Game Developers also need to earn money. I didn't have any hence I resorted to cracks.)
+(In other words, cracked games. I think they too deserve attention. Those are also great games. By default I will mention the official links. Else EGS or Steam Links if possible. But in no way I will be mentioning any crack links. Game Developers also need to earn money. I didn't have any hence I resorted to cracks.)
 
 | Game Name                                    | Main Campaign Complete? | All DLCs Complete ? | Alternate link                                       |
 | -------------------------------------------- | ----------------------- | ------------------- | ---------------------------------------------------- |
