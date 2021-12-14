@@ -44,6 +44,7 @@ Want to go back to [main page](../README.md)?
 | [A Plague Tale: Innocence](https://www.epicgames.com/store/en-US/p/a-plague-tale-innocence)                               | ✅ 10-08-2021           | ⚠                   |
 | [Darksiders: Warmastered Edition](https://www.epicgames.com/store/en-US/p/darksiders)                                     | ✅ 20-09-2021           | ⚠                   |
 | [Assassin's Creed Liberation Remastered](https://www.epicgames.com/store/en-US/p/assassins-creed-3)                       | ✅ 22-11-2021           | ⚠                   |
+| [Watch Dogs](https://www.epicgames.com/store/en-US/p/watch-dogs)                                                          | ✅ 14-12-2021           | ⬛                 | 
 
 ### GOG
 
