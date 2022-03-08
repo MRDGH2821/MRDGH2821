@@ -79,6 +79,12 @@ Want to go back to [main page](../README.md)?
 | [Bioshock Infinite](https://store.steampowered.com/app/8870/BioShock_Infinite/)                                        | ✅ 07-07-2021           | ✅ 08-07-2021       |
 | [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                                                    | ✅ 11-07-2021           | ⬛                  |
 
+### Ubisoft
+
+| Game Name                                                                                     | Main Campaign Complete? | All DLCs Complete? |
+| --------------------------------------------------------------------------------------------- | ----------------------- | ------------------ |
+| [Assassin's Creed Rogue](https://www.ubisoft.com/en-us/game/assassins-creed/rogue-remastered) | ✅ 08-03-2022           | ⚠                  |
+
 ### Unofficial
 
 (In other words, cracked games. I think they too deserve attention. Those are also great games. By default I will mention the official links. Else EGS or Steam Links if possible. But in no way I will be mentioning any crack links. Game Developers also need to earn money. I didn't have any hence I resorted to cracks.)
