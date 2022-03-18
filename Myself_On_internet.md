@@ -69,7 +69,7 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 | [![Pinterest](https://img.shields.io/badge/@mihirrabade%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/mihirrabade/) | @mihirrabade   |
 | [![Facebook](https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](http://bit.ly/mrdghfb)                        | MRDG2821       |
 | [![Twitch](https://img.shields.io/badge/mrdgh2821%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/mrdgh2821)                 | mrdgh2821      |
-| ![MRDGH’s Lair](https://img.shields.io/badge/MRDGH's%20Lair%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)                                        | MRDGH2821#4398 |
+| [![MRDGH’s Lair](https://img.shields.io/badge/MRDGH's%20Lair%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HeFAqYgGr8)                                        | MRDGH2821#7746 |
 
 ## Gamer ID
 
