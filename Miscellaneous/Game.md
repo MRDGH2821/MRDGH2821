@@ -78,6 +78,7 @@ Want to go back to [main page](../README.md)?
 | [Bioshock 2 Remastered](https://store.steampowered.com/app/409720/BioShock_2_Remastered/)                              | ✅ 29-06-2021           | ✅ 04-07-2021       |
 | [Bioshock Infinite](https://store.steampowered.com/app/8870/BioShock_Infinite/)                                        | ✅ 07-07-2021           | ✅ 08-07-2021       |
 | [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                                                    | ✅ 11-07-2021           | ⬛                  |
+| [Injustice: Gods Among Us](https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/)        | ✅ 22-04-2022           | ⚠                   |
 
 ### Ubisoft
 
