@@ -90,6 +90,10 @@ Want to go back to [main page](../README.md)?
 
 (In other words, cracked games. I think they too deserve attention. Those are also great games. By default I will mention the official links. Else EGS, Steam, GOG or DRM free version Links if possible. But in no way I will be mentioning any crack links. Game Developers also need to earn money. I didn't have any hence I resorted to cracks.)
 
-| Game Name                                    | Main Campaign Complete? | All DLCs Complete ? | Alternate link                                       |
-| -------------------------------------------- | ----------------------- | ------------------- | ---------------------------------------------------- |
-| [Haven](http://www.thegamebakers.com/haven/) | ✅ 03-08-2021           | ⚠                   | [EGS](https://www.epicgames.com/store/en-US/p/haven) |
+| Game Name                                                                                    | Main Campaign Complete? | All DLCs Complete ? | Alternate link                                                                   |
+| -------------------------------------------------------------------------------------------- | ----------------------- | ------------------- | -------------------------------------------------------------------------------- |
+| [Haven](http://www.thegamebakers.com/haven/)                                                 | ✅ 03-08-2021           | ⚠                   | [EGS](https://www.epicgames.com/store/en-US/p/haven)                             |
+| [Plants Vs. Zombies](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies)     | ✅                      | ⚠                   | [Steam](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/) |
+| [Bookworm Adventures Deluxe](https://steamcommunity.com/app/3470/discussions/)               | ✅                      | ⚠                   | The game is delisted, but cracks exist online.                                   |
+| [Bookworm Adventures Vol. 2](https://steamcommunity.com/app/3630/)                           | ✅                      | ⚠                   | The game is delisted, but cracks exist online.                                   |
+| [Plants Vs. Zombies 2](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies-2) | ✅                      | ⚠                   | The game is mobile exclusive                                                     |
