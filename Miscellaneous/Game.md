@@ -79,6 +79,7 @@ Want to go back to [main page](../README.md)?
 | [Bioshock Infinite](https://store.steampowered.com/app/8870/BioShock_Infinite/)                                        | ✅ 07-07-2021           | ✅ 08-07-2021       |
 | [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                                                    | ✅ 11-07-2021           | ⬛                  |
 | [Injustice: Gods Among Us](https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/)        | ✅ 22-04-2022           | ⚠                   |
+| [Rusty Lake Hotel](https://store.steampowered.com/app/435120/Rusty_Lake_Hotel/)                                        | ✅ 06-05-2022           | ⚠                   |
 
 ### Ubisoft
 
