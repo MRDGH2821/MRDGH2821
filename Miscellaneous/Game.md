@@ -143,7 +143,7 @@ I also skip card games, as they are too long. The other games listed here are th
 
 | Game name                                                                                | Notes                                               |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [Everything] (https://store.epicgames.com/en-US/p/everything)                            | Felt boring                                         |
+| [Everything](https://store.epicgames.com/en-US/p/everything)                             | Felt boring                                         |
 | [Faeria](https://store.epicgames.com/en-US/p/faeria)                                     | Card game, got je-baited                            |
 | [GNOG](https://store.epicgames.com/en-US/p/gnog)                                         | Didn't understand the game                          |
 | [Kingdom Come Deliverance](https://store.epicgames.com/en-US/p/kingdom-come-deliverance) | 1st person view & complex game economy made me skip |
