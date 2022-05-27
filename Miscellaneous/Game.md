@@ -22,6 +22,43 @@ Want to go back to [main page](../README.md)?
 - ⚠ Not Applicable
 - GOTY - Game Of The Year Edition
 
+### On Going ~~Backlog~~
+
+Listed with priority order. 1st rank means that game should be finished first before starting next in table.
+
+| Game Name                                                                                   | Notes                                                   |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [Atma](https://store.steampowered.com/app/1096590/Atma/)                                    | Main story left                                         |
+| [Relicta](https://store.epicgames.com/en-US/p/relicta)                                      | Main story left                                         |
+| [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                           | Main story left                                         |
+| [Kena: Bridge of Sprits](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)        | Main story left                                         |
+| [Restless Soul Demo](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)             | Main story left                                         |
+| [Salt & Sanctuary](https://store.epicgames.com/en-US/p/salt-and-sanctuary)                  | Main story left                                         |
+| [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                         | DLCs left                                               |
+| [Assassin's Creed Syndicate](https://store.epicgames.com/en-US/p/assassins-creed-syndicate) | DLCs left (+ Main story, because save file got corrupt) |
+
+#### Optional Backlog
+
+Most likely I won't be playing them, but would be nice to come back to.
+
+| Game Name                                                                         | Notes                                                            |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [ABZU](https://store.epicgames.com/en-US/p/abzu)                                  | -                                                                |
+| [Axiom Verge](https://store.epicgames.com/en-US/p/axiom-verge)                    | Because Platformer                                               |
+| [Costume Quest](https://store.epicgames.com/en-US/p/costume-quest)                | -                                                                |
+| [Enter The Gungeon](https://store.epicgames.com/en-US/p/enter-the-gungeon)        | -                                                                |
+| [Fez](https://store.epicgames.com/en-US/p/fez)                                    | I liked its 2.5D                                                 |
+| [Hyper Light Drifter](https://store.epicgames.com/en-US/p/hyper-light-drifter)    | Was attracted to its visuals                                     |
+| [Inside](https://store.epicgames.com/en-US/p/inside)                              | -                                                                |
+| [Last Day of June](https://store.epicgames.com/en-US/p/last-day-of-june)          | -                                                                |
+| [Metro 2033 Redux](https://store.epicgames.com/en-US/p/metro-2033-redux)          | -                                                                |
+| [Minit](https://store.epicgames.com/en-US/p/minit)                                | -                                                                |
+| [Raji: An Ancient Epic](https://store.epicgames.com/en-US/p/raji-an-ancient-epic) | Because made by Indian Game devs & partly includes Gods of India |
+| [Rime](https://store.epicgames.com/en-US/p/rime)                                  | I liked the visuals                                              |
+| [Super Meat Boy](https://store.epicgames.com/en-US/p/super-meat-boy)              | Because Platformer                                               |
+| [The End is Nigh](https://store.epicgames.com/en-US/p/the-end-is-nigh)            | Because platformer                                               |
+| [World of Goo](https://store.epicgames.com/en-US/p/world-of-goo)                  | -                                                                |
+
 ### Epic Games Store
 
 | Game Name                                                                                                                 | Main Campaign Complete? | All DLCs Complete ? |
@@ -98,3 +135,23 @@ Want to go back to [main page](../README.md)?
 | [Bookworm Adventures Deluxe](https://steamcommunity.com/app/3470/discussions/)               | ✅                      | ⚠                   | The game is delisted, but cracks exist online.                                   |
 | [Bookworm Adventures Vol. 2](https://steamcommunity.com/app/3630/)                           | ✅                      | ⚠                   | The game is delisted, but cracks exist online.                                   |
 | [Plants Vs. Zombies 2](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies-2) | ✅                      | ⚠                   | The game is mobile exclusive                                                     |
+
+### I'm skipping
+
+By default I skip sandbox games, because those tend to not have a story. And I skip online games too, because Online & cannot speed run to complete.
+I also skip card games, as they are too long. The other games listed here are those I'm totally skipping.
+
+| Game name                                                                                | Notes                                               |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [Everything] (https://store.epicgames.com/en-US/p/everything)                            | Felt boring                                         |
+| [Faeria](https://store.epicgames.com/en-US/p/faeria)                                     | Card game, got je-baited                            |
+| [GNOG](https://store.epicgames.com/en-US/p/gnog)                                         | Didn't understand the game                          |
+| [Kingdom Come Deliverance](https://store.epicgames.com/en-US/p/kingdom-come-deliverance) | 1st person view & complex game economy made me skip |
+| [Mutant year Zero Road to Eden](https://store.epicgames.com/en-US/p/mutant-year-zero)    | Feel like skipping it                               |
+| [My Time at Portia](https://store.epicgames.com/en-US/p/my-time-at-portia)               | Too much of a grind, even with cheats               |
+| [Remnant: From the Ashes](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)    | Feel like skipping it, also too heavy on GPU        |
+| [Slime Rancher](https://store.epicgames.com/en-US/p/slime-rancher)                       | It was FPS type, got je-baited                      |
+| [Subnautica](https://store.epicgames.com/en-US/p/subnautica)                             | Didn't understand the game                          |
+| [Surviving Mars](https://store.epicgames.com/en-US/p/surviving-mars)                     | It was actually good one, but it is sandbox         |
+| [Tacoma](https://store.epicgames.com/en-US/p/tacoma)                                     | Didn't understand the game                          |
+| [Torchlight](https://store.epicgames.com/en-US/p/torchlight)                             | Top down view was uncomfortable                     |
