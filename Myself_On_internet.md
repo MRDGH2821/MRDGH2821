@@ -69,7 +69,7 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 | [![Pinterest](https://img.shields.io/badge/@mihirrabade%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/mihirrabade/) | @mihirrabade   |
 | [![Facebook](https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](http://bit.ly/mrdghfb)                        | MRDG2821       |
 | [![Twitch](https://img.shields.io/badge/mrdgh2821%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/mrdgh2821)                 | mrdgh2821      |
-| [![MRDGH’s Lair](https://img.shields.io/badge/MRDGH's%20Lair%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HeFAqYgGr8)                                        | MRDGH2821#7746 |
+| [![MRDGH’s Lair](https://img.shields.io/badge/MRDGH's%20Lair%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HeFAqYgGr8)       | MRDGH2821#7746 |
 
 ## Gamer ID
 
@@ -87,8 +87,8 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 
 ## Miscellaneous
 
-| Site                                                                                                                                                          | Username  | Notes                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------- |
+| Site                                                                                                                                                          | Username  | Notes                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- |
 | [![WordPress](https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white)](https://mrdgh2821.wordpress.com/) | mrdgh2821 | Accidentally generated a site there. I was primarily using it for [Gravatar](https://bit.ly/36fl6Ee) |
-| [![Itch.io](https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white)](https://mrdgh2821.itch.io)                 | MRDGH2821 | This is an Indie Game store.                                                                       |
-| [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/)                                                                                                   | MRDGH2821 | This is a Game Store. Nothing more.                                                                |
+| [![Itch.io](https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white)](https://mrdgh2821.itch.io)                 | MRDGH2821 | This is an Indie Game store.                                                                         |
+| [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/)                                                                                                   | MRDGH2821 | This is a Game Store. Nothing more.                                                                  |

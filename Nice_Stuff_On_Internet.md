@@ -39,7 +39,7 @@ This is how I got knowledge of tech. Subscribe for their Newsletter!
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | [MakeUseOf.com](https://www.makeuseof.com/subscribe/)                                                                         | Newsletter                               |
 | [HowToGeek.com](https://www.howtogeek.com/)                                                                                   | Newsletter                               |
-| [These Are Reddit's Most Popular 'Life Pro Tips' of All Time](https://bit.ly/3dUAjww)                                         | Life hacks                                |
+| [These Are Reddit's Most Popular 'Life Pro Tips' of All Time](https://bit.ly/3dUAjww)                                         | Life hacks                               |
 | [25 Insanely Useful Websites That'll Come in Handy Someday](https://bit.ly/2Tf5JE7)                                           | Useful websites                          |
 | [Press in Dire situations](http://nooooooooooooooo.com/)                                                                      | Star wars edition of saying Nooooooo     |
 | [Water Jug problem](https://bit.ly/39JH6sb)                                                                                   | Explains how to solve water jug problems |
