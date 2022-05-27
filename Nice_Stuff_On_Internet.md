@@ -25,7 +25,7 @@ You Might want to visit My online [Profiles](Myself_On_internet.md) or you want 
 | [All Catalyser Stuff](http://bit.ly/AllCatStff)                                                    | N/A        | Created by me to keep notes obtained from Catalyser Tuition organized         |
 | [IIT Mains & Advance Solutions](http://bit.ly/MnAndAdvSoln)                                        | N/A        | Organized by my friend                                                        |
 | [Notes for JEE](http://bit.ly/NotesForJEE)                                                         | N/A        |                                                                               |
-| [Learn to Code!](http://bit.ly/lrn2cde)                                                            | N/A        | Ebooks of programming lanugages                                               |
+| [Learn to Code!](http://bit.ly/lrn2cde)                                                            | N/A        | Ebooks of programming languages                                               |
 | [EBooks Repo](http://bit.ly/EBOOKSbyRAaETH)                                                        | N/A        | Ebooks by my [friend](https://github.com/RootAndroid58)                       |
 | [Saatvik Recipes](https://bit.ly/recipemaster)                                                     | N/A        | An excel sheet containing Saatvik Recipes + a video on how to use it          |
 | [Free Quantum Computing Course](https://www.qubitbyqubit.org/programs)                             | 17-10-2020 | You can still apply for it                                                    |
@@ -39,10 +39,10 @@ This is how I got knowledge of tech. Subscribe for their Newsletter!
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | [MakeUseOf.com](https://www.makeuseof.com/subscribe/)                                                                         | Newsletter                               |
 | [HowToGeek.com](https://www.howtogeek.com/)                                                                                   | Newsletter                               |
-| [These Are Reddit's Most Popular 'Life Pro Tips' of All Time](https://bit.ly/3dUAjww)                                         | Lifehacks                                |
+| [These Are Reddit's Most Popular 'Life Pro Tips' of All Time](https://bit.ly/3dUAjww)                                         | Life hacks                                |
 | [25 Insanely Useful Websites That'll Come in Handy Someday](https://bit.ly/2Tf5JE7)                                           | Useful websites                          |
 | [Press in Dire situations](http://nooooooooooooooo.com/)                                                                      | Star wars edition of saying Nooooooo     |
 | [Water Jug problem](https://bit.ly/39JH6sb)                                                                                   | Explains how to solve water jug problems |
 | [30 Insanely useful websites](https://www.makeuseof.com/tag/more-useful-websites/?utm_source=MUO-NL-RP&utm_medium=newsletter) | useful websites                          |
 
-_Incase you feel Generous, please support me [here](../Finance/README.md)!_
+_In case you feel Generous, please support me [here](../Finance/README.md)!_
