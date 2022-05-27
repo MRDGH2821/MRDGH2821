@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 🌐 Here's some nice stuff I [found](Nice_Stuff_On_Internet.md) on internet
 - 📔 You can view this repo as [Website](https://bit.ly/mrdgh2821) or as [repo page](https://github.com/MRDGH2821/MRDGH2821)
 
-_Incase you came from Instagram or any Social media click [here](Nice_Stuff_On_Internet.md) or [here](Myself_On_internet.md)_
+_In case you came from Instagram or any Social media click [here](Nice_Stuff_On_Internet.md) or [here](Myself_On_internet.md)_
 
-_Incase you are recruiter or a company official, you may wish to proceed [here](Resume_Section.md)_
+_In case you are recruiter or a company official, you may wish to proceed [here](Resume_Section.md)_
 
 ### My overall Contribution at GitHub
 
@@ -56,7 +56,7 @@ Simply learning didn't help me unless I applied it, therefore I have a tendency 
 > Most of the time I stay Neutral. But I dislike it when my friends are being exploited.
 >
 > **About my food**
-> I eat food of Sattvic Nature. Know more [here](https://food.iskcondesiretree.com/). More recipes [here](https://bit.ly/recipemaster).
+> I eat food of Saatvik Nature. Know more [here](https://food.iskcondesiretree.com/). More recipes [here](https://bit.ly/recipemaster).
 >
 > **About my wishes**
 > I wish to be successful in my Game development career. Also I wish I will be able to overcome all the obstacles I face while following my spiritual Regime everyday.

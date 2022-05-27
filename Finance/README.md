@@ -18,7 +18,7 @@ Click on the link/image to pay [ko-fi.com/mrdgh2821](https://ko-fi.com/mrdgh2821
 
 ## Paytm All In One QR Code
 
-![Patym AIO QR Code](https://lh3.googleusercontent.com/pw/ACtC-3cZkyxVkmVwiqMRH1mUbFMzc4iIceVNN3fXqM51ryMurJpkKOa-K9f8Mi3Sa68yvTlr-Y_C0nwc1bkcaaQRvwSXZ2j_0mUFyZJmwVoZOGn9n-jaM0vNyDnGk_GnVHV-qJtGyzcqvxrn4Z2t-lhu0S_gcw=w505-h903-no?authuser=0)
+![Paytm AIO QR Code](https://lh3.googleusercontent.com/pw/ACtC-3cZkyxVkmVwiqMRH1mUbFMzc4iIceVNN3fXqM51ryMurJpkKOa-K9f8Mi3Sa68yvTlr-Y_C0nwc1bkcaaQRvwSXZ2j_0mUFyZJmwVoZOGn9n-jaM0vNyDnGk_GnVHV-qJtGyzcqvxrn4Z2t-lhu0S_gcw=w505-h903-no?authuser=0)
 
 ## UPI Platform
 
@@ -37,7 +37,7 @@ UPI ID - mihirrabade@okicici
 
 UPI ID - mihirrabade@kotak
 
-### Mobikwik UPI
+### MobiKwik UPI
 
 Click on the link to pay <https://www.mpay.me/mihir45867>
 
