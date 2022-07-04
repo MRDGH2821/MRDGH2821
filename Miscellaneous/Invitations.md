@@ -5,6 +5,8 @@ Now it won't mess up with my [profile page](../Myself_On_internet.md)
 
 Want to go back to [main page](../README.md)?
 
+<iframe src="https://discord.com/widget?id=452119784503640084&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ### Developer
 
 | Site                                                                                                                                                                   | Invite/Referral Link/code                               | Expiry Date |
