@@ -63,6 +63,8 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 
 ## Social
 
+<iframe src="https://discord.com/widget?id=452119784503640084&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 | Site                                                                                                                                                                   | Username       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | [![YouTube](https://img.shields.io/badge/MRDGH%202821%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](http://bit.ly/YTmrdgh)                      | MRDGH 2821     |
