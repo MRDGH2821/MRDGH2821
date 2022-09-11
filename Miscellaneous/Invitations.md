@@ -5,14 +5,14 @@ Now it won't mess up with my [profile page](../Myself_On_internet.md)
 
 Want to go back to [main page](../README.md)?
 
-### Developer
+## Developer
 
 | Site                                                                                                                                                                   | Invite/Referral Link/code                               | Expiry Date |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------|
 | [<img src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=for-the-badge&logo=Repl.it&logoColor=white"/>](https://repl.it/upgrade/MRDGH2821)              | [Click Here](https://repl.it/upgrade/MRDGH2821)         | None        |
 | [<img src="https://img.shields.io/badge/GitKraken%20-%23141422.svg?&style=for-the-badge&logo=GitKraken&logoColor=179287"/>](https://www.gitkraken.com/invite/dHrBfYHa) | [Click Here](https://www.gitkraken.com/invite/dHrBfYHa) | None        |
 
-### Productivity & Work
+## Productivity & Work
 
 | Site                                                                                                                                                         | Invite/Referral Link/code                              | Expiry Date/Notes                                                                |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ Want to go back to [main page](../README.md)?
 | [<img src="https://img.shields.io/badge/Prezi%20-%23000000.svg?&style=for-the-badge&logo=Prezi&logoColor=white"/>](https://prezi.com/referrals/7i4IRXlnHXzT) | [Click here](https://prezi.com/referrals/7i4IRXlnHXzT) | Get a free month of Prezi Plus!                                                  |
 | [<img src="https://img.shields.io/badge/Mega%20-%23D90007.svg?&style=for-the-badge&logo=Mega&logoColor=white"/>](https://mega.nz/aff=xOaHpGQCMm4)            | [Click here](https://mega.nz/aff=xOaHpGQCMm4)          | None                                                                             |
 
-### Payment apps
+## Payment apps
 
 | Site                                                                                                                                                                    | Invite/Referral Link/code                                |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
@@ -34,7 +34,7 @@ Want to go back to [main page](../README.md)?
 | [PayTM](https://p.paytm.me/xCTH/74e9c7c8)                                                                                                                               | [Click here](https://p.paytm.me/xCTH/74e9c7c8)           |
 | [Skrill](https://bit.ly/3kOpWvL)                                                                                                                                        | [Click here](https://bit.ly/3kOpWvL)                     |
 
-### Miscellaneous
+## Miscellaneous
 
 | Site                                                                                                                                                       | Invite/Referral Link/code                    |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
@@ -43,7 +43,7 @@ Want to go back to [main page](../README.md)?
 | [Elevate - Brain Training Games](http://go.elevateapp.com/MIHI131129)                                                                                      | MIHI131129                                   |
 | [<img src="https://img.shields.io/badge/Uber%20-%23000000.svg?&style=for-the-badge&logo=Uber&logoColor=white"/>](https://www.uber.com/invite/mihirr1010ue) | mihirr1010ue                                 |
 
-### Game related
+## Game related
 
 | Site                                                                                                                                                                                     | Invite/Referral Link/code                                      | Expiry Date/Notes                          |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------|

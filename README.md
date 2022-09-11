@@ -1,8 +1,6 @@
-<!-- @format -->
-
 # About MRDGH2821
 
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **MRDGH2821/MRDGH2821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -14,7 +14,7 @@ I will try to mention the dates as well wherever possible.
 
 Want to go back to [main page](../README.md)?
 
-##### Notations
+**Notations**
 
 - ✅ Completed
 - ⬛ Not purchased
@@ -22,7 +22,7 @@ Want to go back to [main page](../README.md)?
 - ⚠ Not Applicable
 - GOTY - Game Of The Year Edition
 
-### On Going ~~Backlog~~
+## On Going ~~Backlog~~
 
 Listed with priority order. 1st rank means that game should be finished first before starting next in table.
 
@@ -37,7 +37,7 @@ Listed with priority order. 1st rank means that game should be finished first be
 | [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                         | DLCs left                                               |
 | [Assassin's Creed Syndicate](https://store.epicgames.com/en-US/p/assassins-creed-syndicate) | DLCs left (+ Main story, because save file got corrupt) |
 
-#### Optional Backlog
+### Optional Backlog
 
 Most likely I won't be playing them, but would be nice to come back to.
 
@@ -59,7 +59,7 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [The End is Nigh](https://store.epicgames.com/en-US/p/the-end-is-nigh)            | Because platformer                                               |
 | [World of Goo](https://store.epicgames.com/en-US/p/world-of-goo)                  | -                                                                |
 
-### Epic Games Store
+## Epic Games Store
 
 | Game Name                                                                                                                 | Main Campaign Complete? | All DLCs Complete ? |
 |---------------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
@@ -83,14 +83,14 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [Assassin's Creed Liberation Remastered](https://www.epicgames.com/store/en-US/p/assassins-creed-3)                       | ✅ 22-11-2021            | ⚠                   |
 | [Watch Dogs](https://www.epicgames.com/store/en-US/p/watch-dogs)                                                          | ✅ 14-12-2021            | ⬛                   |
 
-### GOG
+## GOG
 
 | Game Name                                                                                    | Main Campaign Complete? | All DLCs Complete ? |
 |----------------------------------------------------------------------------------------------|-------------------------|---------------------|
 | [The Witcher: Enhanced Edition](https://www.gog.com/game/the_witcher)                        | ✅                       | ⚠                   |
 | [The Witcher 2: Assassins of Kings Enhanced Edition](https://www.gog.com/game/the_witcher_2) | ✅                       | ⚠                   |
 
-### Steam
+## Steam
 
 | Game Name                                                                                                              | Main Campaign Complete? | All DLCs Complete ? |
 |------------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------|
@@ -118,13 +118,13 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [Injustice: Gods Among Us](https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/)        | ✅ 22-04-2022            | ⚠                   |
 | [Rusty Lake Hotel](https://store.steampowered.com/app/435120/Rusty_Lake_Hotel/)                                        | ✅ 06-05-2022            | ⚠                   |
 
-### Ubisoft
+## Ubisoft
 
 | Game Name                                                                                     | Main Campaign Complete? | All DLCs Complete? |
 |-----------------------------------------------------------------------------------------------|-------------------------|--------------------|
 | [Assassin's Creed Rogue](https://www.ubisoft.com/en-us/game/assassins-creed/rogue-remastered) | ✅ 08-03-2022            | ⚠                  |
 
-### Unofficial
+## Unofficial
 
 (In other words, cracked games. I think they too deserve attention. Those are also great games. By default I will mention the official links. Else EGS, Steam, GOG or DRM free version Links if possible. But in no way I will be mentioning any crack links. Game Developers also need to earn money. I didn't have any hence I resorted to cracks.)
 
@@ -136,7 +136,7 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [Bookworm Adventures Vol. 2](https://steamcommunity.com/app/3630/)                           | ✅                       | ⚠                   | The game is delisted, but cracks exist online.                                   |
 | [Plants Vs. Zombies 2](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies-2) | ✅                       | ⚠                   | The game is mobile exclusive                                                     |
 
-### I'm skipping
+## I'm skipping
 
 By default I skip sandbox games, because those tend to not have a story. And I skip online games too, because Online & cannot speed run to complete.
 I also skip card games, as they are too long. The other games listed here are those I'm totally skipping.
