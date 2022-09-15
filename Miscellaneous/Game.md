@@ -28,13 +28,11 @@ Listed with priority order. 1st rank means that game should be finished first be
 
 | Game Name                                                                                   | Notes                                                   |
 |---------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| [Atma](https://store.steampowered.com/app/1096590/Atma/)                                    | Main story left                                         |
 | [Relicta](https://store.epicgames.com/en-US/p/relicta)                                      | Main story left                                         |
 | [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                           | Main story left                                         |
 | [Kena: Bridge of Sprits](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)        | Main story left                                         |
 | [Restless Soul Demo](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)             | Main story left                                         |
 | [Salt & Sanctuary](https://store.epicgames.com/en-US/p/salt-and-sanctuary)                  | Main story left                                         |
-| [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                         | DLCs left                                               |
 | [Assassin's Creed Syndicate](https://store.epicgames.com/en-US/p/assassins-creed-syndicate) | DLCs left (+ Main story, because save file got corrupt) |
 
 ### Optional Backlog
@@ -117,6 +115,7 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [Dishonored](https://store.steampowered.com/app/205100/Dishonored/)                                                    | ✅ 11-07-2021            | ✅ 08-09-2022        |
 | [Injustice: Gods Among Us](https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/)        | ✅ 22-04-2022            | ⚠                   |
 | [Rusty Lake Hotel](https://store.steampowered.com/app/435120/Rusty_Lake_Hotel/)                                        | ✅ 06-05-2022            | ⚠                   |
+| [Atma](https://store.steampowered.com/app/1096590/Atma/)                                                               | ✅ 15-09-2022            | ⚠                   |
 
 ## Ubisoft
 
