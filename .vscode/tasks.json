@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Mega lint",
+      "type": "shell",
+      "command": "npx mega-linter-runner --flavor documentation"
+    }
+  ]
+}
