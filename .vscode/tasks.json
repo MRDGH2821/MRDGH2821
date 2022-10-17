@@ -4,7 +4,12 @@
     {
       "label": "Mega lint",
       "type": "shell",
-      "command": "npx mega-linter-runner --flavor documentation"
+      "command": "npx mega-linter-runner --flavor documentation",
+      "problemMatcher": [],
+      "group": {
+        "kind": "none",
+        "isDefault": true
+      }
     }
   ]
 }
