@@ -16,7 +16,7 @@ You may email as well - askmihirrabade@outlook.in
 ## Developer/Work
 
 | Site                                                                                                                                                                                       | Username                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
 | [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://bit.ly/mrdghLI)                                            | Mihir Rabade                               |
 | [![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/home#)                                           | N/A                                        |
 | [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://mrdgh2821.github.io/MRDGH2821/)                                 | [MRDGH2821](https://github.com/MRDGH2821/) |
@@ -32,7 +32,7 @@ You may email as well - askmihirrabade@outlook.in
 ## Education
 
 | Site                                                                                                                                                                                   | Username     |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | [![Khan Academy](https://img.shields.io/badge/Khan%20Academy%20-%2314BF96.svg?&style=for-the-badge&logo=Khan%20Academy&logoColor=white)](http://www.khanacademy.org/profile/MRDGH2821) | @MRDGH2821   |
 | [![Duolingo](https://img.shields.io/badge/Duolingo%20-%234DC730.svg?&style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/MRDGH2821)                           | MRDGH2821    |
 | [![Udemy](https://img.shields.io/badge/Udemy%20-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/mrdgh-2821/)                                | Mihir Rabade |
@@ -44,7 +44,7 @@ You may email as well - askmihirrabade@outlook.in
 ## Forums
 
 | Site                                                                                                                                                                                              | Username                                     |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | [![XDA Developers](https://img.shields.io/badge/XDA-Developers%20-%23AC6E2F.svg?&style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://forum.xda-developers.com/member.php?u=6224863) | amihir                                       |
 | [![OnePlus](https://img.shields.io/badge/OnePlus%20-%23EB0028.svg?&style=for-the-badge&logo=OnePlus&logoColor=white)](https://forums.oneplus.com/members/mrdh2000.1474463/)                       | MRdH2000                                     |
 | [![Reddit](https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/amihir)                                            | [amihir](https://www.reddit.com/r/MRDC2821/) |
@@ -54,7 +54,7 @@ You may email as well - askmihirrabade@outlook.in
 ### Gaming Forums
 
 | Site                                                                                                                                                                                         | Username  |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [![Alienware](https://img.shields.io/badge/Alienware%20Arena%20-%23FFFFFF.svg?&style=for-the-badge&logo=Alienware%20Arena&logoColor=white)](https://www.alienwarearena.com/member/MRDGH2821) | MRDGH2821 |
 
 ## Invite Links
@@ -66,7 +66,7 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 <iframe src="https://discord.com/widget?id=452119784503640084&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 | Site                                                                                                                                                                   | Username       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
 | [![YouTube](https://img.shields.io/badge/MRDGH%202821%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](http://bit.ly/YTmrdgh)                      | MRDGH 2821     |
 | [![Pinterest](https://img.shields.io/badge/@mihirrabade%20-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/mihirrabade/) | @mihirrabade   |
 | [![Facebook](https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](http://bit.ly/mrdghfb)                        | MRDG2821       |
@@ -76,7 +76,7 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 ## Gamer ID
 
 | Site                                                                                                                                                                            | Gamer ID  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | [![Steam](https://img.shields.io/badge/Steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](http://bit.ly/mrdghSTEAM)                                       | MRDG2821  |
 | [![Epic Games](https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white)](https://www.epicgames.com/)                  | MRDGH2821 |
 | [![Ubisoft](https://img.shields.io/badge/Ubisoft%20-%23F5F5F5.svg?&style=for-the-badge&logo=Ubisoft&logoColor=black)](https://ubisoftconnect.com/en-US/)                        | MRdGH2821 |
@@ -90,7 +90,7 @@ This section is moved [here](/Miscellaneous/Invitations.md)
 ## Miscellaneous
 
 | Site                                                                                                                                                          | Username  | Notes                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------- |
 | [![WordPress](https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white)](https://mrdgh2821.wordpress.com/) | mrdgh2821 | Accidentally generated a site there. I was primarily using it for [Gravatar](https://bit.ly/36fl6Ee) |
 | [![Itch.io](https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white)](https://mrdgh2821.itch.io)                 | MRDGH2821 | This is an Indie Game store.                                                                         |
 | [HRK Gaming](https://www.hrkgame.com/en/profile/MRDGH2821/)                                                                                                   | MRDGH2821 | This is a Game Store. Nothing more.                                                                  |

@@ -9,7 +9,7 @@ Also, there are some benefits when a friend invites you. So, do not forget to ch
 You Might want to visit My online [Profiles](Myself_On_internet.md) or you want to go back to [main page](README.md)?
 
 | Link                                                                                               | Expiry     | Notes                                                                         |
-|----------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------|
+| -------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------- |
 | [LinkedIn Tips Compilation Vol.1](https://bit.ly/LITipsVol1)                                       | N/A        | A compilation of LinkedIn tips which I personally feel & found over internet. |
 | [Learn Skills for In-Demand jobs](https://bit.ly/30biXpr)                                          | 31-03-2021 |                                                                               |
 | [Student email benefits!](https://bit.ly/2S4A3AG)                                                  | Depends    |                                                                               |
@@ -34,7 +34,7 @@ You Might want to visit My online [Profiles](Myself_On_internet.md) or you want 
 This is how I got knowledge of tech. Subscribe for their Newsletter!
 
 | Site                                                                                                                          | Notes                                    |
-|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | [MakeUseOf.com](https://www.makeuseof.com/subscribe/)                                                                         | Newsletter                               |
 | [HowToGeek.com](https://www.howtogeek.com/)                                                                                   | Newsletter                               |
 | [These Are Reddit's Most Popular 'Life Pro Tips' of All Time](https://bit.ly/3dUAjww)                                         | Life hacks                               |
