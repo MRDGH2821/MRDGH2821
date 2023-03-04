@@ -118,6 +118,7 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [Injustice: Gods Among Us](https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/)        | ✅ 22-04-2022           | ⚠                   |
 | [Rusty Lake Hotel](https://store.steampowered.com/app/435120/Rusty_Lake_Hotel/)                                        | ✅ 06-05-2022           | ⚠                   |
 | [Atma](https://store.steampowered.com/app/1096590/Atma/)                                                               | ✅ 15-09-2022           | ⚠                   |
+| [Devil May Cry 5](https://store.steampowered.com/app/601150/Devil_May_Cry_5/)                                          | ✅ 04-03-2023           | ❌                  |
 
 ## Ubisoft
 
