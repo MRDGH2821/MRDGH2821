@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # Resume Section
 
 This Section is currently under development. Specifically meant for company officials.

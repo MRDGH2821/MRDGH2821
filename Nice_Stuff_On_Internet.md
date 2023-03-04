@@ -1,5 +1,3 @@
-<!-- @format -->
-
 # Nice Stuff on Internet
 
 Here's a list of some stuff which can be useful to everyone.
