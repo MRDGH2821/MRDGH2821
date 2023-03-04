@@ -2,7 +2,7 @@
 
 This Section is currently under development. Specifically meant for company officials.
 Still feel free to take inspiration!
-<br>Click [here](README.md) to go back to main page or click [here](#resumescv-for-companies) to see company wise Resume/CV
+<br>Click [here](README.md) to go back to main page
 
 Respected Sir/Madam,
 Most of the details which you find here, might feel generic to you. Actually I intend to keep it that way, at the same time I will put links to Resume made Specifically for your company. This document can be said as template for my Resume.
@@ -53,7 +53,3 @@ You may also visit my [LinkedIn profile](http://bit.ly/mrdghLI) to see all the c
 - Organisational Skill
 - Creativity
 - Proactivity
-
-# Resumes/CV for Companies
-
-[Ubisoft](https://www.canva.com/design/DAEpUv_TfEE/PSCdquyebRkXgl6dSbqbeg/view?utm_content=DAEpUv_TfEE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
