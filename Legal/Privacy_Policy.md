@@ -16,5 +16,4 @@ Your privacy is important to [me][me]. This Privacy Policy outlines how [I][me] 
 
 `Services` refer to products provided by [me][me] & the services offered by [me][me].
 
-
 [me]: https://www.linkedin.com/in/mihir-rabade/
