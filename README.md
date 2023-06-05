@@ -8,12 +8,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on 2D Side-scroller UE4 project
-- 🌱 I’m currently a student at Vishwakarma Institute of Technology, Pune
+- 🔭 ~~I’m currently working on 2D Side-scroller UE4 project~~ _Put on pause until further notice_
+- 🌱 I’m currently working at Tata Consultancy Services
 - 📫 How to reach me: [Click here!](Myself_On_internet.md)
 - ⚡ Fun fact: I am equally interested in making & playing [games!](/Miscellaneous/Game.md)
 - 🌐 Here's some nice stuff I [found](Nice_Stuff_On_Internet.md) on internet
 - 📔 You can view this repo as [Website](https://bit.ly/mrdgh2821) or as [repo page](https://github.com/MRDGH2821/MRDGH2821)
+- ⚖️ [Legal Section](./Legal/) for legal purposes
 
 _In case you came from Instagram or any Social media click [here](Nice_Stuff_On_Internet.md) or [here](Myself_On_internet.md)_
 
@@ -43,7 +44,7 @@ _In case you are recruiter or a company official, you may wish to proceed [here]
 
 ### Brief Info About myself
 
-Greetings, I'm Mihir Rabade, Currently studying at Vishwakarma Institute of Technology, Pune. I'm an Introvert & an enthusiast about technology, especially in Gaming sector. Earlier I was more fascinated about front end of things. But once I went behind the scenes, I became interested in Game Development. For now I have started with a 2D Side Scroller project.
+Greetings, I'm Mihir Rabade, Currently working at Tata Consultancy Services, Nagpur. I'm an Introvert & an enthusiast about technology, especially in Gaming sector. Earlier I was more fascinated about front end of things. But once I went behind the scenes, I became interested in Game Development. For now I have started with a 2D Side Scroller project.
 Simply learning didn't help me unless I applied it, therefore I have a tendency to apply the knowledge I learnt.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrdgh2821&label=Profile%20views&color=0e75b6&style=flat)
