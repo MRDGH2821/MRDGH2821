@@ -43,8 +43,5 @@ Click on the link to pay <https://www.mpay.me/mihir45867>
 
 ### PhonePe UPI
 
-[![PhonePe UPI QR Code](https://lh3.googleusercontent.com/pw/AM-JKLWu7b4wDMwp3ALpZ98doaIbJmBAiErF7gcY44q5_DKraE_xuEw_O2mNHRKx5If4nNsJCF6IP3SBgFAamZMbDjgfq4MlvjyhX6na0V9-RZAcpGEEG4o2_P9428gt7LKBKwlMX1izdZ_z86o9dB_bBfD2iw=w449-h776-no?authuser=1)](upi://pay?pa=9511945867@ybl&pn=Mihir Rabade&mc=0000&mode=02&purpose=00)
-
-Or [click here](upi://pay?pa=9511945867@ybl&pn=Mihir Rabade&mc=0000&mode=02&purpose=00)
-
-UPI ID - mihirrabade.kotak@ybl
+PhonePe is inactive. Please do not pay there.
+Use above payment platfoms.
