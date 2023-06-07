@@ -3,21 +3,22 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-vscode.wordcount",
-        "DavidAnson.vscode-markdownlint",
-        "bierner.markdown-yaml-preamble",
+        "bierner.github-markdown-preview",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-emoji",
+        "bierner.markdown-footnotes",
         "bierner.markdown-mermaid",
         "bierner.markdown-preview-github-styles",
-        "bierner.markdown-footnotes",
-        "bierner.markdown-emoji",
-        "bierner.markdown-checkbox",
-        "bierner.github-markdown-preview",
-        "streetsidesoftware.code-spell-checker",
-        "esbenp.prettier-vscode",
-        "softwaredotcom.swdc-vscode",
-        "ms-vscode.atom-keybindings",
-        "eamodio.gitlens",
+        "bierner.markdown-yaml-preamble",
         "christian-kohler.path-intellisense",
+        "DavidAnson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "ms-vscode.atom-keybindings",
+        "ms-vscode.wordcount",
+        "redhat.vscode-yaml",
+        "softwaredotcom.swdc-vscode",
+        "streetsidesoftware.code-spell-checker",
         "yzhang.markdown-all-in-one"
       ]
     }

@@ -3,6 +3,7 @@
     "bierner.github-markdown-preview",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
+    "redhat.vscode-yaml",
     "streetsidesoftware.code-spell-checker"
   ]
 }
