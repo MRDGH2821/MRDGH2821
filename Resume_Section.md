@@ -1,11 +1,12 @@
 # Resume Section
 
-This Section is currently under development. Specifically meant for company officials.
-Still feel free to take inspiration!
-<br>Click [here](README.md) to go back to main page
+Greetings!
 
-Respected Sir/Madam,
-Most of the details which you find here, might feel generic to you. Actually I intend to keep it that way, at the same time I will put links to Resume made Specifically for your company. This document can be said as template for my Resume.
+I'm Mihir Rabade, an Aspiring Software Engineer.
+I highly recommend you to see my [LinkedIn profile][lkn] along with this page.
+Also you may optionally check out my other [profiles](./Myself_On_internet.md)
+
+<br>Click [here](README.md) to go back to main page
 
 ## SWOCT Analysis of Myself
 
@@ -19,6 +20,7 @@ Most of the details which you find here, might feel generic to you. Actually I i
 ### Weakness
 
 - Not so Good leader
+- Lack Awareness
 
 ### Opportunities
 
@@ -39,17 +41,21 @@ Most of the details which you find here, might feel generic to you. Actually I i
 
 With Due respect, please head over to this [link](https://bit.ly/2HO5GwO) or this [one](https://1drv.ms/u/s!AqbOAR5ggpjcgcVQxXjLoGFA-TaG8w?e=woTWb5) to see all my certificates.
 
-You may also visit my [LinkedIn profile](http://bit.ly/mrdghLI) to see all the certificates at one glance. I strictly put individual links to all the certificates over there.
+You may also visit my [LinkedIn profile][lkn] to see all the certificates at one glance. I strictly put individual links to all the certificates over there.
 
 ## Skills
 
 ### Programming Skills
 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-%237186550.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
 ### Professional Skills
 
-- Teamwork
-- Organisational Skill
+- Computer Fundamentals
 - Creativity
-- Proactivity
+
+[lkn]: https://www.linkedin.com/in/Mihir-Rabade
