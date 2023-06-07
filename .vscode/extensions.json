@@ -1,8 +1,8 @@
 {
   "recommendations": [
+    "bierner.github-markdown-preview",
+    "eamodio.gitlens",
     "esbenp.prettier-vscode",
-    "Bridgecrew.checkov",
-    "AquaSecurityOfficial.trivy-vulnerability-scanner",
     "streetsidesoftware.code-spell-checker"
   ]
 }
