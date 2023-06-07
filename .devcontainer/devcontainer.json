@@ -1,0 +1,25 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:bullseye",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.wordcount",
+        "DavidAnson.vscode-markdownlint",
+        "bierner.markdown-yaml-preamble",
+        "bierner.markdown-mermaid",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-footnotes",
+        "bierner.markdown-emoji",
+        "bierner.markdown-checkbox",
+        "bierner.github-markdown-preview",
+        "streetsidesoftware.code-spell-checker",
+        "esbenp.prettier-vscode",
+        "softwaredotcom.swdc-vscode",
+        "ms-vscode.atom-keybindings",
+        "eamodio.gitlens",
+        "christian-kohler.path-intellisense",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  }
+}
