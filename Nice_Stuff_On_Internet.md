@@ -10,6 +10,7 @@ You Might want to visit My online [Profiles](Myself_On_internet.md) or you want 
 
 | Link                                                                                               | Expiry     | Notes                                                                         |
 | -------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------- |
+| [OpenAI Prompt Engineering Course](https://learn.deeplearning.ai/)                                 | N/A        | Useful in the era of ChatGPT                                                  |
 | [LinkedIn Tips Compilation Vol.1](https://bit.ly/LITipsVol1)                                       | N/A        | A compilation of LinkedIn tips which I personally feel & found over internet. |
 | [Learn Skills for In-Demand jobs](https://bit.ly/30biXpr)                                          | 31-03-2021 |                                                                               |
 | [Student email benefits!](https://bit.ly/2S4A3AG)                                                  | Depends    |                                                                               |
