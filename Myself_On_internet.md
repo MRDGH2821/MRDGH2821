@@ -11,7 +11,7 @@ You might want to check out some [nice stuff which I found on internet!](Nice_St
 
 Or you want to go back to [main page](README.md)?
 
-You may email as well - askmihirrabade@outlook.in
+You may email as well - [ask.mrdgh2821@outlook.com](mailto:ask.mrdgh2821@outlook.com)
 
 ## Developer/Work
 
