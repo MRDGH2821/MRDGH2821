@@ -44,4 +44,4 @@ Click on the link to pay <https://www.mpay.me/mihir45867>
 ### PhonePe UPI
 
 PhonePe is inactive. Please do not pay there.
-Use above payment platfoms.
+Use above payment platforms.
