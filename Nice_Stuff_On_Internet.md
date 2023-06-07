@@ -43,4 +43,4 @@ This is how I got knowledge of tech. Subscribe for their Newsletter!
 | [Water Jug problem](https://bit.ly/39JH6sb)                                                                                   | Explains how to solve water jug problems |
 | [30 Insanely useful websites](https://www.makeuseof.com/tag/more-useful-websites/?utm_source=MUO-NL-RP&utm_medium=newsletter) | useful websites                          |
 
-_In case you feel Generous, please support me [here](../Finance/README.md)!_
+_In case you feel Generous, please support me [here](./Finance/README.md)!_
