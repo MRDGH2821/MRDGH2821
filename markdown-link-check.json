@@ -1,0 +1,16 @@
+{
+  "retryOn429": true,
+  "retryCount": 5,
+  "aliveStatusCodes": [200, 203],
+  "ignorePatterns": [
+    {
+      "pattern": "epicgames.com"
+    },
+    {
+      "pattern": "thegamebakers.com"
+    },
+    {
+      "pattern": "img.shields.io"
+    }
+  ]
+}

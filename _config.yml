@@ -1,0 +1,13 @@
+theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - readme.md
+  - 404.md
+  - myself-on-internet.md
+  - nice-stuff-on-internet.md
+  - game.md
+  - invitations.md

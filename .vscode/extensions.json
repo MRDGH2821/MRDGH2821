@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "bierner.github-markdown-preview",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "michaelcurrin.auto-commit-msg",
+    "redhat.vscode-yaml",
+    "spmeesseman.vscode-taskexplorer",
+    "streetsidesoftware.code-spell-checker",
+    "tamasfe.even-better-toml"
+  ]
+}

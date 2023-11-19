@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Mega lint",
+      "type": "shell",
+      "command": "npx -y mega-linter-runner --flavor documentation",
+      "problemMatcher": [],
+      "group": {
+        "kind": "none",
+        "isDefault": true
+      }
+    }
+  ]
+}

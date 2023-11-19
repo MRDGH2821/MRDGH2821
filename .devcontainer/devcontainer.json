@@ -1,0 +1,34 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:bullseye",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/devcontainers-contrib/features/npm-package:1": {
+      "package": "mega-linter-runner"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "bierner.github-markdown-preview",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-emoji",
+        "bierner.markdown-footnotes",
+        "bierner.markdown-mermaid",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-yaml-preamble",
+        "christian-kohler.path-intellisense",
+        "DavidAnson.vscode-markdownlint",
+        "eamodio.gitlens",
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode",
+        "ms-vscode.atom-keybindings",
+        "ms-vscode.wordcount",
+        "redhat.vscode-yaml",
+        "softwaredotcom.swdc-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one",
+        "michaelcurrin.auto-commit-msg"
+      ]
+    }
+  }
+}

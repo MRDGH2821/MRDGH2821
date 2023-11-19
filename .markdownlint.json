@@ -1,0 +1,9 @@
+{
+  "no-inline-html": {
+    "allowed_elements": ["iframe"]
+  },
+  "line-length": {
+    "tables": false,
+    "strict": false
+  }
+}
