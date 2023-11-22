@@ -1,4 +1,5 @@
 {
+  "name": "MRDGH2821's GitHub Profile",
   "image": "mcr.microsoft.com/devcontainers/base:bullseye",
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {},
