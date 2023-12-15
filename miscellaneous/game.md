@@ -35,7 +35,6 @@ Listed with priority order.
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [Relicta](https://store.epicgames.com/en-US/p/relicta)                                                   | Main story left                                  |
 | [Kena: Bridge of Sprits](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)                     | Main story left, doesn't sync save game on cloud |
-| [Salt & Sanctuary](https://store.epicgames.com/en-US/p/salt-and-sanctuary)                               | Main story left                                  |
 | [Deponia: The Complete Journey](https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/) | Main story left                                  |
 | [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                                        | Main story left                                  |
 
@@ -86,6 +85,7 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [Assassin's Creed Liberation Remastered](https://www.epicgames.com/store/en-US/p/assassins-creed-3)                       | ✅ 22-11-2021           | 🚫                  |
 | [Watch Dogs](https://www.epicgames.com/store/en-US/p/watch-dogs)                                                          | ✅ 14-12-2021           | ⬛                  |
 | [Raji: An Ancient Epic](https://store.epicgames.com/en-US/p/raji-an-ancient-epic)                                         | ✅ 13-10-2023           | 🚫                  |
+| [Salt & Sanctuary](https://store.epicgames.com/en-US/p/salt-and-sanctuary)                                                | ✅ 15-12-2023           | 🚫                  |
 
 ## GOG
 
