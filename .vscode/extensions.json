@@ -8,6 +8,7 @@
     "redhat.vscode-yaml",
     "spmeesseman.vscode-taskexplorer",
     "streetsidesoftware.code-spell-checker",
-    "tamasfe.even-better-toml"
+    "tamasfe.even-better-toml",
+    "shopify.ruby-extensions-pack"
   ]
 }
