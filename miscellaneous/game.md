@@ -97,26 +97,26 @@ Most likely I won't be playing them, but would be nice to come back to.
 
 <div class="datatable-begin"></div>
 
-| Game name   | Link                                                   | 🎮 Main Story/Campaign | 🎁 DLC(s)     | 📝 Notes              |
-| ----------- | ------------------------------------------------------ | ---------------------- | ------------- | --------------------- |
-| Moonlighter | [EGS](https://store.epicgames.com/en-US/p/moonlighter) | ✅ 2020-09-21          | ⬛            | -                     |
-| Control     | [EGS](https://store.epicgames.com/en-US/p/control)     | ✅                     | ✅ 2020-09-30 | Purchased because RTX |
+| Game name                      | Link                                                                    | 🎮 Main Story/Campaign | 🎁 DLC(s)       | 📝 Notes                                                                                                                                                                                                                             |
+| ------------------------------ | ----------------------------------------------------------------------- | ---------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Moonlighter                    | [EGS](https://store.epicgames.com/en-US/p/moonlighter)                  | ✅ 2020-09-21          | ⬛              | -                                                                                                                                                                                                                                    |
+| Control                        | [EGS](https://store.epicgames.com/en-US/p/control)                      | ✅                     | ✅ 2020-09-30   | Purchased because RTX                                                                                                                                                                                                                |
+| Alan Wake's American Nightmare | [EGS](https://store.epicgames.com/en-US/p/alan-wake-american-nightmare) | ✅                     | 🚫              | -                                                                                                                                                                                                                                    |
+| Batman™: Arkham Asylum GOTY    | [EGS](https://store.epicgames.com/en-US/p/batman-arkham-asylum)         | ✅                     | 🚫              | Good game, but controls were somewhat clunky                                                                                                                                                                                         |
+| Oxenfree                       | [EGS](https://store.epicgames.com/en-US/p/oxenfree)                     | ✅                     | 🚫              | -                                                                                                                                                                                                                                    |
+| Transistor                     | [EGS](https://store.epicgames.com/en-US/p/transistor)                   | ✅                     | 🚫              | It felt interesting                                                                                                                                                                                                                  |
+| Ashen                          | [EGS](https://store.epicgames.com/en-US/p/ashen)                        | ✅                     | ⬛              | Purchased because Good art                                                                                                                                                                                                           |
+| Alan Wake                      | [EGS](https://store.epicgames.com/en-US/p/alan-wake)                    | ✅                     | 🚫              | -                                                                                                                                                                                                                                    |
+| Assassin's Creed Syndicate     | [EGS](https://store.epicgames.com/en-US/p/assassins-creed-syndicate)    | ✅🔍                   | ✅🔍 06-11-2023 | Ubisoft deleted my OG saves. Restarted after purchasing Season pass, opened JTR, due to incomplete installation it loaded main campaign. After repairing installation, completed JTR & borrowed 💯 save file and got rid of the game |
 
 <div class="datatable-end"></div>
 
 ## Epic Games Store
 
+<div class="datatable-begin"></div>
+
 | Game Name                                                                                                                 | Main Campaign Complete? | All DLCs Complete ? |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------- |
-| [Moonlighter](https://www.epicgames.com/store/en-US/product/moonlighter/home)                                             | ✅ 21-09-2020           | ⬛                  |
-| [Control](https://www.epicgames.com/store/en-US/product/control/home)                                                     | ✅                      | ✅ 30-09-2020       |
-| [Alan Wake's American Nightmare](https://www.epicgames.com/store/en-US/product/alan-wake-american-nightmare/home)         | ✅                      | 🚫                  |
-| [Batman™: Arkham Asylum GOTY](https://www.epicgames.com/store/en-US/product/batman-arkham-asylum/home)                    | ✅                      | 🚫                  |
-| [Oxenfree](https://www.epicgames.com/store/en-US/product/oxenfree/home)                                                   | ✅                      | 🚫                  |
-| [Transistor](https://www.epicgames.com/store/en-US/product/transistor/home)                                               | ✅                      | 🚫                  |
-| [Ashen](https://www.epicgames.com/store/en-US/product/ashen/home)                                                         | ✅                      | ⬛                  |
-| [Alan Wake](https://www.epicgames.com/store/en-US/product/alan-wake/home)                                                 | ✅                      | 🚫                  |
-| [Assassin's Creed Syndicate](https://www.epicgames.com/store/en-US/product/assassins-creed-syndicate/home)                | ✅                      | ✅ 06-11-2023       |
 | [Aztez](https://www.epicgames.com/store/en-US/product/aztez/home)                                                         | ✅                      | 🚫                  |
 | [Celeste](https://www.epicgames.com/store/en-US/product/celeste/home)                                                     | ✅                      | 🚫                  |
 | [Kingdom New Lands](https://www.epicgames.com/store/en-US/product/kingdom-new-lands/home)                                 | ✅                      | 🚫                  |
@@ -130,6 +130,7 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [Raji: An Ancient Epic](https://store.epicgames.com/en-US/p/raji-an-ancient-epic)                                         | ✅ 13-10-2023           | 🚫                  |
 | [Salt & Sanctuary](https://store.epicgames.com/en-US/p/salt-and-sanctuary)                                                | ✅ 15-12-2023           | 🚫                  |
 
+<div class="datatable-end"></div>
 ## GOG
 
 | Game Name                                                                                    | Main Campaign Complete? | All DLCs Complete ? |
