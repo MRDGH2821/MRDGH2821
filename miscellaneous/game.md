@@ -1,3 +1,7 @@
+---
+datatable: true
+---
+
 # My gamer side
 
 <script
