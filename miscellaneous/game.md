@@ -1,5 +1,11 @@
 # My gamer side
 
+<script
+  src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
+  integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
+  crossorigin="anonymous">
+</script>
+
 I have played many games in my life, I admit it.
 Fortunately I played brain developing games also!
 
@@ -25,11 +31,31 @@ Want to go back to [main page](../readme.md)?
 - ❌ Not Completed
 - 🚫 Not Applicable
 - GOTY - Game Of The Year Edition
+- 🎮 Main Story/Campaign Complete
+- 🎁 DLC(s) Story/Campaign Complete
+- 🏆 All Achievements Obtained
+- 🔍 All Collectibles Obtained
+- 💯 Main quest & Side quests 100% Complete
+
+Some notations will be mixed like:
+
+- 🎮🎁 Main story & DlCs completed
+- 🎮💯 Main story 100% complete
+- 🎁🔍 DLCs completed with all collectibles
+
+And so forth..
+Thus the general format will be:
+
+> Main game, DLC, Extras
+>
+> 🎮💯🔍,🎁💯🔍,🏆
 
 ## On Going ~~Backlog~~
 
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
+
+<div class="datatable-begin"></div>
 
 | Game Name                                                                                                | Notes                                            |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -37,6 +63,8 @@ Listed with priority order.
 | [Kena: Bridge of Sprits](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)                     | Main story left, doesn't sync save game on cloud |
 | [Deponia: The Complete Journey](https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/) | Main story left                                  |
 | [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                                        | Main story left                                  |
+
+<div class="datatable-end"></div>
 
 ### Optional Backlog
 
@@ -60,6 +88,17 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [The End is Nigh](https://store.epicgames.com/en-US/p/the-end-is-nigh)          | Because platformer           |
 | [World of Goo](https://store.epicgames.com/en-US/p/world-of-goo)                | -                            |
 | [Restless Soul Demo](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/) | Main story left              |
+
+## Completed Games
+
+<div class="datatable-begin"></div>
+
+| Game name   | Link                                                   | 🎮 Main Story/Campaign | 🎁 DLC(s)     | 📝 Notes              |
+| ----------- | ------------------------------------------------------ | ---------------------- | ------------- | --------------------- |
+| Moonlighter | [EGS](https://store.epicgames.com/en-US/p/moonlighter) | ✅ 2020-09-21          | ⬛            | -                     |
+| Control     | [EGS](https://store.epicgames.com/en-US/p/control)     | ✅                     | ✅ 2020-09-30 | Purchased because RTX |
+
+<div class="datatable-end"></div>
 
 ## Epic Games Store
 
