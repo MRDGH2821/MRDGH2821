@@ -5,7 +5,16 @@
       "label": "Mega lint",
       "type": "shell",
       "command": "npx -y mega-linter-runner --flavor documentation",
-      "problemMatcher": [],
+      "group": {
+        "kind": "none",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Jekyll Serve",
+      "type": "process",
+      "command": "bundle",
+      "args": ["exec", "jekyll", "serve", "--livereload"],
       "group": {
         "kind": "none",
         "isDefault": true
