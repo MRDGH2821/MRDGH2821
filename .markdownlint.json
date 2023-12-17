@@ -1,6 +1,6 @@
 {
   "no-inline-html": {
-    "allowed_elements": ["iframe"]
+    "allowed_elements": ["iframe", "script", "div"]
   },
   "line-length": {
     "tables": false,
