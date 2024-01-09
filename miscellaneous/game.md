@@ -1,14 +1,4 @@
----
-datatable: true
----
-
 # My gamer side
-
-<script
-  src="https://code.jquery.com/jquery-3.7.1.slim.min.js"
-  integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8="
-  crossorigin="anonymous">
-</script>
 
 I have played many games in my life, I admit it.
 Fortunately I played brain developing games also!
@@ -59,16 +49,12 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-<div class="datatable-begin"></div>
-
 | Game Name                                                                                                | Notes                                            |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [Relicta](https://store.epicgames.com/en-US/p/relicta)                                                   | Main story left                                  |
 | [Kena: Bridge of Sprits](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)                     | Main story left, doesn't sync save game on cloud |
 | [Deponia: The Complete Journey](https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/) | Main story left                                  |
 | [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                                        | Main story left                                  |
-
-<div class="datatable-end"></div>
 
 ### Optional Backlog
 
@@ -95,8 +81,6 @@ Most likely I won't be playing them, but would be nice to come back to.
 
 ## Completed Games
 
-<div class="datatable-begin"></div>
-
 | Game name                      | Link                                                                    | 🎮 Main Story/Campaign | 🎁 DLC(s)       | 📝 Notes                                                                                                                                                                                                                                       |
 | ------------------------------ | ----------------------------------------------------------------------- | ---------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Moonlighter                    | [EGS](https://store.epicgames.com/en-US/p/moonlighter)                  | ✅ 2020-09-21          | ⬛              | -                                                                                                                                                                                                                                              |
@@ -109,11 +93,7 @@ Most likely I won't be playing them, but would be nice to come back to.
 | Alan Wake                      | [EGS](https://store.epicgames.com/en-US/p/alan-wake)                    | ✅                     | 🚫              | -                                                                                                                                                                                                                                              |
 | Assassin's Creed Syndicate     | [EGS](https://store.epicgames.com/en-US/p/assassins-creed-syndicate)    | ✅🔍                   | ✅🔍 2023-11-06 | Ubisoft deleted my OG saves. <br/>Restarted after purchasing Season pass, opened JTR, due to incomplete installation it loaded main campaign. <br/>After repairing installation, completed JTR & borrowed 💯 save file and got rid of the game |
 
-<div class="datatable-end"></div>
-
 ## Epic Games Store
-
-<div class="datatable-begin"></div>
 
 | Game Name                                                                                                                 | Main Campaign Complete? | All DLCs Complete ? |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------- |
@@ -130,7 +110,6 @@ Most likely I won't be playing them, but would be nice to come back to.
 | [Raji: An Ancient Epic](https://store.epicgames.com/en-US/p/raji-an-ancient-epic)                                         | ✅ 13-10-2023           | 🚫                  |
 | [Salt & Sanctuary](https://store.epicgames.com/en-US/p/salt-and-sanctuary)                                                | ✅ 15-12-2023           | 🚫                  |
 
-<div class="datatable-end"></div>
 ## GOG
 
 | Game Name                                                                                    | Main Campaign Complete? | All DLCs Complete ? |
