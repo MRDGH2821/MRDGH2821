@@ -30,8 +30,8 @@ Want to go back to [main page](../readme.md)?
 
 | Site                                                                                    | Invite/Referral Link/code                                 |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [![Peak Brain Training][Peak-Badge]](https://go.peak.net/vYs93e7dWEb)                   | [Click here](https://go.peak.net/vYs93e7dWEb)             |
 | [![Elevate Brain Training][Elevate-Badge]](https://elevateapp.sng.link/A1moj/ksel/1gbb) | [Click here](https://elevateapp.sng.link/A1moj/ksel/1gbb) |
+| [![Peak Brain Training][Peak-Badge]](https://go.peak.net/vYs93e7dWEb)                   | [Click here](https://go.peak.net/vYs93e7dWEb)             |
 | [![StepSetGo][StepSetGo-Badge]](https://app.stepsetgo.com/i/mihirr4qzg)                 | [Click here](https://app.stepsetgo.com/i/mihirr4qzg)      |
 | [![Uber][Uber-Badge]](https://www.uber.com/invite/mihirr1010ue)                         | [mihirr1010ue](https://www.uber.com/invite/mihirr1010ue)  |
 
