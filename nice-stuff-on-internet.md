@@ -15,7 +15,7 @@ You Might want to visit My online [Profiles](myself-on-internet.md) or you want 
 | -------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------- |
 | [OpenAI Prompt Engineering Course](https://learn.deeplearning.ai/)                                 | N/A        | Useful in the era of ChatGPT                                                  |
 | [LinkedIn Tips Compilation Vol.1](https://bit.ly/LITipsVol1)                                       | N/A        | A compilation of LinkedIn tips which I personally feel & found over internet. |
-| [Learn Skills for In-Demand jobs](https://bit.ly/30biXpr)                                          | 31-03-2021 |                                                                               |
+| [Learn Skills for In-Demand jobs](https://bit.ly/30biXpr)                                          | 2021-03-31 |                                                                               |
 | [Student email benefits!](https://www.makeuseof.com/tag/discounts-edu-email-address/)              | Depends    |                                                                               |
 | [This free Linux course has trained a million people in open-source tools](https://tek.io/3cHmNf8) | N/A        | [Link to course](https://bit.ly/33aSZEh)                                      |
 | [Free Coding Courses](http://bit.ly/FreeCodingCourses)                                             |            |                                                                               |
@@ -27,7 +27,7 @@ You Might want to visit My online [Profiles](myself-on-internet.md) or you want 
 | [Learn to Code!](http://bit.ly/lrn2cde)                                                            | N/A        | Ebooks of programming languages                                               |
 | [EBooks Repo](http://bit.ly/EBOOKSbyRAaETH)                                                        | N/A        | Ebooks by my [friend](https://github.com/RohitM-IN)                           |
 | [Saatvik Recipes](https://bit.ly/recipemaster)                                                     | N/A        | An excel sheet containing Saatvik Recipes + a video on how to use it          |
-| [Free Quantum Computing Course](https://www.qubitbyqubit.org/programs)                             | 17-10-2020 | You can still apply for it                                                    |
+| [Free Quantum Computing Course](https://www.qubitbyqubit.org/programs)                             | 2020-10-17 | You can still apply for it                                                    |
 | [Practical Applications of Data Structures and Algorithms](http://bit.ly/2PySIH3)                  | N/A        | A nice material for interview preparation                                     |
 
 ## Other stuff I found useful
