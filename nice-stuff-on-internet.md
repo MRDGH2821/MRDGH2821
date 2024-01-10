@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD013 -->
-
 # Nice Stuff on Internet
 
 Here's a list of some stuff which can be useful to everyone.
@@ -9,7 +7,8 @@ Its free of cost mostly. Few of them have expiry dates, so grab them quickly!
 Also, there are some benefits when a friend invites you.
 So, do not forget to check this [page!](./miscellaneous/invitations.md)
 
-You Might want to visit My online [Profiles](myself-on-internet.md) or you want to go back to [main page](readme.md)?
+Visit my online [Profiles](myself-on-internet.md).
+_Back to [main page](readme.md)_
 
 | Link                                                                                               | Expiry     | Notes                                                                         |
 | -------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------- |
