@@ -4,11 +4,12 @@
     "eamodio.gitlens",
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
+    "fcrespo82.markdown-table-formatter",
     "michaelcurrin.auto-commit-msg",
     "redhat.vscode-yaml",
+    "shopify.ruby-extensions-pack",
     "spmeesseman.vscode-taskexplorer",
     "streetsidesoftware.code-spell-checker",
-    "tamasfe.even-better-toml",
-    "shopify.ruby-extensions-pack"
+    "tamasfe.even-better-toml"
   ]
 }

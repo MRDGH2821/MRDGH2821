@@ -23,13 +23,14 @@
         "eamodio.gitlens",
         "editorconfig.editorconfig",
         "esbenp.prettier-vscode",
+        "fcrespo82.markdown-table-formatter",
+        "michaelcurrin.auto-commit-msg",
         "ms-vscode.atom-keybindings",
         "ms-vscode.wordcount",
         "redhat.vscode-yaml",
         "softwaredotcom.swdc-vscode",
         "streetsidesoftware.code-spell-checker",
-        "yzhang.markdown-all-in-one",
-        "michaelcurrin.auto-commit-msg"
+        "yzhang.markdown-all-in-one"
       ]
     }
   }
