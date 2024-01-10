@@ -4,13 +4,16 @@
   "aliveStatusCodes": [200, 203],
   "ignorePatterns": [
     {
-      "pattern": "epicgames.com"
+      "pattern": "store.epicgames.com"
     },
     {
       "pattern": "thegamebakers.com"
     },
     {
       "pattern": "img.shields.io"
+    },
+    {
+      "pattern": "linkedin.com"
     }
   ]
 }
