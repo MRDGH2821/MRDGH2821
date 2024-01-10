@@ -22,7 +22,7 @@ _In case you are recruiter or a company official, contact me at [LinkedIn](https
 
 ### My overall Contribution at GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MRDGH2821&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=MRDGH2821&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRDGH2821&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdgh2821)
 
