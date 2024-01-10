@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📔 You can view this repo as [Website](https://bit.ly/mrdgh2821) or as [repo page](https://github.com/MRDGH2821/MRDGH2821)
 - ⚖️ [Legal Section](./legal/readme.md) for legal purposes
 
-_In case you came from Social media click [here](nice-stuff-on-internet.md) or [here](myself-on-internet.md.md)_
+_In case you came from Social media click [here](nice-stuff-on-internet.md) or [here](myself-on-internet.md)_
 
 _In case you are recruiter or a company official, contact me at [LinkedIn](https://www.linkedin.com/in/mihir-rabade) after exploring my repositories_
 
@@ -24,7 +24,7 @@ _In case you are recruiter or a company official, contact me at [LinkedIn](https
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MRDGH2821&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRDGH2821&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdgh2821&)
+[![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRDGH2821&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mrdgh2821)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=MRDGH2821)](https://github.com/LordDashMe/github-contribution-stats/) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mrdgh2821&show_icons=true&locale=en&layout=compact)
 
