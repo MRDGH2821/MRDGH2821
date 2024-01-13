@@ -1,1 +1,6 @@
-exclude = ['epicgames.com', 'thegamebakers.com', 'img.shields.io']
+exclude = [
+  'epicgames.com',
+  'thegamebakers.com',
+  'img.shields.io',
+  'linkedin.com',
+]
