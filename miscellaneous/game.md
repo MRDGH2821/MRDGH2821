@@ -49,12 +49,13 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game Name                                                                                                | Notes                                            |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [Relicta](https://store.epicgames.com/en-US/p/relicta)                                                   | Main story left                                  |
-| [Kena: Bridge of Sprits](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)                     | Main story left, doesn't sync save game on cloud |
-| [Deponia: The Complete Journey](https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/) | Main story left                                  |
-| [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                                        | Main story left                                  |
+| Game Name                                                                                                | Notes                                                           |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Relicta](https://store.epicgames.com/en-US/p/relicta)                                                   | Main story left                                                 |
+| [Kena: Bridge of Sprits](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)                     | Main story left, doesn't sync save game on cloud                |
+| [Deponia: The Complete Journey](https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/) | Main story left                                                 |
+| [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                                        | Main story left                                                 |
+| [Nier: Automata](https://store.steampowered.com/app/524220/NieRAutomata/)                                | 1 Ending obtained out of 5 major endings. Started 22 March 2024 |
 
 ### Optional Backlog
 
