@@ -156,6 +156,7 @@ So cracked games are out of question.
 | [Haven](http://www.thegamebakers.com/haven/)                                                 | ✅ 2021-08-03           | 🚫                  | [EGS](https://www.epicgames.com/store/en-US/p/haven)                             |
 | [Plants Vs. Zombies 2](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies-2) | ✅                      | 🚫                  | The game is mobile exclusive                                                     |
 | [Plants Vs. Zombies](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies)     | ✅                      | 🚫                  | [Steam](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/) |
+| [Assassin's Creed](https://www.ubisoft.com/en-us/game/assassins-creed/assassins-creed)       | ✅                      | 🚫                  | [GOG](https://www.gog.com/en/game/assassins_creed_directors_cut)                 |
 
 ## I'm skipping
 
