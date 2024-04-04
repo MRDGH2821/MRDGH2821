@@ -53,7 +53,6 @@ Listed with priority order.
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [Kena: Bridge of Sprits](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)                     | Main story left, doesn't sync save game on cloud                |
 | [Deponia: The Complete Journey](https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/) | Main story left                                                 |
-| [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                                        | Main story left                                                 |
 | [Nier: Automata](https://store.steampowered.com/app/524220/NieRAutomata/)                                | 2 Ending obtained out of 5 major endings. Started 22 March 2024 |
 
 ### Optional Backlog
@@ -165,17 +164,18 @@ And I skip online games too, because Online & cannot speed run to complete.
 I also skip card games, as they are too long.
 The other games listed here are those I'm totally skipping.
 
-| Game name                                                                                | Notes                                               |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [Everything](https://store.epicgames.com/en-US/p/everything)                             | Felt boring                                         |
-| [Faeria](https://store.epicgames.com/en-US/p/faeria)                                     | Card game, got je-baited                            |
-| [GNOG](https://store.epicgames.com/en-US/p/gnog)                                         | Didn't understand the game                          |
-| [Kingdom Come Deliverance](https://store.epicgames.com/en-US/p/kingdom-come-deliverance) | 1st person view & complex game economy made me skip |
-| [Mutant year Zero Road to Eden](https://store.epicgames.com/en-US/p/mutant-year-zero)    | Feel like skipping it                               |
-| [My Time at Portia](https://store.epicgames.com/en-US/p/my-time-at-portia)               | Too much of a grind, even with cheats               |
-| [Remnant: From the Ashes](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)    | Feel like skipping it, also too heavy on GPU        |
-| [Slime Rancher](https://store.epicgames.com/en-US/p/slime-rancher)                       | It was FPS type, got je-baited                      |
-| [Subnautica](https://store.epicgames.com/en-US/p/subnautica)                             | Didn't understand the game                          |
-| [Surviving Mars](https://store.epicgames.com/en-US/p/surviving-mars)                     | It was actually good one, but it is sandbox         |
-| [Tacoma](https://store.epicgames.com/en-US/p/tacoma)                                     | Didn't understand the game                          |
-| [Torchlight](https://store.epicgames.com/en-US/p/torchlight)                             | Top down view was uncomfortable                     |
+| Game name                                                                                | Notes                                                   |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [Everything](https://store.epicgames.com/en-US/p/everything)                             | Felt boring                                             |
+| [Faeria](https://store.epicgames.com/en-US/p/faeria)                                     | Card game, got je-baited                                |
+| [GNOG](https://store.epicgames.com/en-US/p/gnog)                                         | Didn't understand the game                              |
+| [Kingdom Come Deliverance](https://store.epicgames.com/en-US/p/kingdom-come-deliverance) | 1st person view & complex game economy made me skip     |
+| [Mutant year Zero Road to Eden](https://store.epicgames.com/en-US/p/mutant-year-zero)    | Feel like skipping it                                   |
+| [My Time at Portia](https://store.epicgames.com/en-US/p/my-time-at-portia)               | Too much of a grind, even with cheats                   |
+| [Remnant: From the Ashes](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)    | Feel like skipping it, also too heavy on GPU            |
+| [Slime Rancher](https://store.epicgames.com/en-US/p/slime-rancher)                       | It was FPS type, got je-baited                          |
+| [Subnautica](https://store.epicgames.com/en-US/p/subnautica)                             | Didn't understand the game                              |
+| [Surviving Mars](https://store.epicgames.com/en-US/p/surviving-mars)                     | It was actually good one, but it is sandbox             |
+| [Tacoma](https://store.epicgames.com/en-US/p/tacoma)                                     | Didn't understand the game                              |
+| [Torchlight](https://store.epicgames.com/en-US/p/torchlight)                             | Top down view was uncomfortable                         |
+| [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                        | Janky camera view was uncomfortable as well as controls |
