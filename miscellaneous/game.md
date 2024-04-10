@@ -59,24 +59,25 @@ Listed with priority order.
 
 Most likely I won't be playing them, but would be nice to come back to.
 
-| Game Name           | Link                                                                 | Notes                        |
-| ------------------- | -------------------------------------------------------------------- | ---------------------------- |
-| ABZU                | [EGS](https://store.epicgames.com/en-US/p/abzu)                      | -                            |
-| Axiom Verge         | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)               | Because Platformer           |
-| Costume Quest       | [EGS](https://store.epicgames.com/en-US/p/costume-quest)             | -                            |
-| Enter The Gungeon   | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)         | -                            |
-| Fearless Fantasy    | [Steam](https://store.steampowered.com/app/282100/Fearless_Fantasy/) | Because it got action        |
-| Fez                 | [EGS](https://store.epicgames.com/en-US/p/fez)                       | I liked its 2.5D             |
-| Hyper Light Drifter | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)       | Was attracted to its visuals |
-| Inside              | [EGS](https://store.epicgames.com/en-US/p/inside)                    | -                            |
-| Last Day of June    | [EGS](https://store.epicgames.com/en-US/p/last-day-of-june)          | -                            |
-| Metro 2033 Redux    | [EGS](https://store.epicgames.com/en-US/p/metro-2033-redux)          | -                            |
-| Minit               | [EGS](https://store.epicgames.com/en-US/p/minit)                     | -                            |
-| Restless Soul Demo  | [Steam](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)   | Main story left              |
-| Rime                | [EGS](https://store.epicgames.com/en-US/p/rime)                      | I liked the visuals          |
-| Super Meat Boy      | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)            | Because Platformer           |
-| The End is Nigh     | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)           | Because platformer           |
-| World of Goo        | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)              | -                            |
+| Game Name           | Link                                                                     | Notes                        |
+| ------------------- | ------------------------------------------------------------------------ | ---------------------------- |
+| ABZU                | [EGS](https://store.epicgames.com/en-US/p/abzu)                          | -                            |
+| Axiom Verge         | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)                   | Because Platformer           |
+| Costume Quest       | [EGS](https://store.epicgames.com/en-US/p/costume-quest)                 | -                            |
+| Death Stranding     | [EGS](https://store.epicgames.com/en-US/p/death-stranding-directors-cut) | -                            |
+| Enter The Gungeon   | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)             | -                            |
+| Fearless Fantasy    | [Steam](https://store.steampowered.com/app/282100/Fearless_Fantasy/)     | Because it got action        |
+| Fez                 | [EGS](https://store.epicgames.com/en-US/p/fez)                           | I liked its 2.5D             |
+| Hyper Light Drifter | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)           | Was attracted to its visuals |
+| Inside              | [EGS](https://store.epicgames.com/en-US/p/inside)                        | -                            |
+| Last Day of June    | [EGS](https://store.epicgames.com/en-US/p/last-day-of-june)              | -                            |
+| Metro 2033 Redux    | [EGS](https://store.epicgames.com/en-US/p/metro-2033-redux)              | -                            |
+| Minit               | [EGS](https://store.epicgames.com/en-US/p/minit)                         | -                            |
+| Restless Soul Demo  | [Steam](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)       | Main story left              |
+| Rime                | [EGS](https://store.epicgames.com/en-US/p/rime)                          | I liked the visuals          |
+| Super Meat Boy      | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)                | Because Platformer           |
+| The End is Nigh     | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)               | Because platformer           |
+| World of Goo        | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)                  | -                            |
 
 ## Completed Games
 
@@ -177,6 +178,8 @@ The other games listed here are those I'm totally skipping.
 | Kingdom Come Deliverance      | [EGS](https://store.epicgames.com/en-US/p/kingdom-come-deliverance) | 1st person view & complex game economy made me skip |
 | Mutant year Zero Road to Eden | [EGS](https://store.epicgames.com/en-US/p/mutant-year-zero)         | Feel like skipping it                               |
 | My Time at Portia             | [EGS](https://store.epicgames.com/en-US/p/my-time-at-portia)        | Too much of a grind, even with cheats               |
+| Overcooked 2                  | [EGS](https://store.epicgames.com/en-US/p/overcooked-2)             | Too much demanding 😬                               |
+| PC Building Simulator         | [EGS](https://store.epicgames.com/en-US/p/pc-building-simulator)    | Played to get PC building experience                |
 | Remnant: From the Ashes       | [EGS](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)   | Feel like skipping it, also too heavy on GPU        |
 | Slime Rancher                 | [EGS](https://store.epicgames.com/en-US/p/slime-rancher)            | It was FPS type, got je-baited                      |
 | Subnautica                    | [EGS](https://store.epicgames.com/en-US/p/subnautica)               | Didn't understand the game                          |
