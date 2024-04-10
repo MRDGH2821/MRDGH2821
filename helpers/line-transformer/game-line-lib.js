@@ -4,7 +4,7 @@ const https = require('https');
  *
  * @param {string} store
  */
-export function storeMatch(store) {
+function storeMatch(store) {
   switch (true) {
     case store.includes('.steampower'):
       return 'Steam';
@@ -25,7 +25,7 @@ export function storeMatch(store) {
  *
  * @param {string} line
  */
-export function completedGamesPropsExtractor(line) {
+function completedGamesPropsExtractor(line) {
   const regex = /\|\s*\[(.*?)\]\((.*?)\)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|/;
   const match = line.match(regex);
   if (match) {
@@ -45,7 +45,7 @@ export function completedGamesPropsExtractor(line) {
  *
  * @param {string} line
  */
-export function backlogPropsExtractor(line) {
+function backlogPropsExtractor(line) {
   const match = line.match(/\|\s*\[(.*?)\]\((.*?)\)\s*\|\s*(.*?)\s*\|/);
   if (match) {
     const gameName = match[1];
@@ -72,3 +72,10 @@ export function resolveLink(link) {
     return finalURL;
   });
 }
+
+module.exports = {
+  backlogPropsExtractor,
+  completedGamesPropsExtractor,
+  resolveLink,
+  storeMatch,
+};
