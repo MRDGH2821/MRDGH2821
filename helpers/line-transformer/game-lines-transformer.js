@@ -2,6 +2,7 @@
 const readline = require('readline');
 const { resolveLink, backlogPropsExtractor } = require('./game-line-lib');
 const { exec } = require('child_process');
+const { copyCommand } = require('../lib');
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -31,13 +32,6 @@ rl.on('close', async () => {
     }
   }
 
-  // Copy the new line to the clipboard
-  const copyCommand =
-    process.platform === 'win32'
-      ? 'clip'
-      : process.platform === 'darwin'
-      ? 'pbcopy'
-      : 'xclip -selection clipboard';
   exec(`echo "${newLines.join('\n')}" | ${copyCommand}`);
   console.info('\nCopied to clipboard!');
   process.exit(0);
