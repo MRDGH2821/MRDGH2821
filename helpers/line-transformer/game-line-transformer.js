@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 const readline = require('readline');
-const http = require('http');
-const https = require('https');
 const { exec } = require('child_process');
 const { backlogPropsExtractor, resolveLink } = require('./game-line-lib');
 
@@ -10,14 +8,11 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-rl.question('Enter old line: ', (line) => {
+rl.question('Enter old line: ', async (line) => {
   const result = backlogPropsExtractor(line);
   if (result) {
     const link = result.link;
-
-    const protocol = link.startsWith('https') ? https : http;
-
-    const finalURL = resolveLink(link);
+    const finalURL = await resolveLink(link);
 
     const newLine = result.newLineFormatter(finalURL);
     console.log('Here is your line in the new format:\n');

@@ -33,6 +33,11 @@ function completedGamesPropsExtractor(line) {
     const link = match[2];
     const mainCampaign = match[3];
     const dlc = match[4];
+    /**
+     *
+     * @param {string} finalURL
+     * @returns string
+     */
     const newLineFormatter = (finalURL) =>
       `| ${gameName} | [${storeMatch(finalURL)}](${finalURL}) | ${mainCampaign} | ${dlc} | - |`;
     return { link, newLineFormatter };
@@ -63,13 +68,19 @@ function backlogPropsExtractor(line) {
 /**
  *
  * @param {string} link
+ * @returns Promise<string>
  */
-export function resolveLink(link) {
+async function resolveLink(link) {
   const protocol = link.startsWith('https') ? https : http;
-
-  return protocol.get(link, (response) => {
-    const finalURL = response.headers.location || link;
-    return finalURL;
+  return new Promise((resolve, reject) => {
+    protocol
+      .get(link, (response) => {
+        const finalURL = response.headers.location || link;
+        resolve(finalURL);
+      })
+      .on('error', (err) => {
+        reject(err);
+      });
   });
 }
 
