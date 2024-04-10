@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 const readline = require('readline');
-const { exec } = require('child_process');
 const { backlogPropsExtractor, resolveLink } = require('./game-line-lib');
-const { copyCommand } = require('../lib');
+const { copyToClipboard } = require('../lib');
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -19,7 +18,7 @@ rl.question('Enter old line: ', async (line) => {
     console.log('Here is your line in the new format:\n');
     console.log(newLine);
 
-    exec(`echo "${newLine}" | ${copyCommand}`);
+    copyToClipboard(newLine);
     console.info('\nCopied to clipboard!');
     process.exit(0);
   } else {

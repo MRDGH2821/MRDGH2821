@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 const readline = require('readline');
 const { notationToTable } = require('./game-line-lib');
-const { exec } = require('child_process');
-const { copyCommand } = require('../lib');
+const { copyToClipboard } = require('../lib');
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -33,7 +32,7 @@ rl.on('close', async () => {
     }
   }
 
-  exec(`echo "${newLines.join('\n')}" | ${copyCommand}`);
+  copyToClipboard(newLines.join('\n'));
   console.info('\nCopied to clipboard!');
   process.exit(0);
 });
