@@ -10,7 +10,7 @@ const rl = readline.createInterface({
 rl.question('Enter the number of hours: ', (hours) => {
   const totalMinutes = hours * 60;
   const h = Math.floor(totalMinutes / 60);
-  const m = totalMinutes % 60;
+  const m = Math.round(totalMinutes % 60);
   const formattedTime = `${h.toString().padStart(3, '0')}:${m.toString().padStart(2, '0')}`;
 
   copyToClipboard(formattedTime);
