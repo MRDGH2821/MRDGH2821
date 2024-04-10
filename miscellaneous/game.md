@@ -49,34 +49,34 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game Name                                                                                                | Notes                                                           |
-| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [Kena: Bridge of Sprits](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)                     | Main story left, doesn't sync save game on cloud                |
-| [Deponia: The Complete Journey](https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/) | Main story left                                                 |
-| [Nier: Automata](https://store.steampowered.com/app/524220/NieRAutomata/)                                | 2 Ending obtained out of 5 major endings. Started 22 March 2024 |
+| Game Name                     | Link                                                                             | Notes                                            |
+| ----------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------ |
+| Nier: Automata                | [Steam](https://store.steampowered.com/app/524220/NieRAutomata/)                 | Y ending left. Started 22 March 2024             |
+| Deponia: The Complete Journey | [Steam](https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/) | Main story left                                  |
+| Kena: Bridge of Sprits        | [EGS](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)                | Main story left, doesn't sync save game on cloud |
 
 ### Optional Backlog
 
 Most likely I won't be playing them, but would be nice to come back to.
 
-| Game Name                                                                       | Notes                        |
-| ------------------------------------------------------------------------------- | ---------------------------- |
-| [ABZU](https://store.epicgames.com/en-US/p/abzu)                                | -                            |
-| [Axiom Verge](https://store.epicgames.com/en-US/p/axiom-verge)                  | Because Platformer           |
-| [Costume Quest](https://store.epicgames.com/en-US/p/costume-quest)              | -                            |
-| [Enter The Gungeon](https://store.epicgames.com/en-US/p/enter-the-gungeon)      | -                            |
-| [Fearless Fantasy](https://store.steampowered.com/app/282100/Fearless_Fantasy/) | Because it got action        |
-| [Fez](https://store.epicgames.com/en-US/p/fez)                                  | I liked its 2.5D             |
-| [Hyper Light Drifter](https://store.epicgames.com/en-US/p/hyper-light-drifter)  | Was attracted to its visuals |
-| [Inside](https://store.epicgames.com/en-US/p/inside)                            | -                            |
-| [Last Day of June](https://store.epicgames.com/en-US/p/last-day-of-june)        | -                            |
-| [Metro 2033 Redux](https://store.epicgames.com/en-US/p/metro-2033-redux)        | -                            |
-| [Minit](https://store.epicgames.com/en-US/p/minit)                              | -                            |
-| [Restless Soul Demo](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/) | Main story left              |
-| [Rime](https://store.epicgames.com/en-US/p/rime)                                | I liked the visuals          |
-| [Super Meat Boy](https://store.epicgames.com/en-US/p/super-meat-boy)            | Because Platformer           |
-| [The End is Nigh](https://store.epicgames.com/en-US/p/the-end-is-nigh)          | Because platformer           |
-| [World of Goo](https://store.epicgames.com/en-US/p/world-of-goo)                | -                            |
+| Game Name           | Link                                                                 | Notes                        |
+| ------------------- | -------------------------------------------------------------------- | ---------------------------- |
+| ABZU                | [EGS](https://store.epicgames.com/en-US/p/abzu)                      | -                            |
+| Axiom Verge         | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)               | Because Platformer           |
+| Costume Quest       | [EGS](https://store.epicgames.com/en-US/p/costume-quest)             | -                            |
+| Enter The Gungeon   | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)         | -                            |
+| Fearless Fantasy    | [Steam](https://store.steampowered.com/app/282100/Fearless_Fantasy/) | Because it got action        |
+| Fez                 | [EGS](https://store.epicgames.com/en-US/p/fez)                       | I liked its 2.5D             |
+| Hyper Light Drifter | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)       | Was attracted to its visuals |
+| Inside              | [EGS](https://store.epicgames.com/en-US/p/inside)                    | -                            |
+| Last Day of June    | [EGS](https://store.epicgames.com/en-US/p/last-day-of-june)          | -                            |
+| Metro 2033 Redux    | [EGS](https://store.epicgames.com/en-US/p/metro-2033-redux)          | -                            |
+| Minit               | [EGS](https://store.epicgames.com/en-US/p/minit)                     | -                            |
+| Restless Soul Demo  | [Steam](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)   | Main story left              |
+| Rime                | [EGS](https://store.epicgames.com/en-US/p/rime)                      | I liked the visuals          |
+| Super Meat Boy      | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)            | Because Platformer           |
+| The End is Nigh     | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)           | Because platformer           |
+| World of Goo        | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)              | -                            |
 
 ## Completed Games
 
@@ -169,18 +169,17 @@ And I skip online games too, because Online & cannot speed run to complete.
 I also skip card games, as they are too long.
 The other games listed here are those I'm totally skipping.
 
-| Game name                                                                                | Notes                                                   |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [Everything](https://store.epicgames.com/en-US/p/everything)                             | Felt boring                                             |
-| [Faeria](https://store.epicgames.com/en-US/p/faeria)                                     | Card game, got je-baited                                |
-| [GNOG](https://store.epicgames.com/en-US/p/gnog)                                         | Didn't understand the game                              |
-| [Kingdom Come Deliverance](https://store.epicgames.com/en-US/p/kingdom-come-deliverance) | 1st person view & complex game economy made me skip     |
-| [Mutant year Zero Road to Eden](https://store.epicgames.com/en-US/p/mutant-year-zero)    | Feel like skipping it                                   |
-| [My Time at Portia](https://store.epicgames.com/en-US/p/my-time-at-portia)               | Too much of a grind, even with cheats                   |
-| [Remnant: From the Ashes](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)    | Feel like skipping it, also too heavy on GPU            |
-| [Slime Rancher](https://store.epicgames.com/en-US/p/slime-rancher)                       | It was FPS type, got je-baited                          |
-| [Subnautica](https://store.epicgames.com/en-US/p/subnautica)                             | Didn't understand the game                              |
-| [Surviving Mars](https://store.epicgames.com/en-US/p/surviving-mars)                     | It was actually good one, but it is sandbox             |
-| [Tacoma](https://store.epicgames.com/en-US/p/tacoma)                                     | Didn't understand the game                              |
-| [Torchlight](https://store.epicgames.com/en-US/p/torchlight)                             | Top down view was uncomfortable                         |
-| [Dragon Age Origins](https://www.gog.com/game/dragon_age_origins)                        | Janky camera view was uncomfortable as well as controls |
+| Game name                     | Link                                                                | Notes                                               |
+| ----------------------------- | ------------------------------------------------------------------- | --------------------------------------------------- |
+| Everything                    | [EGS](https://store.epicgames.com/en-US/p/everything)               | Felt boring                                         |
+| Faeria                        | [EGS](https://store.epicgames.com/en-US/p/faeria)                   | Card game, got je-baited                            |
+| GNOG                          | [EGS](https://store.epicgames.com/en-US/p/gnog)                     | Didn't understand the game                          |
+| Kingdom Come Deliverance      | [EGS](https://store.epicgames.com/en-US/p/kingdom-come-deliverance) | 1st person view & complex game economy made me skip |
+| Mutant year Zero Road to Eden | [EGS](https://store.epicgames.com/en-US/p/mutant-year-zero)         | Feel like skipping it                               |
+| My Time at Portia             | [EGS](https://store.epicgames.com/en-US/p/my-time-at-portia)        | Too much of a grind, even with cheats               |
+| Remnant: From the Ashes       | [EGS](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)   | Feel like skipping it, also too heavy on GPU        |
+| Slime Rancher                 | [EGS](https://store.epicgames.com/en-US/p/slime-rancher)            | It was FPS type, got je-baited                      |
+| Subnautica                    | [EGS](https://store.epicgames.com/en-US/p/subnautica)               | Didn't understand the game                          |
+| Surviving Mars                | [EGS](https://store.epicgames.com/en-US/p/surviving-mars)           | It was actually good one, but it is sandbox         |
+| Tacoma                        | [EGS](https://store.epicgames.com/en-US/p/tacoma)                   | Didn't understand the game                          |
+| Torchlight                    | [EGS](https://store.epicgames.com/en-US/p/torchlight)               | Top down view was uncomfortable                     |
