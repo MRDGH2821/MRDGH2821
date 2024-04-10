@@ -66,6 +66,21 @@ function backlogPropsExtractor(line) {
 }
 
 /**
+ * Converts Notation line to a markdown table row
+ * @param {string} line A line in the format of `- [emoji] text`
+ * @returns string
+ */
+function notationToTable(line) {
+  const match = line.match(/-\s(.{1,4})\s(.*)/);
+  if (match) {
+    const [_, notation, description] = match;
+    return `| ${notation} | ${description} |`;
+  } else {
+    throw new Error(`Expected format:\n - [emoji] text\n\nReceived:\n ${line}`);
+  }
+}
+
+/**
  *
  * @param {string} link
  * @returns Promise<string>
@@ -89,4 +104,5 @@ module.exports = {
   completedGamesPropsExtractor,
   resolveLink,
   storeMatch,
+  notationToTable,
 };

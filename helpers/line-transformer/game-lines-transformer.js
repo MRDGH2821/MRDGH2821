@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 const readline = require('readline');
-const { resolveLink, backlogPropsExtractor } = require('./game-line-lib');
+const { notationToTable } = require('./game-line-lib');
 const { exec } = require('child_process');
 const { copyCommand } = require('../lib');
 
@@ -20,13 +20,14 @@ rl.on('close', async () => {
   console.log('\n\nProcessing lines...\n');
   const newLines = [];
   for (const line of lines) {
-    const result = backlogPropsExtractor(line);
+    const result = notationToTable(line);
     if (result) {
-      const link = result.link;
-      const finalURL = await resolveLink(link);
+      // const link = result.link;
+      // const finalURL = await resolveLink(link);
 
-      const newLine = result.newLineFormatter(finalURL);
-      newLines.push(newLine);
+      // const newLine = result.newLineFormatter(finalURL);
+      // newLines.push(newLine);
+      newLines.push(result);
     } else {
       console.error(`Given line does not match old format:\n${line}\n\n-----`);
     }
