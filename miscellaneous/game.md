@@ -85,6 +85,10 @@ Most likely I won't be playing them, but would be nice to come back to.
 `Included` = DLC play time is included in Main story play time.
 The times are in `hhh:mm`.
 
+Some games actually don't have a number in their title name,
+like `Assassin's Creed 6: Unity`.
+The numbers are put to match their release date.
+
 | Game name                                          | Link                                                                                             | 🎮 Main Story | 🎮⏱️Time Taken | 🎁 DLC(s)       | 🎁⏱️Time Taken | 📝 Notes                                                                                                                                                                                                                                       |
 | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------- | -------------- | --------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A Plague Tale: Innocence                           | [EGS](https://store.epicgames.com/en-US/p/a-plague-tale-innocence)                               | ✅ 2021-08-10 | 011:32         | 🚫              |                | -                                                                                                                                                                                                                                              |
