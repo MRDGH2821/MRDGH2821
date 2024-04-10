@@ -19,17 +19,19 @@ Want to go back to [main page](../readme.md)?
 
 ## Notations
 
-- ✅ Completed
-- ⬛ Not purchased
-- 🕓 Partially Completed
-- ❌ Not Completed
-- 🚫 Not Applicable
-- GOTY - Game Of The Year Edition
-- 🎮 Main Story/Campaign Complete
-- 🎁 DLC(s) Story/Campaign Complete
-- 🏆 All Achievements Obtained
-- 🔍 All Collectibles Obtained
-- 💯 Main quest & Side quests 100% Complete
+| Emoji | Meaning                        |
+| ----- | ------------------------------ |
+| 💯    | 100% Complete                  |
+| 🏆    | All Achievements Obtained      |
+| 🔍    | All Collectibles Obtained      |
+| ✅    | Completed                      |
+| 🎁    | DLC(s) Story/Campaign Complete |
+| 🎮    | Main Story/Campaign Complete   |
+| 🚫    | Not Applicable                 |
+| ❌    | Not Completed                  |
+| 🔒    | Not purchased                  |
+| 🕓    | Partially Completed            |
+| ⏱️    | Time Taken                     |
 
 Some notations will be mixed like:
 
