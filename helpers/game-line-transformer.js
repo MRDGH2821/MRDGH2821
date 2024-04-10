@@ -9,19 +9,32 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-rl.question('Enter old line: ', (line) => {
-  const match = line.match(/\|\s*\[(.*?)\]\((.*?)\)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|/);
+function completedGamesPropsExtractor(line) {
+  const regex = /\|\s*\[(.*?)\]\((.*?)\)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|/;
+  const match = line.match(regex);
   if (match) {
     const gameName = match[1];
     const link = match[2];
     const mainCampaign = match[3];
     const dlc = match[4];
+    const newLineFormatter = (finalURL) =>
+      `| ${gameName} | [Steam](${finalURL}) | ${mainCampaign} | ${dlc} | - |`;
+    return { link, newLineFormatter };
+  } else {
+    throw new Error(`Expected format:\n | [Game](link) | text | text |\n\nReceived:\n ${line}`);
+  }
+}
+
+rl.question('Enter old line: ', (line) => {
+  const result = completedGamesPropsExtractor(line);
+  if (result) {
+    const link = result.link;
 
     const protocol = link.startsWith('https') ? https : http;
     protocol.get(link, (response) => {
       const finalURL = response.headers.location || link;
 
-      const newLine = `| ${gameName} | [Steam](${finalURL}) | ${mainCampaign} | ${dlc} | - |`;
+      const newLine = result.newLineFormatter(finalURL);
       console.log('Here is your line in the new format:\n');
       console.log(newLine);
 
