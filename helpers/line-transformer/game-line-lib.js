@@ -1,19 +1,10 @@
-#!/usr/bin/env node
-const readline = require('readline');
 const http = require('http');
 const https = require('https');
-const { exec } = require('child_process');
-
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout,
-});
-
 /**
  *
  * @param {string} store
  */
-function storeMatch(store) {
+export function storeMatch(store) {
   switch (true) {
     case store.includes('.steampower'):
       return 'Steam';
@@ -34,7 +25,7 @@ function storeMatch(store) {
  *
  * @param {string} line
  */
-function completedGamesPropsExtractor(line) {
+export function completedGamesPropsExtractor(line) {
   const regex = /\|\s*\[(.*?)\]\((.*?)\)\s*\|\s*(.*?)\s*\|\s*(.*?)\s*\|/;
   const match = line.match(regex);
   if (match) {
@@ -54,7 +45,7 @@ function completedGamesPropsExtractor(line) {
  *
  * @param {string} line
  */
-function backlogPropsExtractor(line) {
+export function backlogPropsExtractor(line) {
   const match = line.match(/\|\s*\[(.*?)\]\((.*?)\)\s*\|\s*(.*?)\s*\|/);
   if (match) {
     const gameName = match[1];
@@ -69,32 +60,15 @@ function backlogPropsExtractor(line) {
   }
 }
 
-rl.question('Enter old line: ', (line) => {
-  const result = backlogPropsExtractor(line);
-  if (result) {
-    const link = result.link;
+/**
+ *
+ * @param {string} link
+ */
+export function resolveLink(link) {
+  const protocol = link.startsWith('https') ? https : http;
 
-    const protocol = link.startsWith('https') ? https : http;
-    protocol.get(link, (response) => {
-      const finalURL = response.headers.location || link;
-
-      const newLine = result.newLineFormatter(finalURL);
-      console.log('Here is your line in the new format:\n');
-      console.log(newLine);
-
-      // Copy the new line to the clipboard
-      const copyCommand =
-        process.platform === 'win32'
-          ? 'clip'
-          : process.platform === 'darwin'
-          ? 'pbcopy'
-          : 'xclip -selection clipboard';
-      exec(`echo "${newLine}" | ${copyCommand}`);
-      console.info('\nCopied to clipboard!');
-      process.exit(0);
-    });
-  } else {
-    console.error('The input line does not match the old format.');
-    process.exit(1);
-  }
-});
+  return protocol.get(link, (response) => {
+    const finalURL = response.headers.location || link;
+    return finalURL;
+  });
+}
