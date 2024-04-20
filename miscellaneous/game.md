@@ -169,14 +169,14 @@ I didn't have any hence I resorted to cracks.
 Considering my backlog of 1k+ games, I'm not buying new games.
 So cracked games are out of question.
 
-| Game Name                                                                                    | Main Campaign Complete? | All DLCs Complete ? | Alternate link                                                                   |
-| -------------------------------------------------------------------------------------------- | ----------------------- | ------------------- | -------------------------------------------------------------------------------- |
-| [Assassin's Creed](https://www.ubisoft.com/en-us/game/assassins-creed/assassins-creed)       | ✅                      | 🚫                  | [GOG](https://www.gog.com/en/game/assassins_creed_directors_cut)                 |
-| [Bookworm Adventures Deluxe](https://steamcommunity.com/app/3470/discussions/)               | ✅                      | 🚫                  | The game is delisted, but cracks exist online.                                   |
-| [Bookworm Adventures Vol. 2](https://steamcommunity.com/app/3630/)                           | ✅                      | 🚫                  | The game is delisted, but cracks exist online.                                   |
-| [Haven](http://www.thegamebakers.com/haven/)                                                 | ✅ 2021-08-03           | 🚫                  | [EGS](https://www.epicgames.com/store/en-US/p/haven)                             |
-| [Plants Vs. Zombies 2](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies-2) | ✅                      | 🚫                  | The game is mobile exclusive                                                     |
-| [Plants Vs. Zombies](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies)     | ✅                      | 🚫                  | [Steam](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/) |
+| Game Name                                                                                    | Main Campaign Complete? | All DLCs Complete ? | Alternate link                                                                                                                               |
+| -------------------------------------------------------------------------------------------- | ----------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Assassin's Creed](https://www.ubisoft.com/en-us/game/assassins-creed/assassins-creed)       | ✅                      | 🚫                  | [GOG](https://www.gog.com/en/game/assassins_creed_directors_cut)                                                                             |
+| [Bookworm Adventures Deluxe](https://steamcommunity.com/app/3470/discussions/)               | ✅                      | 🚫                  | The game is delisted, but cracks exist online.                                                                                               |
+| [Bookworm Adventures Vol. 2](https://steamcommunity.com/app/3630/)                           | ✅                      | 🚫                  | The game is delisted, but cracks exist online.                                                                                               |
+| [Haven](http://www.thegamebakers.com/haven/)                                                 | ✅ 2021-08-03           | 🚫                  | [EGS](https://www.epicgames.com/store/en-US/p/haven)                                                                                         |
+| [Plants Vs. Zombies 1](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies)   | ✅                      | 🚫                  | [Steam](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/)                                                             |
+| [Plants Vs. Zombies 2](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies-2) | 🕓                      | 🚫                  | The game is mobile exclusive. Restarted on 23rd March 2024 as previous save didn't get loaded & there is more content added in main campaign |
 
 ## I'm skipping
 
