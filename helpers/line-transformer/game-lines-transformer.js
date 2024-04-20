@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 const readline = require('readline');
-const { backlogPropsExtractor } = require('./game-line-lib');
+const { unofficialPropsExtractor } = require('./game-line-lib');
 const { copyToClipboard } = require('../lib');
 
 const rl = readline.createInterface({
@@ -19,12 +19,12 @@ rl.on('close', async () => {
   console.log('\n\nProcessing lines...\n');
   const newLines = [];
   for (const line of lines) {
-    const result = backlogPropsExtractor(line);
+    const result = unofficialPropsExtractor(line);
     if (result) {
-      // const link = result.link;
-      // const finalURL = await resolveLink(link);
+      const link = result.link;
+      const finalURL = await resolveLink(link);
 
-      const newLine = result.newLineFormatter();
+      const newLine = result.newLineFormatter(finalURL);
       newLines.push(newLine);
       // newLines.push(result);
     } else {

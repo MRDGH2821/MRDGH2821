@@ -51,10 +51,11 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name              | Link                                                              | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                  |
-| ---------------------- | ----------------------------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ----------------------------------------------------------------------------------------- |
-| Nier: Automata         | [Steam](https://store.steampowered.com/app/524220/NieRAutomata/)  | 🕓  | 2024-03-22    |             |      | 🕓  |               |             |      | Y ending left. Expected some playable content after Ending E, but it was good nonetheless |
-| Kena: Bridge of Sprits | [EGS](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits) |     |               |             |      |     |               |             |      | Main story left, doesn't sync save game on cloud                                          |
+| Game name              | Link                                                                       | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                                     |
+| ---------------------- | -------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nier: Automata         | [Steam](https://store.steampowered.com/app/524220/NieRAutomata/)           | 🕓  | 2024-03-22    |             |      | 🕓  |               |             |      | Y ending left. Expected some playable content after Ending E, but it was good nonetheless                                                    |
+| Kena: Bridge of Sprits | [EGS](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)          |     |               |             |      |     |               |             |      | Main story left, doesn't sync save game on cloud                                                                                             |
+| Plants Vs. Zombies 2   | [EA](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies-2) |     | 2024-04-05    |             |      | ❌  |               |             |      | The game is mobile exclusive. Restarted on 23rd March 2024 as previous save didn't get loaded & there is more content added in main campaign |
 
 ### Optional Backlog
 
@@ -161,22 +162,21 @@ wherever it made sense.
 ## Unofficial
 
 In other words, cracked games. I think they too deserve attention.
-Those are also great games. By default I will mention the official links.
-Else EGS, Steam, GOG or DRM free version Links if possible.
+Those are also great games.
+By default I will mention GOG, DRM free or Official Links if possible.
 But in no way I will be mentioning any crack links.
 Game Developers also need to earn money.
 I didn't have any hence I resorted to cracks.
 Considering my backlog of 1k+ games, I'm not buying new games.
 So cracked games are out of question.
 
-| Game Name                                                                                    | Main Campaign Complete? | All DLCs Complete ? | Alternate link                                                                                                                               |
-| -------------------------------------------------------------------------------------------- | ----------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Assassin's Creed](https://www.ubisoft.com/en-us/game/assassins-creed/assassins-creed)       | ✅                      | 🚫                  | [GOG](https://www.gog.com/en/game/assassins_creed_directors_cut)                                                                             |
-| [Bookworm Adventures Deluxe](https://steamcommunity.com/app/3470/discussions/)               | ✅                      | 🚫                  | The game is delisted, but cracks exist online.                                                                                               |
-| [Bookworm Adventures Vol. 2](https://steamcommunity.com/app/3630/)                           | ✅                      | 🚫                  | The game is delisted, but cracks exist online.                                                                                               |
-| [Haven](http://www.thegamebakers.com/haven/)                                                 | ✅ 2021-08-03           | 🚫                  | [EGS](https://www.epicgames.com/store/en-US/p/haven)                                                                                         |
-| [Plants Vs. Zombies 1](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies)   | ✅                      | 🚫                  | [Steam](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/)                                                             |
-| [Plants Vs. Zombies 2](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies-2) | 🕓                      | 🚫                  | The game is mobile exclusive. Restarted on 23rd March 2024 as previous save didn't get loaded & there is more content added in main campaign |
+| Game name                  | Link                                                                            | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                      |
+| -------------------------- | ------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | --------------------------------------------- |
+| Assassin's Creed           | [GOG](https://www.gog.com/en/game/assassins_creed_directors_cut)                |     |               |             |      | 🚫  |               |             |      |                                               |
+| Bookworm Adventures Deluxe | [Steam](https://steamcommunity.com/app/3470/)                                   |     |               |             |      | 🚫  |               |             |      | The game is delisted, but cracks exist online |
+| Bookworm Adventures Vol. 2 | [Steam](https://steamcommunity.com/app/3630/)                                   |     |               |             |      | 🚫  |               |             |      | The game is delisted, but cracks exist online |
+| Haven                      | [GOG](https://www.gog.com/en/game/haven)                                        |     |               | 2021-08-03  |      | 🚫  |               |             |      |                                               |
+| Plants Vs. Zombies 1       | [Steam](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition) |     |               |             |      | ✅  |               |             |      |                                               |
 
 ## I'm skipping
 

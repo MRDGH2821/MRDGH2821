@@ -67,6 +67,31 @@ function backlogPropsExtractor(line) {
 }
 
 /**
+ *
+ * @param {string} line
+ */
+function unofficialPropsExtractor(line) {
+  const match = line.match(/\|\s*(.*)\s*\|\s*(\[.*\]\(https.*\))\s*\|\s*(.*)\s*\|/u);
+  if (match) {
+    const gameName = match[1];
+    const link = match[2];
+    const mainCampaign = match[3];
+    const dlc = match[4];
+    const notes = match[5];
+
+    const newLineFormatter = (finalURL) =>
+      `| ${gameName} | [${storeMatch(
+        finalURL,
+      )}](${finalURL}) |${mainCampaign}| | | |${dlc}|||| ${notes} |`;
+    return { link, newLineFormatter };
+  } else {
+    throw new Error(
+      `Expected format:\n | Game Name | Main Campaign Complete? | All DLCs Complete ? | Alternate link |\n\nReceived:\n ${line}`,
+    );
+  }
+}
+
+/**
  * Converts Notation line to a markdown table row
  * @param {string} line A line in the format of `- [emoji] text`
  * @returns string
@@ -102,6 +127,7 @@ async function resolveLink(link) {
 
 module.exports = {
   backlogPropsExtractor,
+  unofficialPropsExtractor,
   completedGamesPropsExtractor,
   resolveLink,
   storeMatch,
