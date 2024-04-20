@@ -90,7 +90,7 @@ Some games actually don't have a number in their title name,
 like `Assassin's Creed 6: Unity`.
 The numbers are put to match their release date.
 
-Some of the steam games with start dates are determined from first achievement,
+Some of the games with start dates are determined from first achievement,
 wherever it made sense.
 
 | Game name                                          | Link                                                                                             | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️       | 📝 Notes                                                                                                                                                                                                                                       |
