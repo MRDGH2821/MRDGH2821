@@ -51,17 +51,18 @@ function completedGamesPropsExtractor(line) {
  * @param {string} line
  */
 function backlogPropsExtractor(line) {
-  const match = line.match(/\|\s*\[(.*?)\]\((.*?)\)\s*\|\s*(.*?)\s*\|/);
+  const match = line.match(/\|\s*(.*)\s*\|\s*(\[.*\]\(https.*\))\s*\|\s*(.*)\s*\|/);
   if (match) {
     const gameName = match[1];
     const link = match[2];
     const notes = match[3];
 
-    const newLineFormatter = (finalURL) =>
-      `| ${gameName} | [${storeMatch(finalURL)}](${finalURL}) | ${notes} |`;
+    const newLineFormatter = (finalURL) => `| ${gameName} | ${link} ||||||||| ${notes} |`;
     return { link, newLineFormatter };
   } else {
-    throw new Error(`Expected format:\n | [Game](link) | text |\n\nReceived:\n ${line}`);
+    throw new Error(
+      `Expected format:\n | Game Name | [Store](link) | Notes |\n\nReceived:\n ${line}`,
+    );
   }
 }
 

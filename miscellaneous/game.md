@@ -51,10 +51,10 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game Name              | Link                                                              | Notes                                            |
-| ---------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
-| Nier: Automata         | [Steam](https://store.steampowered.com/app/524220/NieRAutomata/)  | Y ending left. Started 22 March 2024             |
-| Kena: Bridge of Sprits | [EGS](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits) | Main story left, doesn't sync save game on cloud |
+| Game name              | Link                                                              | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                  |
+| ---------------------- | ----------------------------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ----------------------------------------------------------------------------------------- |
+| Nier: Automata         | [Steam](https://store.steampowered.com/app/524220/NieRAutomata/)  | 🕓  | 2024-03-22    |             |      | 🕓  |               |             |      | Y ending left. Expected some playable content after Ending E, but it was good nonetheless |
+| Kena: Bridge of Sprits | [EGS](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits) |     |               |             |      |     |               |             |      | Main story left, doesn't sync save game on cloud                                          |
 
 ### Optional Backlog
 
