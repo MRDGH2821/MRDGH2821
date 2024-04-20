@@ -21,7 +21,7 @@ Want to go back to [main page](../readme.md)?
 
 | Emoji | Meaning                        |
 | ----- | ------------------------------ |
-| 💯    | 100% Complete                  |
+| 💯    | 100% Complete with 🏆 & 🔍     |
 | 🏆    | All Achievements Obtained      |
 | 🔍    | All Collectibles Obtained      |
 | ✅    | Completed                      |
