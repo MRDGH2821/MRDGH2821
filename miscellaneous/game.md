@@ -33,6 +33,11 @@ Want to go back to [main page](../readme.md)?
 | 🕓    | Partially Completed            |
 | ⏱️    | Time Taken                     |
 
+| Shortform | Long form                                                        |
+| --------- | ---------------------------------------------------------------- |
+| GOTY      | Game of the Year                                                 |
+| DLC       | Downloadable content (here it also refers to additional content) |
+
 Some notations will be mixed like:
 
 - 🎮🎁 Main story & DlCs completed
