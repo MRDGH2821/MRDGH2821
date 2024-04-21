@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "adamerose.markdown-wysiwyg",
     "bierner.github-markdown-preview",
     "christian-kohler.path-intellisense",
     "clover.md-table-editor",
