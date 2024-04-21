@@ -14,7 +14,7 @@ I understand that circumstances may change, and you may need to cancel or reques
 
 `Service` refer to products provided by [me][me] & the services offered by [me][me].
 
-To contact [me][me], please go to main [Legal page](./readme.md) or [my social media page](../myself-on-internet.md.md)
+To contact [me][me], please go to main [Legal page](./readme.md) or [my social media page](../myself-on-internet.md)
 
 Policy Revised on: 2023-11-19T23:03:07.9356981+05:30
 
