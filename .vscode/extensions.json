@@ -1,16 +1,18 @@
 {
   "recommendations": [
     "bierner.github-markdown-preview",
+    "christian-kohler.path-intellisense",
+    "clover.md-table-editor",
+    "DavidAnson.vscode-markdownlint",
     "eamodio.gitlens",
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
-    "fcrespo82.markdown-table-formatter",
     "michaelcurrin.auto-commit-msg",
+    "ms-vscode.atom-keybindings",
     "redhat.vscode-yaml",
-    "shopify.ruby-extensions-pack",
+    "softwaredotcom.swdc-vscode",
     "spmeesseman.vscode-taskexplorer",
     "streetsidesoftware.code-spell-checker",
-    "takumii.markdowntable",
     "tamasfe.even-better-toml"
   ]
 }
