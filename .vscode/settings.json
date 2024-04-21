@@ -2,7 +2,7 @@
   "json.schemas": [
     {
       "fileMatch": ["markdown-link-check.json"],
-      "url": "https://json.schemastore.org/markdown-lint-check.json"
+      "url": "https://json.schemastore.org/markdown-link-check.json"
     }
   ],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
