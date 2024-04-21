@@ -6,7 +6,6 @@
     "ghcr.io/devcontainers-contrib/features/npm-package:1": {
       "package": "mega-linter-runner"
     },
-    "ghcr.io/devcontainers/features/ruby": {},
     "ghcr.io/devcontainers-contrib/features/apt-packages": {
       "packages": ["xclip"]
     }
