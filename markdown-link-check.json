@@ -1,10 +1,11 @@
 {
-  "retryOn429": true,
-  "retryCount": 5,
   "aliveStatusCodes": [200, 203],
   "ignorePatterns": [
     {
       "pattern": "store.epicgames.com"
+    },
+    {
+      "pattern": "epicgames.com"
     },
     {
       "pattern": "thegamebakers.com"
@@ -21,5 +22,7 @@
     {
       "pattern": "linkedin.com"
     }
-  ]
+  ],
+  "retryCount": 5,
+  "retryOn429": true
 }
