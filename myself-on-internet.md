@@ -16,7 +16,7 @@ You may email as well - [ask.mrdgh2821@outlook.com](mailto:ask.mrdgh2821@outlook
 
 ## Developer/Work
 
-- [![LinkedIn](https://img.shields.io/badge/-Mihir%20Rabade-white?style=for-the-badge&logo=linkedin&label=linkedin&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmihir-rabade%2F)](http://bit.ly/mrdghLI)
+- [![LinkedIn](https://img.shields.io/badge/-Mihir%20Rabade-white?style=for-the-badge&logo=linkedin&label=linkedin&labelColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmihir-rabade%2F)](https://www.linkedin.com/in/mihir-rabade/)
 - [![GitHub](https://img.shields.io/badge/-MRDGH2821-white?style=for-the-badge&logo=github&label=GitHub&labelColor=%23181717&link=https%3A%2F%2Fmrdgh2821.github.io%2FMRDGH2821%2F&link=https%3A%2F%2Fgithub.com%2FMRDGH2821%2F)](https://mrdgh2821.github.io/MRDGH2821/)
 - [![HackerEarth](https://img.shields.io/badge/-%40mihirrabade-white?style=for-the-badge&logo=hackerearth&label=HackerEarth&labelColor=%232C3454&link=https%3A%2F%2Fwww.hackerearth.com%2F%40mihirrabade)](https://www.hackerearth.com/@mihirrabade)
 - [![Hackerrank](https://img.shields.io/badge/-mihirrabade-white?style=for-the-badge&logo=hackerrank&logoColor=white&label=HackerRank&labelColor=%2300EA64&link=https%3A%2F%2Fwww.hackerrank.com%2Fmihirrabade)](https://www.hackerrank.com/mihirrabade)
