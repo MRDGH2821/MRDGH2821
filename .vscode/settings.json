@@ -1,18 +1,21 @@
 {
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[ruby]": {
+    "editor.defaultFormatter": "Shopify.ruby-lsp"
+  },
+  "[toml]": {
+    "editor.defaultFormatter": "tamasfe.even-better-toml"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "json.schemas": [
     {
       "fileMatch": ["markdown-link-check.json"],
       "url": "https://json.schemastore.org/markdown-link-check.json"
     }
   ],
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[toml]": {
-    "editor.defaultFormatter": "tamasfe.even-better-toml"
-  },
-  "[ruby]": {
-    "editor.defaultFormatter": "Shopify.ruby-lsp"
+  "workbench.editorAssociations": {
+    "*.md": "default"
   }
 }
