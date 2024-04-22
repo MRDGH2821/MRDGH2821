@@ -31,7 +31,7 @@ domain: mrdgh2821.github.io
 github_username: MRDGH2821
 
 # Build settings
-# theme: jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
 # theme: minima
 plugins:
   - jekyll-relative-links
