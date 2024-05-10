@@ -56,10 +56,9 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name              | Link                                                                       | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                                     |
-| ---------------------- | -------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Kena: Bridge of Sprits | [EGS](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)          |     |               |             |      |     |               |             |      | Main story left, doesn't sync save game on cloud                                                                                             |
-| Plants Vs. Zombies 2   | [EA](https://www.ea.com/en-gb/games/plants-vs-zombies/plants-vs-zombies-2) |     | 2024-04-05    |             |      | ❌  |               |             |      | The game is mobile exclusive. Restarted on 23rd March 2024 as previous save didn't get loaded & there is more content added in main campaign |
+| Game name              | Link                                                              | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                            |
+| ---------------------- | ----------------------------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ----------------------------------------------------------------------------------- |
+| Kena: Bridge of Sprits | [EGS](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits) |     |               |             |      |     |               |             |      | Main story left, doesn't sync save game on cloud. Started 3rd attempt on 2024-04-22 |
 
 ### Optional Backlog
 
