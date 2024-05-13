@@ -57,34 +57,34 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name  | Link                                                                            | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
-| ---------- | ------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
-| Home Quest | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus) | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
+| Game name       | Link                                                                            | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
+| --------------- | ------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
+| Home Quest      | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus) | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
+| Death Stranding | [EGS](https://store.epicgames.com/en-US/p/death-stranding-directors-cut)        | -   |               |             |      |      |               |             |      |                                                                                                                      |
 
 ### Optional Backlog
 
 Most likely I won't be playing them, but would be nice to come back to.
 
-| Game Name             | Link                                                                     | Notes                 |
-| --------------------- | ------------------------------------------------------------------------ | --------------------- |
-| ABZU                  | [EGS](https://store.epicgames.com/en-US/p/abzu)                          | -                     |
-| Axiom Verge           | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)                   | Because Platformer    |
-| Costume Quest         | [EGS](https://store.epicgames.com/en-US/p/costume-quest)                 | -                     |
-| Death Stranding       | [EGS](https://store.epicgames.com/en-US/p/death-stranding-directors-cut) | -                     |
-| Enter The Gungeon     | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)             | -                     |
-| Fearless Fantasy      | [Steam](https://store.steampowered.com/app/282100/Fearless_Fantasy/)     | Because it got action |
-| Fez                   | [EGS](https://store.epicgames.com/en-US/p/fez)                           | I liked its 2.5D      |
-| Hyper Light Drifter   | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)           | I liked the Visuals   |
-| Inside                | [EGS](https://store.epicgames.com/en-US/p/inside)                        | -                     |
-| Last Day of June      | [EGS](https://store.epicgames.com/en-US/p/last-day-of-june)              | -                     |
-| Metro 2033 Redux      | [EGS](https://store.epicgames.com/en-US/p/metro-2033-redux)              | -                     |
-| Minit                 | [EGS](https://store.epicgames.com/en-US/p/minit)                         | -                     |
-| Restless Soul Demo    | [Steam](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)       | Main story left       |
-| RiME                  | [EGS](https://store.epicgames.com/en-US/p/rime)                          | I liked the Visuals   |
-| Slain: Back From Hell | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)                  | Because Platformer    |
-| Super Meat Boy        | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)                | Because Platformer    |
-| The End is Nigh       | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)               | Because Platformer    |
-| World of Goo          | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)                  | -                     |
+| Game Name             | Link                                                                 | Notes                 |
+| --------------------- | -------------------------------------------------------------------- | --------------------- |
+| ABZU                  | [EGS](https://store.epicgames.com/en-US/p/abzu)                      | -                     |
+| Axiom Verge           | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)               | Because Platformer    |
+| Costume Quest         | [EGS](https://store.epicgames.com/en-US/p/costume-quest)             | -                     |
+| Enter The Gungeon     | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)         | -                     |
+| Fearless Fantasy      | [Steam](https://store.steampowered.com/app/282100/Fearless_Fantasy/) | Because it got action |
+| Fez                   | [EGS](https://store.epicgames.com/en-US/p/fez)                       | I liked its 2.5D      |
+| Hyper Light Drifter   | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)       | I liked the Visuals   |
+| Inside                | [EGS](https://store.epicgames.com/en-US/p/inside)                    | -                     |
+| Last Day of June      | [EGS](https://store.epicgames.com/en-US/p/last-day-of-june)          | -                     |
+| Metro 2033 Redux      | [EGS](https://store.epicgames.com/en-US/p/metro-2033-redux)          | -                     |
+| Minit                 | [EGS](https://store.epicgames.com/en-US/p/minit)                     | -                     |
+| Restless Soul Demo    | [Steam](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)   | Main story left       |
+| RiME                  | [EGS](https://store.epicgames.com/en-US/p/rime)                      | I liked the Visuals   |
+| Slain: Back From Hell | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)              | Because Platformer    |
+| Super Meat Boy        | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)            | Because Platformer    |
+| The End is Nigh       | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)           | Because Platformer    |
+| World of Goo          | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)              | -                     |
 
 ## Completed Games
 
