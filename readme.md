@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 ~~I’m currently working on 2D Side-scroller UE4 project~~ _Put on pause until further notice_
-- 🌱 I’m currently working at Tata Consultancy Services
 - 📫 How to reach me: [Click here!](myself-on-internet.md)
 - ⚡ Fun fact: I am equally interested in making & playing [games!](./miscellaneous/game.md)
 - 🌐 Here's some nice stuff I [found](nice-stuff-on-internet.md) on internet
@@ -39,7 +38,7 @@ _In case you are recruiter or a company official, contact me at [LinkedIn](https
 
 ### Brief Info About myself
 
-Greetings, I'm Mihir Rabade, Currently working at Tata Consultancy Services, Nagpur.
+Greetings, I'm Mihir Rabade.
 I'm an Introvert & an enthusiast about technology, especially in Gaming sector.
 Earlier I was more fascinated about front end of things.
 But once I went behind the scenes, I became interested in Game Development.
