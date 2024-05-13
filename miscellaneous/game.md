@@ -32,6 +32,7 @@ Want to go back to [main page](../readme.md)?
 | 🔒    | Not purchased                  |
 | 🕓    | Partially Completed            |
 | ⏱️    | Time Taken                     |
+| 📭    | No Story                       |
 
 | Shortform | Long form                                                        |
 | --------- | ---------------------------------------------------------------- |
