@@ -60,7 +60,7 @@ Listed with priority order.
 | Game name       | Link                                                                            | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
 | --------------- | ------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
 | Home Quest      | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus) | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
-| Death Stranding | [EGS](https://store.epicgames.com/en-US/p/death-stranding-directors-cut)        | -   |               |             |      |      |               |             |      |                                                                                                                      |
+| Death Stranding | [EGS](https://store.epicgames.com/en-US/p/death-stranding-directors-cut)        | -   | 2023-01-03    |             |      |      |               |             |      |                                                                                                                      |
 
 ### Optional Backlog
 
