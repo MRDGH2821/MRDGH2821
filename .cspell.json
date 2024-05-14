@@ -2,14 +2,15 @@
   "allowCompoundWords": true,
   "caseSensitive": false,
   "ignorePaths": [
-    "**/node_modules/**",
-    "**/vscode-extension/**",
+    "**/.devcontainer/**",
     "**/.git/**",
     "**/.pnpm-lock.json",
-    ".vscode",
-    "megalinter",
-    "package-lock.json",
-    "report"
+    "**/.vscode/**",
+    "**/megalinter/**",
+    "**/node_modules/**",
+    "**/report/**",
+    "**/vscode-extension/**",
+    "package-lock.json"
   ],
   "language": "en",
   "useGitignore": true,
