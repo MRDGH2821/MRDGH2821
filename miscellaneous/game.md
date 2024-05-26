@@ -57,9 +57,11 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name  | Link                                                                            | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
-| ---------- | ------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
-| Home Quest | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus) | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
+| Game name    | Link                                                                            | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
+| ------------ | ------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
+| Home Quest   | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus) | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
+| Inside       | [EGS](https://store.epicgames.com/en-US/p/inside)                               | 🕓  | 2024-05-26    |             |      | 🚫   |               |             |      |                                                                                                                      |
+| Dishonored 2 | [Steam](https://store.steampowered.com/app/403640/Dishonored_2/)                |     |               |             |      |      |               |             |      |                                                                                                                      |
 
 ### Optional Backlog
 
