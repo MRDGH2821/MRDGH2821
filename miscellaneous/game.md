@@ -57,10 +57,11 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name   | Link                                                                            | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
-| ----------- | ------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
-| Home Quest  | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus) | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
-| Wander Song | [Steam](https://store.steampowered.com/app/530320/Wandersong/)                  | 🕓  | 2024-06-01    |             |      |      |               |             |      | Played this game once during 2020, but steam didn't sync my progress it seems.                                       |
+| Game name    | Link                                                                                         | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                                          |
+| ------------ | -------------------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Home Quest   | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus)              | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw.                              |
+| Loop Hero    | [Play Store](https://play.google.com/store/apps/details?id=com.playdigious.loophero)         | 🕓  | 2024-06-07    |             |      | 🚫   |               |             |      | Amazing PC port available for mobile.                                                                                                             |
+| Transmission | [Play Store](https://play.google.com/store/apps/details?id=com.lojugames.games.transmission) | ✅  | 2024-06-07    |             |      | 🚫   |               |             |      | Originally started on 2015-11-25 & finished on 2015-12-06, reinstalled again to play from start. And my progress wasn't synced, so playing again. |
 
 ### Optional Backlog
 
