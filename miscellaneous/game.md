@@ -57,11 +57,12 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name    | Link                                                                                         | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                                          |
-| ------------ | -------------------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Home Quest   | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus)              | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw.                              |
-| Loop Hero    | [Play Store](https://play.google.com/store/apps/details?id=com.playdigious.loophero)         | 🕓  | 2024-06-07    |             |      | 🚫   |               |             |      | Amazing PC port available for mobile.                                                                                                             |
-| Transmission | [Play Store](https://play.google.com/store/apps/details?id=com.lojugames.games.transmission) | ✅  | 2024-06-07    |             |      | 🚫   |               |             |      | Originally started on 2015-11-25 & finished on 2015-12-06, reinstalled again to play from start. And my progress wasn't synced, so playing again. |
+| Game name        | Link                                                                                         | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                                          |
+| ---------------- | -------------------------------------------------------------------------------------------- | --- | ------------- | ----------- | ------ | ---- | ------------- | ----------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Home Quest       | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus)              | 🕓  | 2022-10       |             |        | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw.                              |
+| Loop Hero        | [Play Store](https://play.google.com/store/apps/details?id=com.playdigious.loophero)         | 🕓  | 2024-06-07    |             |        | 🚫   |               |             |      | Amazing PC port available for mobile.                                                                                                             |
+| Transmission     | [Play Store](https://play.google.com/store/apps/details?id=com.lojugames.games.transmission) | ✅  | 2024-06-07    |             |        | 🚫   |               |             |      | Originally started on 2015-11-25 & finished on 2015-12-06, reinstalled again to play from start. And my progress wasn't synced, so playing again. |
+| Metro 2033 Redux | [EGS](https://store.epicgames.com/en-US/p/metro-2033-redux)                                  | 🕓  |               |             | 003:20 | 🚫   |               |             |      | Played this game some years back.                                                                                                                 |
 
 ### Optional Backlog
 
@@ -77,8 +78,6 @@ Most likely I won't be playing them, but would be nice to come back to.
 | Fez                   | [EGS](https://store.epicgames.com/en-US/p/fez)                       | I liked its 2.5D      |
 | Hyper Light Drifter   | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)       | I liked the Visuals   |
 | Inside                | [EGS](https://store.epicgames.com/en-US/p/inside)                    | -                     |
-| Last Day of June      | [EGS](https://store.epicgames.com/en-US/p/last-day-of-june)          | -                     |
-| Metro 2033 Redux      | [EGS](https://store.epicgames.com/en-US/p/metro-2033-redux)          | -                     |
 | Minit                 | [EGS](https://store.epicgames.com/en-US/p/minit)                     | -                     |
 | Restless Soul Demo    | [Steam](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)   | Main story left       |
 | RiME                  | [EGS](https://store.epicgames.com/en-US/p/rime)                      | I liked the Visuals   |
