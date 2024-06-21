@@ -12,7 +12,7 @@
     "**/vscode-extension/**",
     "package-lock.json"
   ],
-  "language": "en",
+  "language": "en,en-GB",
   "useGitignore": true,
   "version": "0.2",
   "words": [
@@ -28,10 +28,11 @@
     "gnog",
     "goty",
     "iframe",
+    "janky",
     "kena",
     "lacto",
-    "mihir's",
     "mihir",
+    "mihir's",
     "mihirr",
     "minit",
     "mrdgh",
