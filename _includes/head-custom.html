@@ -9,15 +9,16 @@
     }
   }
   document.addEventListener('DOMContentLoaded', function (event) {
-    var el = document.querySelector('table');
-    var wrapper = document.createElement('div');
-    wrapper.setAttribute('class', 'table-wrapper');
-    el.parentNode.insertBefore(wrapper, el);
-    wrapper.appendChild(el);
-    wrapper.insertAdjacentHTML(
-      'beforebegin',
-      '<button name="toggle-table-width" onclick="toggleWidth()">Expand table</button>',
-    );
+    document.querySelectorAll('table').forEach(function (el) {
+      const wrapper = document.createElement('div');
+      wrapper.setAttribute('class', 'table-wrapper');
+      el.parentNode.insertBefore(wrapper, el);
+      wrapper.appendChild(el);
+      wrapper.insertAdjacentHTML(
+        'beforebegin',
+        '<button name="toggle-table-width" onclick="toggleWidth()">Expand table</button>',
+      );
+    });
   });
 </script>
 <!-- Source: https://github.com/meichthys/foss_photo_libraries/blob/main/_includes/head-custom.html  -->
