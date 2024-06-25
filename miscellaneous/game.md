@@ -67,23 +67,22 @@ Listed with priority order.
 
 Most likely I won't be playing them, but would be nice to come back to.
 
-| Game Name             | Link                                                                 | Notes                 |
-| --------------------- | -------------------------------------------------------------------- | --------------------- |
-| ABZU                  | [EGS](https://store.epicgames.com/en-US/p/abzu)                      | -                     |
-| Axiom Verge           | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)               | Because Platformer    |
-| Costume Quest         | [EGS](https://store.epicgames.com/en-US/p/costume-quest)             | -                     |
-| Enter The Gungeon     | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)         | -                     |
-| Fearless Fantasy      | [Steam](https://store.steampowered.com/app/282100/Fearless_Fantasy/) | Because it got action |
-| Fez                   | [EGS](https://store.epicgames.com/en-US/p/fez)                       | I liked its 2.5D      |
-| Hyper Light Drifter   | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)       | I liked the Visuals   |
-| Inside                | [EGS](https://store.epicgames.com/en-US/p/inside)                    | -                     |
-| Minit                 | [EGS](https://store.epicgames.com/en-US/p/minit)                     | -                     |
-| Restless Soul Demo    | [Steam](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)   | Main story left       |
-| RiME                  | [EGS](https://store.epicgames.com/en-US/p/rime)                      | I liked the Visuals   |
-| Slain: Back From Hell | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)              | Because Platformer    |
-| Super Meat Boy        | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)            | Because Platformer    |
-| The End is Nigh       | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)           | Because Platformer    |
-| World of Goo          | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)              | -                     |
+| Game Name             | Link                                                                 | Notes                 | How long to beat? |
+| --------------------- | -------------------------------------------------------------------- | --------------------- | ----------------- |
+| ABZU                  | [EGS](https://store.epicgames.com/en-US/p/abzu)                      | -                     | 002:00            |
+| Axiom Verge           | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)               | Because Platformer    | 010:30            |
+| Costume Quest         | [EGS](https://store.epicgames.com/en-US/p/costume-quest)             | -                     | 005:30            |
+| Enter The Gungeon     | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)         | -                     | 022:30            |
+| Fearless Fantasy      | [Steam](https://store.steampowered.com/app/282100/Fearless_Fantasy/) | Because it got action | 004:00            |
+| Fez                   | [EGS](https://store.epicgames.com/en-US/p/fez)                       | I liked its 2.5D      | 006:00            |
+| Hyper Light Drifter   | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)       | I liked the Visuals   | 008:00            |
+| Minit                 | [EGS](https://store.epicgames.com/en-US/p/minit)                     | -                     | 002:00            |
+| Restless Soul Demo    | [Steam](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)   | Main story left       |                   |
+| RiME                  | [EGS](https://store.epicgames.com/en-US/p/rime)                      | I liked the Visuals   | 005:30            |
+| Slain: Back From Hell | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)              | Because Platformer    | 006:00            |
+| Super Meat Boy        | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)            | Because Platformer    | 009:30            |
+| The End is Nigh       | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)           | Because Platformer    | 008:00            |
+| World of Goo          | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)              | -                     | 006:00            |
 
 ## Completed Games
 
