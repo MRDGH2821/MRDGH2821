@@ -1,0 +1,23 @@
+<script>
+  function toggleWidth() {
+    if (document.querySelector('div.container-lg').style['max-width']) {
+      document.querySelector('div.container-lg').style.maxWidth = null;
+      document.querySelector("button[name='toggle-table-width']").textContent = 'Expand table';
+    } else {
+      document.querySelector('div.container-lg').style.maxWidth = '100%';
+      document.querySelector("button[name='toggle-table-width']").textContent = 'Collapse table';
+    }
+  }
+  document.addEventListener('DOMContentLoaded', function (event) {
+    var el = document.querySelector('table');
+    var wrapper = document.createElement('div');
+    wrapper.setAttribute('class', 'table-wrapper');
+    el.parentNode.insertBefore(wrapper, el);
+    wrapper.appendChild(el);
+    wrapper.insertAdjacentHTML(
+      'beforebegin',
+      '<button name="toggle-table-width" onclick="toggleWidth()">Expand table</button>',
+    );
+  });
+</script>
+<!-- Source: https://github.com/meichthys/foss_photo_libraries/blob/main/_includes/head-custom.html  -->
