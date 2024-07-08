@@ -186,8 +186,9 @@ These normally won't have DLC content, hence omitted from the table.
 | Adventures of Chris Demo          | [Steam](https://store.steampowered.com/app/341170/Adventures_of_Chris/)          |     | 2020-09-17    | 2020-09-17  | 000:29 | -                                                                                    |
 | Cataclismo Demo                   | [Steam](https://store.steampowered.com/app/1422440/Cataclismo/)                  | 🕓  | 2024-06-27    | 2024-06-27  | 002:18 | A good RTS & base builder game                                                       |
 | Flintlock: The Siege of Dawn Demo | [Steam](https://store.steampowered.com/app/1832040/Flintlock_The_Siege_of_Dawn/) | 🕓  | 2024-06-27    | 2024-06-27  | 001:21 | Good game, but I didn't get hang of controls hence skipped it midway.                |
-| SCHiM Demo                        | [Steam](https://store.steampowered.com/app/1519710/SCHiM/)                       |     | 2024-06-27    | 2024-06-27  | 000:31 | A fun game where we jump between shadows.                                            |
 | Restless Soul Demo                | [Steam](https://store.steampowered.com/app/1748230/RESTLESS_SOUL/)               |     | 2024-06-27    | 2024-06-27  | 000:42 | It has nice graphics. I had played this for 19 mins some years back. Finished today. |
+| SCHiM Demo                        | [Steam](https://store.steampowered.com/app/1519710/SCHiM/)                       |     | 2024-06-27    | 2024-06-27  | 000:31 | A fun game where we jump between shadows.                                            |
+| The Alters Demo                   | [Steam](https://store.steampowered.com/app/1601570/The_Alters/)                  |     | 2024-07-08    | 2024-07-08  | 001:46 | Interesting concept & cool graphics and exploration!                                 |
 
 ## Unofficial
 
