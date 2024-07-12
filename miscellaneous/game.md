@@ -67,21 +67,40 @@ Listed with priority order.
 ### Optional Backlog
 
 Most likely I won't be playing them, but would be nice to come back to.
+Some games in this list are here due to me farming for steam trading cards.
+I decided to finish them to avoid seeming like I played the game.
 
-| Game Name             | Link                                                                 | Notes                 | How long to beat? |
-| --------------------- | -------------------------------------------------------------------- | --------------------- | ----------------- |
-| ABZU                  | [EGS](https://store.epicgames.com/en-US/p/abzu)                      | -                     | 002:00            |
-| Axiom Verge           | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)               | Because Platformer    | 010:30            |
-| Costume Quest         | [EGS](https://store.epicgames.com/en-US/p/costume-quest)             | -                     | 005:30            |
-| Enter The Gungeon     | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)         | -                     | 022:30            |
-| Fearless Fantasy      | [Steam](https://store.steampowered.com/app/282100/Fearless_Fantasy/) | Because it got action | 004:00            |
-| Fez                   | [EGS](https://store.epicgames.com/en-US/p/fez)                       | I liked its 2.5D      | 006:00            |
-| Hyper Light Drifter   | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)       | I liked the Visuals   | 008:00            |
-| RiME                  | [EGS](https://store.epicgames.com/en-US/p/rime)                      | I liked the Visuals   | 005:30            |
-| Slain: Back From Hell | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)              | Because Platformer    | 006:00            |
-| Super Meat Boy        | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)            | Because Platformer    | 009:30            |
-| The End is Nigh       | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)           | Because Platformer    | 008:00            |
-| World of Goo          | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)              | -                     | 006:00            |
+Additionally, there are many other games which have same reason,
+but the ones mentioned here are specifically those which I liked and would play.
+
+| Game Name                          | Link                                                                                   | Notes                            | How long to beat? |
+| ---------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------- | ----------------- |
+| ABZU                               | [EGS](https://store.epicgames.com/en-US/p/abzu)                                        | Felt interesting in first glance | 002:00            |
+| Axiom Verge                        | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)                                 | Because Platformer               | 010:30            |
+| Chip's Challenge 1                 | [Steam](https://store.steampowered.com/app/346850/Chips_Challenge_1/)                  | Reliving childhood game          | 048:00            |
+| Chip's Challenge 2                 | [Steam](https://store.steampowered.com/app/348300/Chips_Challenge_2/)                  | Reliving childhood game          | 037:30            |
+| Costume Quest                      | [EGS](https://store.epicgames.com/en-US/p/costume-quest)                               | Felt interesting in first glance | 005:30            |
+| Do Not Feed Monkeys                | [Steam](https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/)            | Because trading card drops       | 004:00            |
+| Enter The Gungeon                  | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)                           | Felt interesting in first glance | 022:30            |
+| Fearless Fantasy                   | [Steam](https://store.steampowered.com/app/282100/Fearless_Fantasy/)                   | Because it got action            | 004:00            |
+| Fez                                | [EGS](https://store.epicgames.com/en-US/p/fez)                                         | I liked its 2.5D                 | 006:00            |
+| Find You                           | [Steam](https://store.steampowered.com/app/672730/Find_You/)                           | Because Platformer               | 005:30            |
+| Hyper Light Drifter                | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)                         | I liked the Visuals              | 008:00            |
+| Kitaria Fables                     | [Steam](https://store.steampowered.com/app/1356280/Kitaria_Fables/)                    | Because trading card drops       | 016:30            |
+| Monster Prom                       | [Steam](https://store.steampowered.com/app/743450/Monster_Prom/)                       | Because trading card drops       | 001:00            |
+| PixelJunk™ Eden                    | [Steam](https://store.steampowered.com/app/105800/PixelJunk_Eden/)                     | I liked the Visuals              | 009:00            |
+| Portal 2                           | [Steam](https://store.steampowered.com/app/620/Portal_2/)                              | Because trading card drops       | 008:30            |
+| Princess Remedy in a World of Hurt | [Steam](https://store.steampowered.com/app/407900/Princess_Remedy_in_a_World_of_Hurt/) | Felt interesting in first glance | 000:50            |
+| Qora                               | [Steam](https://store.steampowered.com/app/304460/Qora/)                               | Because trading card drops       | 002:00            |
+| RiME                               | [EGS](https://store.epicgames.com/en-US/p/rime)                                        | I liked the Visuals              | 005:30            |
+| Slain: Back From Hell              | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)                                | Because Platformer               | 006:00            |
+| Super Meat Boy                     | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)                              | Because Platformer               | 009:30            |
+| Syberia                            | [Steam](https://store.steampowered.com/app/46500/Syberia/)                             | Because trading card drops       | 009:30            |
+| Syberia II                         | [Steam](https://store.steampowered.com/app/46510/Syberia_II/)                          | Because trading card drops       | 007:30            |
+| System Shock: Enhanced Edition     | [Steam](https://store.steampowered.com/app/410710/System_Shock_Enhanced_Edition/)      | -                                | 013:00            |
+| The End is Nigh                    | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)                             | Because Platformer               | 008:00            |
+| World of Goo                       | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)                                | -                                | 006:00            |
+| Yesterday Origins                  | [Steam](https://store.steampowered.com/app/465280/Yesterday_Origins/)                  | Felt interesting in first glance | 008:00            |
 
 ## Completed Games
 
