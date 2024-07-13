@@ -44,7 +44,7 @@ function convertDurationToClockFormat(input) {
 /**
  * Asks for duration and converts it using the core logic.
  */
-function timeToClockConverter() {
+function interactiveConverter() {
   const durations = ['2h 42m', '2h', '42m', '3', '121m'];
   const longestStringLength = durations.reduce((a, b) => (a.length > b.length ? a : b), '').length;
   const durationText = durations
@@ -67,4 +67,4 @@ function timeToClockConverter() {
   });
 }
 
-timeToClockConverter();
+interactiveConverter();
