@@ -8,25 +8,52 @@ const rl = readline.createInterface({
 });
 
 /**
- * Converts duration to clock format (e.g., 2h 42m -> 02:42)
+ * Core logic to convert duration to clock format.
+ * @param {string} input - The input duration string.
+ * @returns {string} - The formatted time string.
+ */
+function convertDurationToClockFormat(input) {
+  // Use named capture groups to extract hours and minutes
+  const regex = /(?:(?<hours>\d+)h)?\s*(?:(?<minutes>\d+)m)?|^(?<hoursOnly>\d+)$/;
+  const match = input.match(regex);
+
+  // Extract hours and minutes, considering standalone number as hours
+  let hours = match.groups.hours ? parseInt(match.groups.hours, 10) : 0;
+  let minutes = match.groups.minutes ? parseInt(match.groups.minutes, 10) : 0;
+
+  // If only hours are provided without 'h', update hours variable
+  if (match.groups.hoursOnly) {
+    hours = parseInt(match.groups.hoursOnly, 10);
+  }
+
+  // Calculate total minutes
+  const totalMinutes = hours * 60 + minutes;
+
+  // Convert total minutes to the desired format
+  const formattedHours = Math.floor(totalMinutes / 60)
+    .toString()
+    .padStart(3, '0');
+  const formattedMinutes = (totalMinutes % 60).toString().padStart(2, '0');
+  return `${formattedHours}:${formattedMinutes}`;
+}
+
+/**
+ * Asks for duration and converts it using the core logic.
  */
 function timeToClockConverter() {
-  rl.question('Enter the duration (e.g., 2h 42m): ', (input) => {
-    // Regular expression to extract hours and minutes
-    const regex = /(?:(\d+)h)?\s*(?:(\d+)m)?/;
-    const match = input.match(regex);
-
-    // Extract hours and minutes, defaulting to 0 if not present
-    const hours = match[1] ? parseInt(match[1], 10) : 0;
-    const minutes = match[2] ? parseInt(match[2], 10) : 0;
-
-    // Calculate total minutes
-    const totalMinutes = hours * 60 + minutes;
-
-    // Convert total minutes to the desired format
-    const h = Math.floor(totalMinutes / 60);
-    const m = totalMinutes % 60;
-    const formattedTime = `${h.toString().padStart(3, '0')}:${m.toString().padStart(2, '0')}`;
+  const durations = ['2h 42m', '2h', '42m'];
+  const longestStringLength = durations.reduce((a, b) => (a.length > b.length ? a : b), '').length;
+  const durationText = durations
+    .map(
+      (duration) =>
+        ` ${duration.padEnd(longestStringLength, ' ')} => ${convertDurationToClockFormat(
+          duration,
+        )}`,
+    )
+    .join('\n');
+  const question = `Duration converter\n\nSample: \n${durationText}\n\nEnter the duration: `;
+  rl.question(question, (input) => {
+    const formattedTime = convertDurationToClockFormat(input);
 
     // Output
     copyToClipboard(formattedTime);
@@ -35,6 +62,5 @@ function timeToClockConverter() {
     process.exit(0);
   });
 }
-
 
 timeToClockConverter();
