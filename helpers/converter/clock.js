@@ -14,17 +14,17 @@ const rl = readline.createInterface({
  */
 function convertDurationToClockFormat(input) {
   // Use named capture groups to extract hours and minutes
-  const regex = /(?:(?<hours>\d+)h)?\s*(?:(?<minutes>\d+)m)?|^(?<hoursOnly>\d+)$/;
+  const regex = /(?:(?<hours>\d+)(?:h\s*)?(?<minutes>\d+)?m?)/;
   const match = input.match(regex);
+
+  // Check if the input is valid
+  if (!match) {
+    return 'Invalid input'; // Or handle the error as appropriate
+  }
 
   // Extract hours and minutes, considering standalone number as hours
   let hours = match.groups.hours ? parseInt(match.groups.hours, 10) : 0;
   let minutes = match.groups.minutes ? parseInt(match.groups.minutes, 10) : 0;
-
-  // If only hours are provided without 'h', update hours variable
-  if (match.groups.hoursOnly) {
-    hours = parseInt(match.groups.hoursOnly, 10);
-  }
 
   // Calculate total minutes
   const totalMinutes = hours * 60 + minutes;
@@ -41,7 +41,7 @@ function convertDurationToClockFormat(input) {
  * Asks for duration and converts it using the core logic.
  */
 function timeToClockConverter() {
-  const durations = ['2h 42m', '2h', '42m'];
+  const durations = ['2h 42m', '2h', '42m', '3'];
   const longestStringLength = durations.reduce((a, b) => (a.length > b.length ? a : b), '').length;
   const durationText = durations
     .map(
