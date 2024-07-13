@@ -7,6 +7,9 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
+// Modified part to accept CLI args
+const args = process.argv.slice(2); // Get CLI arguments excluding the first two elements
+
 /**
  * Core logic to convert duration to clock format.
  * @param {string} input - The input duration string.
@@ -45,6 +48,10 @@ function convertDurationToClockFormat(input) {
  * Asks for duration and converts it using the core logic.
  */
 function interactiveConverter() {
+  if (args.length > 0) {
+    return;
+  }
+
   const durations = ['2h 42m', '2h', '42m', '3', '121m'];
   const longestStringLength = durations.reduce((a, b) => (a.length > b.length ? a : b), '').length;
   const durationText = durations
@@ -67,4 +74,17 @@ function interactiveConverter() {
   });
 }
 
+function cliConverter() {
+  if (args.length <= 0) {
+    return;
+  }
+  // If there are CLI arguments, process each as a duration
+
+  const formattedTime = convertDurationToClockFormat(args.join(' '));
+  copyToClipboard(formattedTime);
+  console.log(`The duration ${formattedTime} has been copied to the clipboard.`);
+  process.exit(0);
+}
+
+cliConverter();
 interactiveConverter();
