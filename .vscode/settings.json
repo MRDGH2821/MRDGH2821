@@ -12,6 +12,7 @@
     "editor.defaultFormatter": "tamasfe.even-better-toml"
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.enableCommitSigning": true,
   "json.schemas": [
     {
       "fileMatch": ["markdown-link-check.json"],
