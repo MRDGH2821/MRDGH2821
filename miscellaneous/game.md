@@ -57,11 +57,12 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name        | Link                                                                                   | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
-| ---------------- | -------------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
-| Home Quest       | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus)        | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
-| Little Alchemy 2 | [Play Store](https://play.google.com/store/apps/details?id=com.recloak.littlealchemy2) | 🕓  | 2024-06-25    |             |      | 🔒   |               |             |      | Played this game once 2000+ days back, starting from 0 this time.                                                    |
-| Loop Hero        | [Play Store](https://play.google.com/store/apps/details?id=com.playdigious.loophero)   | 🕓  | 2024-06-07    |             |      | 🚫   |               |             |      | Amazing PC port available for mobile.                                                                                |
+| Game name        | Link                                                                                   | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
+| ---------------- | -------------------------------------------------------------------------------------- | --- | ------------- | ----------- | ------ | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
+| Home Quest       | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus)        | 🕓  | 2022-10       |             |        | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
+| Little Alchemy 2 | [Play Store](https://play.google.com/store/apps/details?id=com.recloak.littlealchemy2) | 🕓  | 2024-06-25    |             |        | 🔒   |               |             |      | Played this game once 2000+ days back, starting from 0 this time.                                                    |
+| Loop Hero        | [Play Store](https://play.google.com/store/apps/details?id=com.playdigious.loophero)   | 🕓  | 2024-06-07    |             |        | 🚫   |               |             |      | Amazing PC port available for mobile.                                                                                |
+| World of Goo     | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)                                | 🕓  | 2024-07-30    |             | 001:10 | 🚫   |               |             |      | Starting over again because cloud saves were not enabled.                                                            |
 
 ### Optional Backlog
 
@@ -96,7 +97,6 @@ but the ones mentioned here are specifically those which I liked and would play.
 | Syberia II                     | [Steam](https://store.steampowered.com/app/46510/Syberia_II/)                     | 004:00 | Because trading card drops       | 007:30            |
 | System Shock: Enhanced Edition | [Steam](https://store.steampowered.com/app/410710/System_Shock_Enhanced_Edition/) | 003:12 | -                                | 013:00            |
 | The End is Nigh                | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)                        | 000:17 | Because Platformer               | 008:00            |
-| World of Goo                   | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)                           | 001:10 | -                                | 006:00            |
 | Yesterday Origins              | [Steam](https://store.steampowered.com/app/465280/Yesterday_Origins/)             | 003:42 | Felt interesting in first glance | 008:00            |
 
 ## Completed Games
