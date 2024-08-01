@@ -63,6 +63,7 @@ Listed with priority order.
 | Little Alchemy 2 | [Play Store](https://play.google.com/store/apps/details?id=com.recloak.littlealchemy2) | 🕓  | 2024-06-25    |             |        | 🔒   |               |             |      | Played this game once 2000+ days back, starting from 0 this time.                                                    |
 | Loop Hero        | [Play Store](https://play.google.com/store/apps/details?id=com.playdigious.loophero)   | 🕓  | 2024-06-07    |             |        | 🚫   |               |             |      | Amazing PC port available for mobile.                                                                                |
 | World of Goo     | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)                                | 🕓  | 2024-07-30    |             | 001:10 | 🚫   |               |             |      | Starting over again because cloud saves were not enabled.                                                            |
+| Symmetry         | [GOG](https://www.gog.com/en/game/symmetry)                                            | 🕓  | 2024-07-25    |             | 000:25 | 🔒   |               |             |      | Started on my linux tablet.                                                                                          |
 
 ### Optional Backlog
 
