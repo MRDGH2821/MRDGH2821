@@ -216,6 +216,16 @@ These normally won't have DLC content, hence omitted from the table.
 | SCHiM Demo                        | [Steam](https://store.steampowered.com/app/1519710/SCHiM/)                       |     | 2024-06-27    | 2024-06-27  | 000:31 | A fun game where we jump between shadows.                                            |
 | The Alters Demo                   | [Steam](https://store.steampowered.com/app/1601570/The_Alters/)                  |     | 2024-07-08    | 2024-07-08  | 001:46 | Interesting concept & cool graphics and exploration!                                 |
 
+## Endless Games
+
+Those games with hardly any story and can be played endlessly.
+Technically all games would it this list,
+but I'll be adding only those which I played even after completing main objective.
+
+| Game name | Link                                                         | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️    | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                      |
+| --------- | ------------------------------------------------------------ | --- | ------------- | ----------- | ------- | --- | ------------- | ----------- | ---- | ------------------------------------------------------------- |
+| Factorio  | [Steam](https://store.steampowered.com/app/427520/Factorio/) |     | 2022-06-24    | 2023-01-14  | 1583:18 | 🚫  |               |             |      | Finished the vanilla game, now playing Space Exploration mod. |
+
 ## Unofficial
 
 In other words, cracked games. I think they too deserve attention.
