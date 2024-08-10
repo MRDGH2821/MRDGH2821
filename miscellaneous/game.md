@@ -64,6 +64,7 @@ Listed with priority order.
 | Loop Hero                   | [Play Store](https://play.google.com/store/apps/details?id=com.playdigious.loophero)   | 🕓  | 2024-06-07    |             |        | 🚫   |               |             |      | Amazing PC port available for mobile.                                                                                |
 | World of Goo                | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)                                | 🕓  | 2024-07-30    |             | 001:10 | 🚫   |               |             |      | Starting over again because cloud saves were not enabled.                                                            |
 | An Amazing Wizard: Prologue | [Steam](https://store.steampowered.com/app/2920980/An_Amazing_Wizard_Prologue/)        | 🕓  | 2024-08-03    |             |        |      |               |             |      |                                                                                                                      |
+| No Man's Sky                | [GOG](https://www.gog.com/en/game/no_mans_sky)                                         | 🕓  | 2024-08-05    |             | 022:39 | 🚫   |               |             |      | Best Space related game played till date. Need stronger GPU to play on max settings.                                 |
 
 ### Optional Backlog
 
