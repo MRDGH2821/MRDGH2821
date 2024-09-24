@@ -11,6 +11,7 @@
   "[toml]": {
     "editor.defaultFormatter": "tamasfe.even-better-toml"
   },
+  "conventionalCommits.scopes": ["game", "vscode"],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "git.enableCommitSigning": true,
   "json.schemas": [
