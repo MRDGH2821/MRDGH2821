@@ -27,7 +27,8 @@
         "softwaredotcom.swdc-vscode",
         "spmeesseman.vscode-taskexplorer",
         "streetsidesoftware.code-spell-checker",
-        "tamasfe.even-better-toml"
+        "tamasfe.even-better-toml",
+        "vivaxy.vscode-conventional-commits"
       ]
     }
   }
