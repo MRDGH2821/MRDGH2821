@@ -33,6 +33,7 @@ Want to go back to [main page](../readme.md)?
 | 🕓    | Partially Completed            |
 | ⏱️    | Time Taken                     |
 | 📭    | No Story                       |
+| 🐧    | Played on Linux                |
 
 | Shortform | Long form            | Notes                                                                                           |
 | --------- | -------------------- | ----------------------------------------------------------------------------------------------- |
@@ -57,12 +58,12 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name        | Link                                                                                   | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
-| ---------------- | -------------------------------------------------------------------------------------- | --- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
-| Home Quest       | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus)        | 🕓  | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
-| Little Alchemy 2 | [Play Store](https://play.google.com/store/apps/details?id=com.recloak.littlealchemy2) | 🕓  | 2024-06-25    |             |      | 🔒   |               |             |      | Played this game once 2000+ days back, starting from 0 this time.                                                    |
-| Loop Hero        | [Play Store](https://play.google.com/store/apps/details?id=com.playdigious.loophero)   | 🕓  | 2024-06-07    |             |      | 🚫   |               |             |      | Amazing PC port available for mobile.                                                                                |
-| Syberia          | [Steam](https://store.steampowered.com/app/46500/Syberia/)                             | 🕓  | 2024-08-24    |             |      | 🚫   |               |             |      | Installed this game to try out in my linux tablet. Still needs mouse & keyboard.                                     |
+| Game name        | Link                                                                                   | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                             |
+| ---------------- | -------------------------------------------------------------------------------------- | ---- | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------- |
+| Home Quest       | [Play Store](https://play.google.com/store/apps/details?id=de.codestream.horus)        | 🕓   | 2022-10       |             |      | 🔒📭 |               |             |      | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story btw. |
+| Little Alchemy 2 | [Play Store](https://play.google.com/store/apps/details?id=com.recloak.littlealchemy2) | 🕓   | 2024-06-25    |             |      | 🔒   |               |             |      | Played this game once 2000+ days back, starting from 0 this time.                                                    |
+| Loop Hero        | [Play Store](https://play.google.com/store/apps/details?id=com.playdigious.loophero)   | 🕓   | 2024-06-07    |             |      | 🚫   |               |             |      | Amazing PC port available for mobile.                                                                                |
+| Syberia          | [Steam](https://store.steampowered.com/app/46500/Syberia/)                             | 🕓🐧 | 2024-08-24    |             |      | 🚫   |               |             |      | Installed this game to try out in my linux tablet. Still needs mouse & keyboard.                                     |
 
 ### Optional Backlog
 
