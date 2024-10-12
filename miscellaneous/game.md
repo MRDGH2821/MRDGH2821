@@ -66,6 +66,7 @@ Listed with priority order.
 | Syberia                               | [Steam](https://store.steampowered.com/app/46500/Syberia/)                                | 🕓🐧   | 2024-08-24    |             |      | 🚫   |               |             |      | Installed this game to try out in my linux tablet. Still needs mouse & keyboard.                                     |
 | Active Neurons - Wonders Of The World | [Steam](https://store.steampowered.com/app/1422630/Active_Neurons__Wonders_Of_The_World/) | 🕓🐧📭 | 2024-10-04    |             |      | 🔒📭 |               |             |      | Great fit for a travel game                                                                                          |
 | Curvatron                             | [Steam](https://store.steampowered.com/app/404700/Curvatron/)                             | 🕓🐧📭 | 2024-10-04    |             |      | 🚫   |               |             |      | Great fit for a travel game                                                                                          |
+| Doom Eternal                          | [Microsoft Store](https://www.microsoft.com/store/productId/9PK09BL31FK1)                 | 🕓     | 2024-10-12    |             |      | 🔒   |               |             |      |                                                                                                                      |
 
 ### Optional Backlog
 
