@@ -86,7 +86,6 @@ but the ones mentioned here are specifically those which I liked and would play.
 | Fez                            | [EGS](https://store.epicgames.com/en-US/p/fez)                                    | 000:39 | I liked its 2.5D                 | 006:00            |
 | Hyper Light Drifter            | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)                    | 002:43 | I liked the Visuals              | 008:00            |
 | Kitaria Fables                 | [Steam](https://store.steampowered.com/app/1356280/Kitaria_Fables/)               | 001:18 | Because trading card drops       | 016:30            |
-| Monster Prom                   | [Steam](https://store.steampowered.com/app/743450/Monster_Prom/)                  | 003:48 | Because trading card drops       | 001:00            |
 | PixelJunk™ Eden                | [Steam](https://store.steampowered.com/app/105800/PixelJunk_Eden/)                | 001:51 | I liked the Visuals              | 009:00            |
 | Portal 2                       | [Steam](https://store.steampowered.com/app/620/Portal_2/)                         | 002:18 | Because trading card drops       | 008:30            |
 | Qora                           | [Steam](https://store.steampowered.com/app/304460/Qora/)                          | 002:18 | Because trading card drops       | 002:00            |
