@@ -81,7 +81,6 @@ but the ones mentioned here are specifically those which I liked and would play.
 | Axiom Verge                    | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)                            | 000:15 | Because Platformer               | 010:30            |
 | Chip's Challenge 1             | [Steam](https://store.steampowered.com/app/346850/Chips_Challenge_1/)             | 003:48 | Reliving childhood game          | 048:00            |
 | Chip's Challenge 2             | [Steam](https://store.steampowered.com/app/348300/Chips_Challenge_2/)             | 002:48 | Reliving childhood game          | 037:30            |
-| Do Not Feed Monkeys            | [Steam](https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/)       | 004:06 | Because trading card drops       | 004:00            |
 | Enter The Gungeon              | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)                      | 001:15 | Felt interesting in first glance | 022:30            |
 | Fez                            | [EGS](https://store.epicgames.com/en-US/p/fez)                                    | 000:39 | I liked its 2.5D                 | 006:00            |
 | Hyper Light Drifter            | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)                    | 002:43 | I liked the Visuals              | 008:00            |
@@ -262,24 +261,25 @@ And I skip online games too, because Online & cannot speed run to complete.
 I also skip card games, as they are too long.
 The other games listed here are those I'm totally skipping.
 
-| Game name                     | Link                                                                | Notes                                                                      |
-| ----------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Ark: Survival Evolved         | [EGS](https://store.epicgames.com/en-US/p/ark)                      | Felt a bit complicated.                                                    |
-| City of Brass                 | [EGS](https://store.epicgames.com/en-US/p/city-of-brass)            | Skipping Infinite content.                                                 |
-| Everything                    | [EGS](https://store.epicgames.com/en-US/p/everything)               | Felt boring.                                                               |
-| Faeria                        | [EGS](https://store.epicgames.com/en-US/p/faeria)                   | Card game, got je-baited.                                                  |
-| GNOG                          | [EGS](https://store.epicgames.com/en-US/p/gnog)                     | Didn't understand the game.                                                |
-| Kingdom Come Deliverance      | [EGS](https://store.epicgames.com/en-US/p/kingdom-come-deliverance) | 1st person view & complex game economy made me skip.                       |
-| Monster Prom                  | [Steam](https://store.steampowered.com/app/743450/Monster_Prom/)    | It has a lot of RNG and will take a lot of time to get all endings.        |
-| Mortal Shell                  | [EGS](https://store.epicgames.com/en-US/p/mortal-shell)             | Excited because Souls like, skipped because controls.                      |
-| Mutant year Zero Road to Eden | [EGS](https://store.epicgames.com/en-US/p/mutant-year-zero)         | Felt like skipping it.                                                     |
-| My Time at Portia             | [EGS](https://store.epicgames.com/en-US/p/my-time-at-portia)        | Too much of a grind, even with cheats.                                     |
-| Overcooked 2                  | [EGS](https://store.epicgames.com/en-US/p/overcooked-2)             | Too much demanding 😬.                                                     |
-| PC Building Simulator         | [EGS](https://store.epicgames.com/en-US/p/pc-building-simulator)    | Played to get PC building experience. Dropped it after it felt repetitive. |
-| Qora                          | [Steam](https://store.steampowered.com/app/304460/Qora/)            | Felt boring in just few minutes of playing.                                |
-| Remnant: From the Ashes       | [EGS](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)   | Felt like skipping it, also too heavy on GPU.                              |
-| Slime Rancher                 | [EGS](https://store.epicgames.com/en-US/p/slime-rancher)            | It was FPS type, got je-baited.                                            |
-| Subnautica                    | [EGS](https://store.epicgames.com/en-US/p/subnautica)               | Didn't understand the game.                                                |
-| Surviving Mars                | [EGS](https://store.epicgames.com/en-US/p/surviving-mars)           | It was actually good one, but it is sandbox.                               |
-| Tacoma                        | [EGS](https://store.epicgames.com/en-US/p/tacoma)                   | Didn't understand the game.                                                |
-| Torchlight                    | [EGS](https://store.epicgames.com/en-US/p/torchlight)               | Top down view was uncomfortable.                                           |
+| Game name                     | Link                                                                        | Notes                                                                      |
+| ----------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Ark: Survival Evolved         | [EGS](https://store.epicgames.com/en-US/p/ark)                              | Felt a bit complicated.                                                    |
+| City of Brass                 | [EGS](https://store.epicgames.com/en-US/p/city-of-brass)                    | Skipping Infinite content.                                                 |
+| Do Not Feed Monkeys           | [Steam](https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/) | Did not feel like playing this game.                                       |
+| Everything                    | [EGS](https://store.epicgames.com/en-US/p/everything)                       | Felt boring.                                                               |
+| Faeria                        | [EGS](https://store.epicgames.com/en-US/p/faeria)                           | Card game, got je-baited.                                                  |
+| GNOG                          | [EGS](https://store.epicgames.com/en-US/p/gnog)                             | Didn't understand the game.                                                |
+| Kingdom Come Deliverance      | [EGS](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)         | 1st person view & complex game economy made me skip.                       |
+| Monster Prom                  | [Steam](https://store.steampowered.com/app/743450/Monster_Prom/)            | It has a lot of RNG and will take a lot of time to get all endings.        |
+| Mortal Shell                  | [EGS](https://store.epicgames.com/en-US/p/mortal-shell)                     | Excited because Souls like, skipped because controls.                      |
+| Mutant year Zero Road to Eden | [EGS](https://store.epicgames.com/en-US/p/mutant-year-zero)                 | Felt like skipping it.                                                     |
+| My Time at Portia             | [EGS](https://store.epicgames.com/en-US/p/my-time-at-portia)                | Too much of a grind, even with cheats.                                     |
+| Overcooked 2                  | [EGS](https://store.epicgames.com/en-US/p/overcooked-2)                     | Too much demanding 😬.                                                     |
+| PC Building Simulator         | [EGS](https://store.epicgames.com/en-US/p/pc-building-simulator)            | Played to get PC building experience. Dropped it after it felt repetitive. |
+| Qora                          | [Steam](https://store.steampowered.com/app/304460/Qora/)                    | Felt boring in just few minutes of playing.                                |
+| Remnant: From the Ashes       | [EGS](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)           | Felt like skipping it, also too heavy on GPU.                              |
+| Slime Rancher                 | [EGS](https://store.epicgames.com/en-US/p/slime-rancher)                    | It was FPS type, got je-baited.                                            |
+| Subnautica                    | [EGS](https://store.epicgames.com/en-US/p/subnautica)                       | Didn't understand the game.                                                |
+| Surviving Mars                | [EGS](https://store.epicgames.com/en-US/p/surviving-mars)                   | It was actually good one, but it is sandbox.                               |
+| Tacoma                        | [EGS](https://store.epicgames.com/en-US/p/tacoma)                           | Didn't understand the game.                                                |
+| Torchlight                    | [EGS](https://store.epicgames.com/en-US/p/torchlight)                       | Top down view was uncomfortable.                                           |
