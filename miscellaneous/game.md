@@ -94,7 +94,6 @@ but the ones mentioned here are specifically those which I liked and would play.
 | Syberia II                     | [Steam](https://store.steampowered.com/app/46510/Syberia_II/)                     | 004:00 | Because trading card drops       | 007:30            |
 | System Shock: Enhanced Edition | [Steam](https://store.steampowered.com/app/410710/System_Shock_Enhanced_Edition/) | 003:12 | -                                | 013:00            |
 | The End is Nigh                | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)                        | 000:17 | Because Platformer               | 008:00            |
-| Yesterday Origins              | [Steam](https://store.steampowered.com/app/465280/Yesterday_Origins/)             | 003:42 | Felt interesting in first glance | 008:00            |
 
 ## Completed Games
 
@@ -205,6 +204,7 @@ wherever it made sense.
 | Watch Dogs                                         | [EGS](https://store.epicgames.com/en-US/p/watch-dogs)                                            |      |               | 2021-12-14  | 019:51 | 🔒   |               |             |            | -                                                                                                                                                                                                                                            |
 | Watch Dogs 2                                       | [EGS](https://store.epicgames.com/en-US/p/watch-dogs-2)                                          |      | 2024-10-05    | 2024-10-12  | 012:49 | 🔒   | (Included)    | (Included)  | (Included) | Got it for free from EGS. The Tone changed a lot compared to Watchdogs 1.                                                                                                                                                                    |
 | World of Goo                                       | [EGS](https://store.epicgames.com/en-US/p/world-of-goo)                                          |      | 2024-07-30    | 2024-09-29  | 005:49 | 🚫   |               |             |            | Nice bridge builder game. Starting over again because cloud saves were not enabled.                                                                                                                                                          |
+| Yesterday Origins                                  | [Steam](https://store.steampowered.com/app/465280/Yesterday_Origins/)                            |      | 2024-10-20    | 2024-10-20  | 011:36 | 🚫   |               |             |            | A nice point & click game with clunky controls. Felt interesting in first glance. This game previously had 003:42 play time (which came from steam card farming).                                                                            |
 
 ## Completed/Skipped Demos
 
