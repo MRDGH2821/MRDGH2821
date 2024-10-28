@@ -238,7 +238,7 @@ These normally won't have DLC content, hence omitted from the table.
 ## Endless Games
 
 Those games with hardly any story and can be played endlessly.
-Technically all games would it this list,
+Technically all games would fit this list,
 but I'll be adding only those which I played even after completing main objective.
 
 | Game name    | Link                                                         | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️    | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                                                                             |
