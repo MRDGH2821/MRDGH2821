@@ -76,32 +76,33 @@ When I search for next game to play, I'm highly likely selecting from this list.
 There are many more games which I would like to play,
 but these are the ones I'm prioritising first.
 
+This table is sorted first by `How long to beat?` then `🎮⏱️`.
+
 | Game Name                        | Link                                                                              | 🎮⏱️   | Notes                                                                         | How long to beat? |
 | -------------------------------- | --------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------- | ----------------- |
-| Axiom Verge                      | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)                            | 000:15 | Because Platformer                                                            | 010:30            |
 | Chip's Challenge 1               | [Steam](https://store.steampowered.com/app/346850/Chips_Challenge_1/)             | 003:48 | Reliving childhood game                                                       | 048:00            |
+| System Shock: Enhanced Edition   | [Steam](https://store.steampowered.com/app/410710/System_Shock_Enhanced_Edition/) | 003:12 | -                                                                             | 013:00            |
 | Chip's Challenge 2               | [Steam](https://store.steampowered.com/app/348300/Chips_Challenge_2/)             | 002:48 | Reliving childhood game                                                       | 037:30            |
+| Hyper Light Drifter              | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)                    | 002:43 | I liked the visuals                                                           | 008:00            |
+| PixelJunk™ Eden                  | [Steam](https://store.steampowered.com/app/105800/PixelJunk_Eden/)                | 001:51 | I liked the visuals                                                           | 009:00            |
+| Kitaria Fables                   | [Steam](https://store.steampowered.com/app/1356280/Kitaria_Fables/)               | 001:18 | Because trading card drops                                                    | 016:30            |
 | Enter The Gungeon                | [EGS](https://store.epicgames.com/en-US/p/enter-the-gungeon)                      | 001:15 | Felt interesting in first glance                                              | 022:30            |
 | Fez                              | [EGS](https://store.epicgames.com/en-US/p/fez)                                    | 000:39 | I liked its 2.5D                                                              | 006:00            |
-| Ghostwire: Tokyo                 | [EGS](https://store.epicgames.com/en-US/p/ghostwire-tokyo)                        | 000:00 | -                                                                             | 011:00            |
-| Hob                              | [EGS](https://store.epicgames.com/en-US/p/hob)                                    | 000:00 | Mechs & Puzzles!                                                              | 010:30            |
-| Hyper Light Drifter              | [EGS](https://store.epicgames.com/en-US/p/hyper-light-drifter)                    | 002:43 | I liked the visuals                                                           | 008:00            |
-| Kitaria Fables                   | [Steam](https://store.steampowered.com/app/1356280/Kitaria_Fables/)               | 001:18 | Because trading card drops                                                    | 016:30            |
-| Marvel's Guardians of the Galaxy | [EGS](https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy)        | 000:00 | -                                                                             | 017:30            |
-| Never Alone                      | [EGS](https://store.epicgames.com/en-US/p/never-alone-kisima-ingitchuna)          | 000:00 | -                                                                             | 003:00            |
-| Nioh: The Complete Edition       | [EGS](https://store.epicgames.com/en-US/p/nioh-the-complete-edition)              | 000:00 | -                                                                             | 042:00            |
-| PixelJunk™ Eden                  | [Steam](https://store.steampowered.com/app/105800/PixelJunk_Eden/)                | 001:51 | I liked the visuals                                                           | 009:00            |
-| Portal 2                         | [Steam](https://store.steampowered.com/app/620/Portal_2/)                         | 002:18 | Because trading card drops                                                    | 008:30            |
-| Prey (2017)                      | [EGS](https://store.epicgames.com/en-US/p/prey)                                   | 000:00 | -                                                                             | 016:00            |
-| RiME                             | [EGS](https://store.epicgames.com/en-US/p/rime)                                   | 000:12 | I liked the visuals                                                           | 005:30            |
-| Slain: Back From Hell            | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)                           | 000:14 | Because Platformer                                                            | 006:00            |
-| Soulstice                        | [EGS](https://store.epicgames.com/en-US/p/soulstice)                              | 000:00 | I liked the hack & slash action                                               | 017:00            |
-| Super Meat Boy                   | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)                         | 000:15 | Because Platformer                                                            | 009:30            |
-| System Shock: Enhanced Edition   | [Steam](https://store.steampowered.com/app/410710/System_Shock_Enhanced_Edition/) | 003:12 | -                                                                             | 013:00            |
 | The End is Nigh                  | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)                        | 000:17 | Because Platformer                                                            | 008:00            |
+| Axiom Verge                      | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)                            | 000:15 | Because Platformer                                                            | 010:30            |
+| Super Meat Boy                   | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)                         | 000:15 | Because Platformer                                                            | 009:30            |
+| Slain: Back From Hell            | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)                           | 000:14 | Because Platformer                                                            | 006:00            |
+| RiME                             | [EGS](https://store.epicgames.com/en-US/p/rime)                                   | 000:12 | I liked the visuals                                                           | 005:30            |
+| Nioh: The Complete Edition       | [EGS](https://store.epicgames.com/en-US/p/nioh-the-complete-edition)              | 000:00 | -                                                                             | 042:00            |
 | The Long Dark                    | [EGS](https://store.epicgames.com/en-US/p/the-long-dark)                          | 000:00 | I liked the visuals                                                           | 021:00            |
-| Thief                            | [EGS](https://store.epicgames.com/en-US/p/thief-5bb95f)                           | 000:00 | I heard this game multiple times & I also get Assassin's Creed vibes from it. | 011:00            |
+| Marvel's Guardians of the Galaxy | [EGS](https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy)        | 000:00 | -                                                                             | 017:30            |
+| Soulstice                        | [EGS](https://store.epicgames.com/en-US/p/soulstice)                              | 000:00 | I liked the hack & slash action                                               | 017:00            |
+| Prey (2017)                      | [EGS](https://store.epicgames.com/en-US/p/prey)                                   | 000:00 | -                                                                             | 016:00            |
 | Windbound                        | [EGS](https://store.epicgames.com/en-US/p/windbound)                              | 000:00 | I liked the visuals                                                           | 013:00            |
+| Ghostwire: Tokyo                 | [EGS](https://store.epicgames.com/en-US/p/ghostwire-tokyo)                        | 000:00 | -                                                                             | 011:00            |
+| Thief                            | [EGS](https://store.epicgames.com/en-US/p/thief-5bb95f)                           | 000:00 | I heard this game multiple times & I also get Assassin's Creed vibes from it. | 011:00            |
+| Hob                              | [EGS](https://store.epicgames.com/en-US/p/hob)                                    | 000:00 | Mechs & Puzzles!                                                              | 010:30            |
+| Never Alone                      | [EGS](https://store.epicgames.com/en-US/p/never-alone-kisima-ingitchuna)          | 000:00 | -                                                                             | 003:00            |
 
 ## Completed Games
 
