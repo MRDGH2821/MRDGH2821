@@ -58,9 +58,10 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name               | Link                                                                                             | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                          |
-| ----------------------- | ------------------------------------------------------------------------------------------------ | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | --------------------------------- |
-| Vampire's Fall: Origins | [Play Store](https://play.google.com/store/apps/details?id=com.earlymorningstudio.vampiresfall2) | 🕓  | 2025-01-04    |             |      | 🚫  |               |             |      | One of the good games for mobile. |
+| Game name               | Link                                                                                             | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                      |
+| ----------------------- | ------------------------------------------------------------------------------------------------ | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ----------------------------------------------------------------------------- |
+| Vampire's Fall: Origins | [Play Store](https://play.google.com/store/apps/details?id=com.earlymorningstudio.vampiresfall2) | 🕓  | 2025-01-04    |             |      | 🚫  |               |             |      | One of the good games for mobile.                                             |
+| Thief                   | [EGS](https://store.epicgames.com/en-US/p/thief-5bb95f)                                          | 🕓  | 2025-01-07    |             |      | 🚫  |               |             |      | I heard this game multiple times & I also get Assassin's Creed vibes from it. |
 
 ### Travel Games
 
@@ -86,27 +87,26 @@ but these are the ones I'm prioritising first.
 
 This table is sorted first by `How long to beat?` then `🎮⏱️`.
 
-| Game Name                        | Link                                                                       | 🎮⏱️   | Notes                                                                         | How long to beat? |
-| -------------------------------- | -------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------- | ----------------- |
-| Chip's Challenge 1               | [Steam](https://store.steampowered.com/app/346850/Chips_Challenge_1/)      | 003:48 | Reliving childhood game                                                       | 048:00            |
-| Chip's Challenge 2               | [Steam](https://store.steampowered.com/app/348300/Chips_Challenge_2/)      | 002:48 | Reliving childhood game                                                       | 037:30            |
-| Kitaria Fables                   | [Steam](https://store.steampowered.com/app/1356280/Kitaria_Fables/)        | 001:18 | Because trading card drops                                                    | 016:30            |
-| Fez                              | [EGS](https://store.epicgames.com/en-US/p/fez)                             | 000:39 | I liked its 2.5D                                                              | 006:00            |
-| The End is Nigh                  | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)                 | 000:17 | Because Platformer                                                            | 008:00            |
-| Axiom Verge                      | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)                     | 000:15 | Because Platformer                                                            | 010:30            |
-| Super Meat Boy                   | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)                  | 000:15 | Because Platformer                                                            | 009:30            |
-| Slain: Back From Hell            | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)                    | 000:14 | Because Platformer                                                            | 006:00            |
-| RiME                             | [EGS](https://store.epicgames.com/en-US/p/rime)                            | 000:12 | I liked the visuals                                                           | 005:30            |
-| Nioh: The Complete Edition       | [EGS](https://store.epicgames.com/en-US/p/nioh-the-complete-edition)       | 000:00 | -                                                                             | 042:00            |
-| The Long Dark                    | [EGS](https://store.epicgames.com/en-US/p/the-long-dark)                   | 000:00 | I liked the visuals                                                           | 021:00            |
-| Marvel's Guardians of the Galaxy | [EGS](https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy) | 000:00 | -                                                                             | 017:30            |
-| Soulstice                        | [EGS](https://store.epicgames.com/en-US/p/soulstice)                       | 000:00 | I liked the hack & slash action                                               | 017:00            |
-| Prey (2017)                      | [EGS](https://store.epicgames.com/en-US/p/prey)                            | 000:00 | -                                                                             | 016:00            |
-| Windbound                        | [EGS](https://store.epicgames.com/en-US/p/windbound)                       | 000:00 | I liked the visuals                                                           | 013:00            |
-| Ghostwire: Tokyo                 | [EGS](https://store.epicgames.com/en-US/p/ghostwire-tokyo)                 | 000:00 | -                                                                             | 011:00            |
-| Thief                            | [EGS](https://store.epicgames.com/en-US/p/thief-5bb95f)                    | 000:00 | I heard this game multiple times & I also get Assassin's Creed vibes from it. | 011:00            |
-| Hob                              | [EGS](https://store.epicgames.com/en-US/p/hob)                             | 000:00 | Mechs & Puzzles!                                                              | 010:30            |
-| Never Alone                      | [EGS](https://store.epicgames.com/en-US/p/never-alone-kisima-ingitchuna)   | 000:00 | -                                                                             | 003:00            |
+| Game Name                        | Link                                                                       | 🎮⏱️   | Notes                           | How long to beat? |
+| -------------------------------- | -------------------------------------------------------------------------- | ------ | ------------------------------- | ----------------- |
+| Chip's Challenge 1               | [Steam](https://store.steampowered.com/app/346850/Chips_Challenge_1/)      | 003:48 | Reliving childhood game         | 048:00            |
+| Chip's Challenge 2               | [Steam](https://store.steampowered.com/app/348300/Chips_Challenge_2/)      | 002:48 | Reliving childhood game         | 037:30            |
+| Kitaria Fables                   | [Steam](https://store.steampowered.com/app/1356280/Kitaria_Fables/)        | 001:18 | Because trading card drops      | 016:30            |
+| Fez                              | [EGS](https://store.epicgames.com/en-US/p/fez)                             | 000:39 | I liked its 2.5D                | 006:00            |
+| The End is Nigh                  | [EGS](https://store.epicgames.com/en-US/p/the-end-is-nigh)                 | 000:17 | Because Platformer              | 008:00            |
+| Axiom Verge                      | [EGS](https://store.epicgames.com/en-US/p/axiom-verge)                     | 000:15 | Because Platformer              | 010:30            |
+| Super Meat Boy                   | [EGS](https://store.epicgames.com/en-US/p/super-meat-boy)                  | 000:15 | Because Platformer              | 009:30            |
+| Slain: Back From Hell            | [EGS](https://store.epicgames.com/en-US/p/slain-aea303)                    | 000:14 | Because Platformer              | 006:00            |
+| RiME                             | [EGS](https://store.epicgames.com/en-US/p/rime)                            | 000:12 | I liked the visuals             | 005:30            |
+| Nioh: The Complete Edition       | [EGS](https://store.epicgames.com/en-US/p/nioh-the-complete-edition)       | 000:00 | -                               | 042:00            |
+| The Long Dark                    | [EGS](https://store.epicgames.com/en-US/p/the-long-dark)                   | 000:00 | I liked the visuals             | 021:00            |
+| Marvel's Guardians of the Galaxy | [EGS](https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy) | 000:00 | -                               | 017:30            |
+| Soulstice                        | [EGS](https://store.epicgames.com/en-US/p/soulstice)                       | 000:00 | I liked the hack & slash action | 017:00            |
+| Prey (2017)                      | [EGS](https://store.epicgames.com/en-US/p/prey)                            | 000:00 | -                               | 016:00            |
+| Windbound                        | [EGS](https://store.epicgames.com/en-US/p/windbound)                       | 000:00 | I liked the visuals             | 013:00            |
+| Ghostwire: Tokyo                 | [EGS](https://store.epicgames.com/en-US/p/ghostwire-tokyo)                 | 000:00 | -                               | 011:00            |
+| Hob                              | [EGS](https://store.epicgames.com/en-US/p/hob)                             | 000:00 | Mechs & Puzzles!                | 010:30            |
+| Never Alone                      | [EGS](https://store.epicgames.com/en-US/p/never-alone-kisima-ingitchuna)   | 000:00 | -                               | 003:00            |
 
 ## Completed Games
 
