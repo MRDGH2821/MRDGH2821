@@ -58,8 +58,14 @@ Thus the general format will be:
 Listed with priority order.
 1st rank means that game should be finished first before starting next in table.
 
-| Game name | Link | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes |
-| --------- | ---- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | -------- |
+| Game name                        | Link                                                                                 | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                  |
+| -------------------------------- | ------------------------------------------------------------------------------------ | ---- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ----------------------------------------- |
+| Empyreal Demo                    | [Steam](https://store.steampowered.com/app/3514930/Empyreal_Demo/)                   | 🕓🐧 | 2025-03-07    |             |      |     |               |             |      |                                           |
+| The First Berserker: Khazan Demo | [Steam](https://store.steampowered.com/app/3351700/The_First_Berserker_Khazan_Demo/) | 🕓🐧 | 2025-03-01    |             |      |     |               |             |      | I found the controls to be a little stiff |
+| Haste: Broken Worlds Demo        | [Steam](https://store.steampowered.com/app/2940200/Haste_Broken_Worlds_Demo/)        | 🕓🐧 | 2025-03-01    |             |      |     |               |             |      |                                           |
+| The Henry Stickmin Collection    | [Steam](https://store.steampowered.com/app/1089980/The_Henry_Stickmin_Collection/)   | 🕓🐧 | 2025-02-21    |             |      |     |               |             |      |                                           |
+| Nested Lands Playtest            | [Steam](https://store.steampowered.com/app/2553040/Nested_Lands/)                    | 🕓🐧 | 2025-03-01    |             |      |     |               |             |      |                                           |
+| Outward Definitive Edition       | [Steam](https://store.steampowered.com/app/794260/Outward_Definitive_Edition/)       | 🕓🐧 | 2025-03-09    |             |      |     |               |             |      |                                           |
 
 ### Travel Games
 
