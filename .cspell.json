@@ -13,8 +13,8 @@
     "report"
   ],
   "language": "en,en-GB",
-  "useGitignore": true,
   "noConfigSearch": true,
+  "useGitignore": true,
   "version": "0.2",
   "words": [
     "abzu",
@@ -26,6 +26,7 @@
     "deponia",
     "dlcs",
     "eternights",
+    "evoland",
     "faeria",
     "gnog",
     "goty",
@@ -36,8 +37,8 @@
     "lacto",
     "lutris",
     "megalinter",
-    "mihir",
     "mihir's",
+    "mihir",
     "mihirr",
     "minit",
     "mrdgh",
