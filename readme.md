@@ -53,7 +53,7 @@ I also have a huge tendency to apply the knowledge I learnt.
 >
 > **About my food**
 > I eat food of Saatvik Nature (Lacto-Vegetarian Karma-free diet). Know more [here](https://food.iskcondesiretree.com/).
-> More recipes [here](https://bit.ly/recipemaster).
+> More recipes [here](https://1drv.ms/f/s!AqbOAR5ggpjc7lbqt0kf37DXN1jp?embed=1).
 >
 > **About my wishes**
 > I wish to be successful in my Game development career.
