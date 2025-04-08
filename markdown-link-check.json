@@ -2,25 +2,28 @@
   "aliveStatusCodes": [200, 203],
   "ignorePatterns": [
     {
-      "pattern": "store.epicgames.com"
+      "pattern": ".*epicgames.com.*"
     },
     {
-      "pattern": "epicgames.com"
+      "pattern": ".*thegamebakers.com.*"
     },
     {
-      "pattern": "thegamebakers.com"
+      "pattern": ".*img.shields.io.*"
     },
     {
-      "pattern": "img.shields.io"
+      "pattern": ".*linkedin.com.*"
     },
     {
-      "pattern": "linkedin.com"
+      "pattern": ".*canva.com.*"
     },
     {
-      "pattern": "canva.com"
+      "pattern": ".*trueachievements.com.*"
     },
     {
-      "pattern": "linkedin.com"
+      "pattern": ".*uber.com.*"
+    },
+    {
+      "pattern": ".*freegamelottery.com.*"
     }
   ],
   "retryCount": 5,
