@@ -24,6 +24,15 @@
     },
     {
       "pattern": ".*freegamelottery.com.*"
+    },
+    {
+      "pattern": ".*hackerearth.com.*"
+    },
+    {
+      "pattern": ".*reddit.com.*"
+    },
+    {
+      "pattern": ".*udemy.com.*"
     }
   ],
   "retryCount": 5,
