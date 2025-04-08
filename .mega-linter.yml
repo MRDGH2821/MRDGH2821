@@ -31,8 +31,9 @@ FILEIO_REPORTER: false
 CLEAR_REPORT_FOLDER: true
 
 EXCLUDED_DIRECTORIES:
-  - '.vscode'
   - '.devcontainer'
+  - '.vscode'
+  - '.zed'
 
 SPELL_CSPELL_ANALYZE_FILE_NAMES: false
 
