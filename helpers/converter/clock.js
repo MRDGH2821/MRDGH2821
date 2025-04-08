@@ -26,7 +26,7 @@ function convertDurationToClockFormat(input) {
 
   // Parse hours and minutes, defaulting to 0 if not present
   let hours = hoursMatch ? parseInt(hoursMatch.groups.hours, 10) : 0;
-  let minutes = minutesMatch ? parseInt(minutesMatch.groups.minutes, 10) : 0;
+  const minutes = minutesMatch ? parseInt(minutesMatch.groups.minutes, 10) : 0;
 
   // If the input is a standalone number without 'h' or 'm', treat it as hours
   if (!hoursMatch && !minutesMatch && /^\d+$/.test(input)) {
