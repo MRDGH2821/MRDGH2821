@@ -1,6 +1,15 @@
 exclude = [
+  '1drv.ms',
+  'canva.com',
   'epicgames.com',
-  'thegamebakers.com',
+  'freegamelottery.com',
+  'hackerearth.com',
   'img.shields.io',
   'linkedin.com',
+  'mrdgh2821.github.io',
+  'reddit.com',
+  'thegamebakers.com',
+  'trueachievements.com',
+  'uber.com',
+  'udemy.com',
 ]
