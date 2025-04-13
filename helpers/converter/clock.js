@@ -16,34 +16,45 @@ const args = process.argv.slice(2); // Get CLI arguments excluding the first two
  * @returns {string} - The formatted time string.
  */
 function convertDurationToClockFormat(input) {
-  // Separate regex patterns for hours and minutes
-  const hoursRegex = /(?:(?<hours>\d+)h)/;
-  const minutesRegex = /(?:(?<minutes>\d+)m)/;
+  // Check if the input is a decimal number
+  if (/^\d+(\.\d+)?$/.test(input)) {
+    // Convert the input to hours and minutes
+    const hours = parseFloat(input);
+    const totalMinutes = hours * 60;
+    const formattedHours = Math.floor(totalMinutes / 60)
+      .toString()
+      .padStart(3, '0');
+    const formattedMinutes = (totalMinutes % 60).toString().padStart(2, '0');
+    return `${formattedHours}:${formattedMinutes}`;
+  } else {
+    // Separate regex patterns for hours and minutes
+    const hoursRegex = /(?:(?<hours>\d+)h)/;
+    const minutesRegex = /(?:(?<minutes>\d+)m)/;
 
-  // Attempt to match both patterns
-  const hoursMatch = input.match(hoursRegex);
-  const minutesMatch = input.match(minutesRegex);
+    // Attempt to match both patterns
+    const hoursMatch = input.match(hoursRegex);
+    const minutesMatch = input.match(minutesRegex);
 
-  // Parse hours and minutes, defaulting to 0 if not present
-  let hours = hoursMatch ? parseInt(hoursMatch.groups.hours, 10) : 0;
-  const minutes = minutesMatch ? parseInt(minutesMatch.groups.minutes, 10) : 0;
+    // Parse hours and minutes, defaulting to 0 if not present
+    let hours = hoursMatch ? parseInt(hoursMatch.groups.hours, 10) : 0;
+    const minutes = minutesMatch ? parseInt(minutesMatch.groups.minutes, 10) : 0;
 
-  // If the input is a standalone number without 'h' or 'm', treat it as hours
-  if (!hoursMatch && !minutesMatch && /^\d+$/.test(input)) {
-    hours = parseInt(input, 10);
+    // If the input is a standalone number without 'h' or 'm', treat it as hours
+    if (!hoursMatch && !minutesMatch && /^\d+$/.test(input)) {
+      hours = parseInt(input, 10);
+    }
+
+    // Calculate total minutes
+    const totalMinutes = hours * 60 + minutes;
+
+    // Convert total minutes to the desired format
+    const formattedHours = Math.floor(totalMinutes / 60)
+      .toString()
+      .padStart(3, '0');
+    const formattedMinutes = (totalMinutes % 60).toString().padStart(2, '0');
+    return `${formattedHours}:${formattedMinutes}`;
   }
-
-  // Calculate total minutes
-  const totalMinutes = hours * 60 + minutes;
-
-  // Convert total minutes to the desired format
-  const formattedHours = Math.floor(totalMinutes / 60)
-    .toString()
-    .padStart(3, '0');
-  const formattedMinutes = (totalMinutes % 60).toString().padStart(2, '0');
-  return `${formattedHours}:${formattedMinutes}`;
 }
-
 /**
  * Asks for duration and converts it using the core logic.
  */
