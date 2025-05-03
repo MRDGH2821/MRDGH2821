@@ -60,9 +60,8 @@ Listed with priority order.
 
 ### Demos
 
-| Game name                 | Link                                                                      | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes                                                                                                     |
-| ------------------------- | ------------------------------------------------------------------------- | ---- | ------------- | ----------- | ---- | ------------------------------------------------------------------------------------------------------------ |
-| Deliver at all costs Demo | [Steam](https://store.steampowered.com/app/1880610/Deliver_At_All_Costs/) | 🕓🐧 | 2025-04-20    |             |      | Gameplay is fun & I like the art style. Destructible environments makes it even more entertaining & funnier! |
+| Game name | Link | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
+| --------- | ---- | --- | ------------- | ----------- | ---- | -------- |
 
 ### Full games
 
@@ -263,6 +262,7 @@ These normally won't have DLC content, hence omitted from the table.
 | Apocalypse Express Demo                         | [Steam](https://store.steampowered.com/app/3635180/Apocalypse_Express_Demo/)                          | 🐧   | 2025-04-15    | 2025-05-03  | 000:47 | <https://steamcommunity.com/id/MRDGH2821/recommended/3635180?snr=1_5_9__402>                                                                                          |
 | Cataclismo Demo                                 | [Steam](https://store.steampowered.com/app/1422440/Cataclismo/)                                       | 🕓   | 2024-06-27    | 2024-06-27  | 002:18 | A good RTS & base builder game.                                                                                                                                       |
 | Dawnfolk Demo                                   | [Steam](https://store.steampowered.com/app/2308630/Dawnfolk/)                                         | 🕓🐧 | 2025-04-26    | 2025-05-02  | 000:59 | Pretty good city builder with exploration.                                                                                                                            |
+| Deliver at all costs Demo                       | [Steam](https://store.steampowered.com/app/1880610/Deliver_At_All_Costs/)                             | 🐧   | 2025-04-20    | 2025-05-03  | 001:41 | Gameplay is fun & I like the art style. Destructible environments makes it even more entertaining & funnier!                                                          |
 | Empyreal Demo                                   | [Steam](https://store.steampowered.com/app/3514930/Empyreal_Demo/)                                    | 🕓🐧 | 2025-03-07    | 2025-04-10  | 000:15 | The game is decent, but I don't fel like playing it anymore.                                                                                                          |
 | Flintlock: The Siege of Dawn Demo               | [Steam](https://store.steampowered.com/app/1832040/Flintlock_The_Siege_of_Dawn/)                      | 🕓   | 2024-06-27    | 2024-06-27  | 001:21 | Good game, but I didn't get hang of controls hence skipped it midway.                                                                                                 |
 | Fogpiercer Demo                                 | [Steam](https://store.steampowered.com/app/3350900/Fogpiercer_Demo/)                                  | 🕓🐧 | 2025-04-15    | 2025-05-02  | 000:25 | The concept is nice, really does well as a turn based game. Unfortunately my save got corrupted thus skipping it.                                                     |
