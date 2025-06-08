@@ -17,7 +17,7 @@
     "game",
     "megalinter",
     "vscode",
-    "zed",
+    "zed"
   ],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "git.enableCommitSigning": true,

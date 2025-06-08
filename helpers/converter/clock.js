@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-const readline = require('readline');
-const { copyToClipboard } = require('../lib');
+const readline = require("readline");
+const { copyToClipboard } = require("../lib");
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -46,7 +46,9 @@ function convertDurationToClockFormat(input) {
 
     // Parse hours and minutes, defaulting to 0 if not present
     let hours = hoursMatch ? parseInt(hoursMatch.groups.hours, 10) : 0;
-    const minutes = minutesMatch ? parseInt(minutesMatch.groups.minutes, 10) : 0;
+    const minutes = minutesMatch
+      ? parseInt(minutesMatch.groups.minutes, 10)
+      : 0;
 
     // If the input is a standalone number without 'h' or 'm', treat it as hours
     if (!hoursMatch && !minutesMatch && /^\d+$/.test(input)) {
@@ -68,23 +70,29 @@ function interactiveConverter() {
     return;
   }
 
-  const durations = ['2h 42m', '2h', '42m', '3', '121m'];
-  const longestStringLength = durations.reduce((a, b) => (a.length > b.length ? a : b), '').length;
+  const durations = ["2h 42m", "2h", "42m", "3", "121m"];
+  const longestStringLength = durations.reduce(
+    (a, b) => (a.length > b.length ? a : b),
+    ""
+  ).length;
   const durationText = durations
     .map(
       (duration) =>
-        ` ${duration.padEnd(longestStringLength, ' ')} => ${convertDurationToClockFormat(
-          duration,
-        )}`,
+        ` ${duration.padEnd(
+          longestStringLength,
+          " "
+        )} => ${convertDurationToClockFormat(duration)}`
     )
-    .join('\n');
+    .join("\n");
   const question = `Duration converter\n\nSample: \n${durationText}\n\nEnter the duration: `;
   rl.question(question, (input) => {
     const formattedTime = convertDurationToClockFormat(input);
 
     // Output
     copyToClipboard(formattedTime);
-    console.log(`The duration ${formattedTime} has been copied to the clipboard.`);
+    console.log(
+      `The duration ${formattedTime} has been copied to the clipboard.`
+    );
     rl.close();
     process.exit(0);
   });
@@ -96,9 +104,11 @@ function cliConverter() {
   }
   // If there are CLI arguments, process each as a duration
 
-  const formattedTime = convertDurationToClockFormat(args.join(' '));
+  const formattedTime = convertDurationToClockFormat(args.join(" "));
   copyToClipboard(formattedTime);
-  console.log(`The duration ${formattedTime} has been copied to the clipboard.`);
+  console.log(
+    `The duration ${formattedTime} has been copied to the clipboard.`
+  );
   process.exit(0);
 }
 

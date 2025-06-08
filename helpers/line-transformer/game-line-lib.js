@@ -1,23 +1,23 @@
-const http = require('http');
-const https = require('https');
+const http = require("http");
+const https = require("https");
 /**
  *
  * @param {string} store
  */
 function storeMatch(store) {
   switch (true) {
-    case store.includes('.steampower'):
-      return 'Steam';
-    case store.includes('.epicgames'):
-      return 'EGS';
-    case store.includes('gog.com'):
-      return 'GOG';
-    case store.includes('ubisoft.'):
-      return 'Ubisoft';
-    case store.includes('.ea.com'):
-      return 'EA';
+    case store.includes(".steampower"):
+      return "Steam";
+    case store.includes(".epicgames"):
+      return "EGS";
+    case store.includes("gog.com"):
+      return "GOG";
+    case store.includes("ubisoft."):
+      return "Ubisoft";
+    case store.includes(".ea.com"):
+      return "EA";
     default:
-      throw new Error('Store not found.');
+      throw new Error("Store not found.");
   }
 }
 
@@ -39,10 +39,14 @@ function completedGamesPropsExtractor(line) {
      * @returns string
      */
     const newLineFormatter = (finalURL) =>
-      `| ${gameName} | [${storeMatch(finalURL)}](${finalURL}) | ${mainCampaign} | ${dlc} | - |`;
+      `| ${gameName} | [${storeMatch(
+        finalURL
+      )}](${finalURL}) | ${mainCampaign} | ${dlc} | - |`;
     return { link, newLineFormatter };
   } else {
-    throw new Error(`Expected format:\n | [Game](link) | text | text |\n\nReceived:\n ${line}`);
+    throw new Error(
+      `Expected format:\n | [Game](link) | text | text |\n\nReceived:\n ${line}`
+    );
   }
 }
 
@@ -51,17 +55,20 @@ function completedGamesPropsExtractor(line) {
  * @param {string} line
  */
 function backlogPropsExtractor(line) {
-  const match = line.match(/\|\s*(.*)\s*\|\s*(\[.*\]\(https.*\))\s*\|\s*(.*)\s*\|/);
+  const match = line.match(
+    /\|\s*(.*)\s*\|\s*(\[.*\]\(https.*\))\s*\|\s*(.*)\s*\|/
+  );
   if (match) {
     const gameName = match[1];
     const link = match[2];
     const notes = match[3];
 
-    const newLineFormatter = (finalURL) => `| ${gameName} | ${link} ||||||||| ${notes} |`;
+    const newLineFormatter = (finalURL) =>
+      `| ${gameName} | ${link} ||||||||| ${notes} |`;
     return { link, newLineFormatter };
   } else {
     throw new Error(
-      `Expected format:\n | Game Name | [Store](link) | Notes |\n\nReceived:\n ${line}`,
+      `Expected format:\n | Game Name | [Store](link) | Notes |\n\nReceived:\n ${line}`
     );
   }
 }
@@ -71,7 +78,9 @@ function backlogPropsExtractor(line) {
  * @param {string} line
  */
 function unofficialPropsExtractor(line) {
-  const match = line.match(/\|\s*(.*)\s*\|\s*(\[.*\]\(https.*\))\s*\|\s*(.*)\s*\|/u);
+  const match = line.match(
+    /\|\s*(.*)\s*\|\s*(\[.*\]\(https.*\))\s*\|\s*(.*)\s*\|/u
+  );
   if (match) {
     const gameName = match[1];
     const link = match[2];
@@ -81,12 +90,12 @@ function unofficialPropsExtractor(line) {
 
     const newLineFormatter = (finalURL) =>
       `| ${gameName} | [${storeMatch(
-        finalURL,
+        finalURL
       )}](${finalURL}) |${mainCampaign}| | | |${dlc}|||| ${notes} |`;
     return { link, newLineFormatter };
   } else {
     throw new Error(
-      `Expected format:\n | Game Name | Main Campaign Complete? | All DLCs Complete ? | Alternate link |\n\nReceived:\n ${line}`,
+      `Expected format:\n | Game Name | Main Campaign Complete? | All DLCs Complete ? | Alternate link |\n\nReceived:\n ${line}`
     );
   }
 }
@@ -112,14 +121,14 @@ function notationToTable(line) {
  * @returns Promise<string>
  */
 async function resolveLink(link) {
-  const protocol = link.startsWith('https') ? https : http;
+  const protocol = link.startsWith("https") ? https : http;
   return new Promise((resolve, reject) => {
     protocol
       .get(link, (response) => {
         const finalURL = response.headers.location || link;
         resolve(finalURL);
       })
-      .on('error', (err) => {
+      .on("error", (err) => {
         reject(err);
       });
   });

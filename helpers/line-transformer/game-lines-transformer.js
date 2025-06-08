@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-const readline = require('readline');
-const { unofficialPropsExtractor } = require('./game-line-lib');
-const { copyToClipboard } = require('../lib');
+const readline = require("readline");
+const { unofficialPropsExtractor } = require("./game-line-lib");
+const { copyToClipboard } = require("../lib");
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -9,14 +9,14 @@ const rl = readline.createInterface({
 });
 
 const lines = [];
-console.info('Enter lines');
-rl.on('line', (line) => {
+console.info("Enter lines");
+rl.on("line", (line) => {
   lines.push(line);
 });
 
-rl.on('close', async () => {
+rl.on("close", async () => {
   // Process the lines here
-  console.log('\n\nProcessing lines...\n');
+  console.log("\n\nProcessing lines...\n");
   const newLines = [];
   for (const line of lines) {
     const result = unofficialPropsExtractor(line);
@@ -32,7 +32,7 @@ rl.on('close', async () => {
     }
   }
 
-  copyToClipboard(newLines.join('\n'));
-  console.info('\nCopied to clipboard!');
+  copyToClipboard(newLines.join("\n"));
+  console.info("\nCopied to clipboard!");
   process.exit(0);
 });
