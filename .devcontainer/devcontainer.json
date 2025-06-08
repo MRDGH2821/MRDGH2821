@@ -7,7 +7,7 @@
       "package": "mega-linter-runner"
     },
     "ghcr.io/devcontainers-contrib/features/apt-packages": {
-      "packages": ["xclip"]
+      "packages": ["xclip", "wl-clipboard"]
     }
   },
   "customizations": {

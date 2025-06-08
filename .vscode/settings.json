@@ -11,7 +11,14 @@
   "[toml]": {
     "editor.defaultFormatter": "tamasfe.even-better-toml"
   },
-  "conventionalCommits.scopes": ["cspell", "game", "megalinter", "vscode", "zed"],
+  "conventionalCommits.scopes": [
+    "cspell",
+    "devcontainer",
+    "game",
+    "megalinter",
+    "vscode",
+    "zed",
+  ],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "git.enableCommitSigning": true,
   "json.schemas": [
