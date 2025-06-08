@@ -13,25 +13,21 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "adamerose.markdown-wysiwyg",
         "bierner.github-markdown-preview",
         "christian-kohler.path-intellisense",
         "clover.md-table-editor",
-        "codeium.codeium",
         "DavidAnson.vscode-markdownlint",
         "eamodio.gitlens",
         "editorconfig.editorconfig",
         "esbenp.prettier-vscode",
         "evondev.indent-rainbow-palettes",
-        "michaelcurrin.auto-commit-msg",
         "ms-vscode.atom-keybindings",
         "oderwat.indent-rainbow",
         "redhat.vscode-yaml",
         "softwaredotcom.swdc-vscode",
         "spmeesseman.vscode-taskexplorer",
         "streetsidesoftware.code-spell-checker",
-        "TakumiI.markdowntable",
-        "tamasfe.even-better-toml",
+        "takumii.markdowntable",
         "vivaxy.vscode-conventional-commits"
       ]
     }
