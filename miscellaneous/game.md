@@ -71,6 +71,8 @@ Listed with priority order.
 | Warhammer 40,000: Space Marine | [Amazon Prime](https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/) | 🕓🐧 | 2025-05-31    |             |      |     |               |             |      |                                                                                        |
 | Of Life and Land               | [Steam](https://store.steampowered.com/app/1733110/Of_Life_and_Land/)                                       | 🕓🐧 | 2025-03-30    |             |      | 🚫  |               |             |      | Pretty good indie game about city building. I liked the appeal when I played the demo. |
 | Outward Definitive Edition     | [Steam](https://store.steampowered.com/app/794260/Outward_Definitive_Edition/)                              | 🕓🐧 | 2025-03-09    |             |      |     |               |             |      |                                                                                        |
+| Nightingale                    | [Steam](https://store.steampowered.com/app/1928980/Nightingale/)                                            | 🕓🐧 | 2025-06-04    |             |      |     |               |             |      |                                                                                        |
+| Ogu and the Secret Forest      | [EGS Mobile](https://store.epicgames.com/en-US/p/ogu-and-the-secret-forest-android-362ff7)                  | 🕓   | 2025-06-06    |             |      |     |               |             |      |                                                                                        |
 
 ### Travel Games
 
