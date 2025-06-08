@@ -11,6 +11,19 @@ const rl = readline.createInterface({
 const args = process.argv.slice(2); // Get CLI arguments excluding the first two elements
 
 /**
+ * Helper function to format total minutes into HHH:MM format.
+ * @param {number} totalMinutes - The total minutes to format.
+ * @returns {string} - The formatted time string in HHH:MM format.
+ */
+function formatMinutesToClock(totalMinutes) {
+  const formattedHours = Math.floor(totalMinutes / 60)
+    .toString()
+    .padStart(3, "0");
+  const formattedMinutes = (totalMinutes % 60).toString().padStart(2, "0");
+  return `${formattedHours}:${formattedMinutes}`;
+}
+
+/**
  * Core logic to convert duration to clock format.
  * @param {string} input - The input duration string.
  * @returns {string} - The formatted time string.
@@ -21,11 +34,7 @@ function convertDurationToClockFormat(input) {
     // Convert the input to hours and minutes
     const hours = parseFloat(input);
     const totalMinutes = hours * 60;
-    const formattedHours = Math.floor(totalMinutes / 60)
-      .toString()
-      .padStart(3, '0');
-    const formattedMinutes = (totalMinutes % 60).toString().padStart(2, '0');
-    return `${formattedHours}:${formattedMinutes}`;
+    return formatMinutesToClock(totalMinutes);
   } else {
     // Separate regex patterns for hours and minutes
     const hoursRegex = /(?:(?<hours>\d+)h)/;
@@ -47,12 +56,8 @@ function convertDurationToClockFormat(input) {
     // Calculate total minutes
     const totalMinutes = hours * 60 + minutes;
 
-    // Convert total minutes to the desired format
-    const formattedHours = Math.floor(totalMinutes / 60)
-      .toString()
-      .padStart(3, '0');
-    const formattedMinutes = (totalMinutes % 60).toString().padStart(2, '0');
-    return `${formattedHours}:${formattedMinutes}`;
+    // Convert total minutes to the desired format using helper function
+    return formatMinutesToClock(totalMinutes);
   }
 }
 /**
