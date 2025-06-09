@@ -60,9 +60,10 @@ Listed with priority order.
 
 ### Demos
 
-| Game name          | Link                                                                    | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
-| ------------------ | ----------------------------------------------------------------------- | ---- | ------------- | ----------- | ---- | -------- |
-| Stellar Blade Demo | [Steam](https://store.steampowered.com/app/3564860/Stellar_Blade_Demo/) | 🕓🐧 | 2025-06-01    |             |      |          |
+| Game name          | Link                                                                    | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes                                                                                                                                                                           |
+| ------------------ | ----------------------------------------------------------------------- | ---- | ------------- | ----------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stellar Blade Demo | [Steam](https://store.steampowered.com/app/3564860/Stellar_Blade_Demo/) | 🕓🐧 | 2025-06-01    |             |      |                                                                                                                                                                                    |
+| Constance Demo     | [Steam](https://store.steampowered.com/app/2313700/Constance/)          | 🕓🐧 | 2025-06-09    |             |      | The controls will take some time to get used to. But otherwise the game itself is pretty good. The penalty of only 60% health wasn't so bad either. I liked the trailer music too. |
 
 ### Full games
 
