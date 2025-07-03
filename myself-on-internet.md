@@ -4,7 +4,7 @@ I agree I shouldn't be telling about this as it would affect my privacy.
 So in few cases I would just mention social media titles, not direct links.
 
 ~~Also wherever possible, I will put Invite link instead of my usual Username.~~
-Invite section moved [here](./miscellaneous/invitations.md)
+Invite section [moved here](./miscellaneous/invitations.md)
 
 Click on Site name/logo to see my profile.
 
@@ -43,7 +43,7 @@ You may email as well - [ask.mrdgh2821@outlook.com](mailto:ask.mrdgh2821@outlook
 
 ## Invite Links
 
-This section is moved [here](./miscellaneous/invitations.md)
+This section is [moved here](./miscellaneous/invitations.md)
 
 ## Social
 
