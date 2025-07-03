@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD059 -->
+
 # Invite Links
 
 Here's a dedicated page for all my invite links.
