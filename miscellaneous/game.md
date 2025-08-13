@@ -60,9 +60,10 @@ Listed with priority order.
 
 ### Demos
 
-| Game name       | Link                                                                 | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
-| --------------- | -------------------------------------------------------------------- | ---- | ------------- | ----------- | ---- | -------- |
-| Moonlight Peaks | [Steam](https://store.steampowered.com/app/2209900/Moonlight_Peaks/) | 🕓🐧 |               |             |      |          |
+| Game name          | Link                                                                 | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 📝 Notes |
+| ------------------ | -------------------------------------------------------------------- | ---- | ------------- | ----------- | ------ | -------- |
+| Moonlight Peaks    | [Steam](https://store.steampowered.com/app/2209900/Moonlight_Peaks/) | 🕓🐧 | 2025-07-02    |             | 001:11 |          |
+| Oceaneers Playtest | [Steam](https://store.steampowered.com/app/3052510/Oceaneers/)       | 🕓🐧 | 2025-08-12    |             | 002:12 |          |
 
 ### Full games
 
