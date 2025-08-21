@@ -65,14 +65,12 @@ Listed with priority order.
 
 ### Full games
 
-| Game name                          | Link                                                                                               | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁                                                                                 | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                               |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------- | ---- | ------------- | ----------- | ---- | ---------------------------------------------------------------------------------- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------- |
-| Of Life and Land                   | [Steam](https://store.steampowered.com/app/1733110/Of_Life_and_Land/)                              | 🕓🐧 | 2025-03-30    |             |      | 🚫                                                                                 |               |             |      | Pretty good indie game about city building. I liked the appeal when I played the demo. |
-| Outward Definitive Edition         | [Steam](https://store.steampowered.com/app/794260/Outward_Definitive_Edition/)                     | 🕓🐧 | 2025-03-09    |             |      |                                                                                    |               |             |      |                                                                                        |
-| Nightingale                        | [Steam](https://store.steampowered.com/app/1928980/Nightingale/)                                   | 🕓🐧 | 2025-06-04    |             |      |                                                                                    |               |             |      |                                                                                        |
-| Doodle God: Infinite Alchemy Merge | [EGS Mobile](https://store.epicgames.com/en-US/p/doodle-god-infinite-alchemy-merge-android-dd11fe) | 🕓   | 2025-06-20    |             |      |                                                                                    |               |             |      |                                                                                        |
-| Hidden Folks                       | [EGS Mobile](https://store.epicgames.com/en-US/p/hidden-folks-android-55dede)                      | 🕓   | 2025-08-14    |             |      | Beautiful point & click game about finding items & people! Perfect as mobile game. |               |             |      |                                                                                        |
-| Colorzzle                          | [Play Store](https://play.google.com/store/apps/details/?id=com.DarongStudio.Colorzzle&hl=en)      | 🕓   | 2025-08-17    |             |      | Brilliant puzzle game, well suited for mobile.                                     |               |             |      |                                                                                        |
+| Game name                          | Link                                                                                               | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁                                                                                 | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------- | --- | ------------- | ----------- | ------ | ---------------------------------------------------------------------------------- | ------------- | ----------- | ---- | -------- |
+| Deadfall Adventures                | [Steam](https://store.steampowered.com/app/231330/Deadfall_Adventures/)                            | 🕓  | 2025-08-21    |             | 005:42 |                                                                                    |               |             |      |          |
+| Doodle God: Infinite Alchemy Merge | [EGS Mobile](https://store.epicgames.com/en-US/p/doodle-god-infinite-alchemy-merge-android-dd11fe) | 🕓  | 2025-06-20    |             |        |                                                                                    |               |             |      |          |
+| Hidden Folks                       | [EGS Mobile](https://store.epicgames.com/en-US/p/hidden-folks-android-55dede)                      | 🕓  | 2025-08-14    |             |        | Beautiful point & click game about finding items & people! Perfect as mobile game. |               |             |      |          |
+| Colorzzle                          | [Play Store](https://play.google.com/store/apps/details/?id=com.DarongStudio.Colorzzle&hl=en)      | 🕓  | 2025-08-17    |             |        | Brilliant puzzle game, well suited for mobile.                                     |               |             |      |          |
 
 ### Travel Games
 
@@ -119,6 +117,16 @@ This table is sorted first by `How long to beat?` then `🎮⏱️`.
 | Ghostwire: Tokyo                 | [EGS](https://store.epicgames.com/en-US/p/ghostwire-tokyo)                 | 000:00 | -                               | 011:00            |
 | Hob                              | [EGS](https://store.epicgames.com/en-US/p/hob)                             | 000:00 | Mechs & Puzzles!                | 010:30            |
 | Never Alone                      | [EGS](https://store.epicgames.com/en-US/p/never-alone-kisima-ingitchuna)   | 000:00 | -                               | 003:00            |
+
+### May play some other time
+
+I like these games, and would definitely play, but not right now.
+
+| Game name                  | Link                                                                           | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------ | ---- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------- |
+| Of Life and Land           | [Steam](https://store.steampowered.com/app/1733110/Of_Life_and_Land/)          | 🕓🐧 | 2025-03-30    |             |      | 🚫  |               |             |      | Pretty good indie game about city building. I liked the appeal when I played the demo. |
+| Outward Definitive Edition | [Steam](https://store.steampowered.com/app/794260/Outward_Definitive_Edition/) | 🕓🐧 | 2025-03-09    |             |      |     |               |             |      |                                                                                        |
+| Nightingale                | [Steam](https://store.steampowered.com/app/1928980/Nightingale/)               | 🕓🐧 | 2025-06-04    |             |      |     |               |             |      |                                                                                        |
 
 ## Completed Games
 
