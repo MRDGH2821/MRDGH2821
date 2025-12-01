@@ -72,6 +72,7 @@ Listed with priority order.
 | Hidden Folks                       | [EGS Mobile](https://store.epicgames.com/en-US/p/hidden-folks-android-55dede)                      | 🕓   | 2025-08-14    |             |        | 🚫  |               |             |      | Beautiful point & click game about finding items & people! Perfect as mobile game. |
 | Colorzzle                          | [Play Store](https://play.google.com/store/apps/details/?id=com.DarongStudio.Colorzzle)            | 🕓   | 2025-08-17    |             |        | 🚫  |               |             |      | Brilliant puzzle game, well suited for mobile.                                     |
 | Necromerger                        | [Play Store](https://play.google.com/store/apps/details?id=com.grumpyrhinogames.necromerger)       | 🕓   | 2025-08-31    |             |        | 🚫  |               |             |      | I got hooked to Necromerger 🤯                                                     |
+| Zoeti                              | [EGS Mobile](https://store.epicgames.com/en-US/p/zoeti-android-15ba72)                             | 🕓   | 2025-11-22    |             |        | 🚫  |               |             |      | The gameplay was interesting.                                                      |
 
 ### Travel Games
 
