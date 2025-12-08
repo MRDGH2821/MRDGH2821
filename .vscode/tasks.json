@@ -19,6 +19,16 @@
         "kind": "none",
         "isDefault": true
       }
+    },
+    {
+      "label": "Sort Table in Current Markdown File",
+      "type": "shell",
+      "command": "npx",
+      "args": ["@fmma-npm/sort-markdown-tables", "-i", "${file}"],
+      "group": {
+        "kind": "none",
+        "isDefault": true
+      }
     }
   ]
 }
