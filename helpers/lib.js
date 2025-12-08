@@ -18,5 +18,5 @@ function copyToClipboard(text) {
 }
 
 module.exports = {
-  copyToClipboard,
+  copyToClipboard
 };
