@@ -1,0 +1,9 @@
+[
+  {
+    "args": ["json-sort-cli"],
+    "command": "npx",
+    "hide": "on_success",
+    "label": "Sort JSON properties",
+    "show_command": true
+  }
+]
