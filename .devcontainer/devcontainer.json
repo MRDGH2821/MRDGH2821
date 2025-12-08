@@ -1,15 +1,4 @@
 {
-  "name": "MRDGH2821's GitHub Profile",
-  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
-  "features": {
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
-    "ghcr.io/devcontainers-extra/features/npm-package:1": {
-      "package": "mega-linter-runner"
-    },
-    "ghcr.io/devcontainers-extra/features/apt-packages": {
-      "packages": ["xclip", "wl-clipboard"]
-    }
-  },
   "customizations": {
     "vscode": {
       "extensions": [
@@ -30,5 +19,16 @@
         "vivaxy.vscode-conventional-commits"
       ]
     }
-  }
+  },
+  "features": {
+    "ghcr.io/devcontainers-extra/features/apt-packages": {
+      "packages": ["wl-clipboard", "xclip"]
+    },
+    "ghcr.io/devcontainers-extra/features/npm-package:1": {
+      "package": "mega-linter-runner"
+    },
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "name": "MRDGH2821's GitHub Profile"
 }
