@@ -1,9 +1,13 @@
 {
-  "no-inline-html": {
-    "allowed_elements": ["iframe", "br"]
+  "$schema": "https://json.schemastore.org/markdownlint.json",
+  "MD060": {
+    "style": "aligned"
   },
   "line-length": {
-    "tables": false,
-    "strict": false
+    "strict": false,
+    "tables": false
+  },
+  "no-inline-html": {
+    "allowed_elements": ["br", "iframe"]
   }
 }
