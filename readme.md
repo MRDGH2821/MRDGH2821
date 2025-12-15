@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 ~~I’m currently working on 2D Side-scroller UE4 project~~ _Put on pause until further notice_
-- 📫 How to reach me: [Click here!](myself-on-internet.md)
+- 📫 [How to reach me? Click me!](myself-on-internet.md)
 - ⚡ Fun fact: I am equally interested in making & playing [games!](./miscellaneous/game.md)
 - 🌐 Here's some nice stuff I [found](nice-stuff-on-internet.md) on internet
 - 📔 You can view this repo as [Website](https://bit.ly/mrdgh2821) or as [repo page](https://github.com/MRDGH2821/MRDGH2821)
 - ⚖️ [Legal Section](./legal/readme.md) for legal purposes
 
-_In case you came from Social media click [here](nice-stuff-on-internet.md) or [here](myself-on-internet.md)_
+_In case you came from Social media check out [nice stuff I found]](nice-stuff-on-internet.md) or [my other profiles](myself-on-internet.md)_
 
 _In case you are recruiter or a company official, contact me at [LinkedIn](https://www.linkedin.com/in/mihir-rabade) after exploring my repositories_
 
@@ -52,8 +52,8 @@ I also have a huge tendency to apply the knowledge I learnt.
 > Most of the time I stay Neutral. But I dislike it when my friends are being exploited.
 >
 > **About my food**
-> I eat food of Saatvik Nature (Lacto-Vegetarian Karma-free diet). Know more [here](https://food.iskcondesiretree.com/).
-> More recipes [here](https://1drv.ms/f/s!AqbOAR5ggpjc7lbqt0kf37DXN1jp?embed=1).
+> I eat food of Saatvik Nature (Lacto-Vegetarian Karma-free diet). [Know more](https://food.iskcondesiretree.com/).
+> [More recipes here](https://1drv.ms/f/s!AqbOAR5ggpjc7lbqt0kf37DXN1jp?embed=1).
 >
 > **About my wishes**
 > I wish to be successful in my Game development career.
