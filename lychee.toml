@@ -13,4 +13,7 @@ exclude = [
   'trueachievements.com',
   'uber.com',
   'udemy.com',
+  'github-profile-trophy.vercel.app',
+  'learn.deeplearning.ai',
+  'https://tek.io/3cHmNf8'
 ]
