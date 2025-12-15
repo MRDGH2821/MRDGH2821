@@ -2,12 +2,12 @@
   "allowCompoundWords": true,
   "caseSensitive": false,
   "ignorePaths": [
-    ".vscode",
     "**/.devcontainer/**",
     "**/.git/**",
     "**/.pnpm-lock.json",
     "**/node_modules/**",
     "**/vscode-extension/**",
+    ".vscode",
     "megalinter",
     "package-lock.json",
     "report"
@@ -46,7 +46,7 @@
     "mihirr",
     "minit",
     "mrdgh",
-    "Necromerger",
+    "necromerger",
     "nier",
     "nioh",
     "nooooooo",
@@ -68,8 +68,9 @@
     "ubisoft",
     "udemy",
     "venv",
+    "vercel",
     "vergil",
     "xclip",
-    "Zoeti"
+    "zoeti"
   ]
 }
