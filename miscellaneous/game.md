@@ -339,6 +339,7 @@ These normally won't have DLC content, hence omitted from the table.
 | Truckful Demo                                   | [Steam][truckful-demo-steam]                    | 🐧     | 2025-12-17    | 2025-12-17  | 000:30 | Pretty good driving simulator. Art style is nice & cheerful.                                                                                                                                                                                         |
 | Ultimate Grandma Simulator Demo                 | [Steam][ultimate-grandma-simulator-demo-steam]  | 📭🐧   | 2025-12-17    | 2025-12-17  | 000:05 | This game clearly takes inspiration from Baby Steps and I rage quit.                                                                                                                                                                                 |
 | Vehicle No. 4                                   | [Steam][vehicle-no-4-steam]                     | 📭🐧   | 2025-07-23    | 2025-07-23  | 000:22 | This game needs polishing, especially UI & Tutorial. Otherwise the game is fun to play!                                                                                                                                                              |
+| WORLD WAR V: LAST CALL Demo                     | [Steam][world-war-v-last-steam]                 | 🐧     | 2026-01-02    | 2026-01-02  | 000:34 | I like the voxel art. Game play is decent too.                                                                                                                                                                                                       |
 
 ## Endless Games
 
@@ -685,6 +686,7 @@ The other games listed here are those I'm totally skipping.
 [witcher2-gog]: https://www.gog.com/game/the_witcher_2
 [witcher3-steam]: https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/
 [world-of-goo-egs]: https://store.epicgames.com/en-US/p/world-of-goo
+[world-war-v-last-steam]: https://store.steampowered.com/app/4039000/WORLD_WAR_V_LAST_CALL_Demo/
 [yesterday-origins-steam]: https://store.steampowered.com/app/465280/Yesterday_Origins/
 [zoeti-egs]: https://store.epicgames.com/en-US/p/zoeti-3ccef9
 [zoeti-egs-mobile]: https://store.epicgames.com/en-US/p/zoeti-android-15ba72
