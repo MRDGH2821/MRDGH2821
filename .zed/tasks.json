@@ -1,5 +1,6 @@
 [
   {
+    "allow_concurrent_runs": false,
     "args": ["json-sort-cli"],
     "command": "npx",
     "hide": "on_success",
@@ -7,10 +8,22 @@
     "show_command": true
   },
   {
+    "allow_concurrent_runs": false,
     "args": ["@fmma-npm/sort-markdown-tables", "-i", "$ZED_FILE"],
     "command": "npx",
     "hide": "on_success",
     "label": "Sort Markdown tables",
+    "show_command": true
+  },
+  {
+    "allow_concurrent_runs": false,
+    "args": [
+      "$ZED_WORKTREE_ROOT/helpers/refactor-markdown-links.js",
+      "$ZED_FILE"
+    ],
+    "command": "node",
+    "hide": "never",
+    "label": "Refactor markdown links",
     "show_command": true
   }
 ]
