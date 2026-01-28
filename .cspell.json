@@ -11,6 +11,9 @@
     "megalinter",
     "package-lock.json",
     "report"
+    ".zed",
+    "megalinter-reports",
+    "package-lock.json"
   ],
   "language": "en,en-GB",
   "noConfigSearch": true,
@@ -45,6 +48,12 @@
     "mihir's",
     "mihirr",
     "minit",
+    ".v8rignore",
+    "bunx",
+    "EDITMSG",
+    "filesonly",
+    "ggshield",
+    "KICS",
     "mrdgh",
     "necromerger",
     "nier",
@@ -61,6 +70,8 @@
     "sandustry",
     "sekiro",
     "soulstice",
+    "prek",
+    "pycache",
     "stefanzweifel",
     "subnautica",
     "swordigo",
@@ -72,5 +83,6 @@
     "vergil",
     "xclip",
     "zoeti"
+    "venv"
   ]
 }

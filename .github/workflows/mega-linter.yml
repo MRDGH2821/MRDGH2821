@@ -30,7 +30,7 @@ jobs:
     steps:
       # Git Checkout
       - name: Checkout Code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           # If you use VALIDATE_ALL_CODEBASE = true, you can remove this line to
           # improve performance
@@ -54,6 +54,16 @@ jobs:
           # ADD YOUR CUSTOM ENV VARIABLES HERE TO OVERRIDE VALUES OF
           # .mega-linter.yml AT THE ROOT OF YOUR REPOSITORY
 
+          # Disable LLM Advisor for bot PRs (dependabot, renovate, etc.)
+          LLM_ADVISOR_ENABLED: |-
+            ${{
+              github.event_name != 'pull_request' ||
+              (github.event.pull_request.user.login != 'dependabot[bot]' &&
+               github.event.pull_request.user.login != 'renovate[bot]' &&
+               github.event.pull_request.user.login != 'github-actions[bot]' &&
+               !startsWith(github.event.pull_request.user.login, 'dependabot') &&
+               !startsWith(github.event.pull_request.user.login, 'renovate'))
+            }}
           # Validates all source when push on main, else just the git diff with
           # main. Override with true if you always want to lint all sources
           #
@@ -94,11 +104,11 @@ jobs:
             github.event.pull_request.head.repo.full_name == github.repository
           ) && !contains(github.event.head_commit.message, 'skip fix')
         name: Create Pull Request with applied fixes
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
           commit-message: "chore(megalinter): apply linters automatic fixes"
           labels: bot
-          title: "chore(megaLinter): apply linters automatic fixes"
+          title: "chore(megalinter): apply linters automatic fixes"
           token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
       - if: |-
           steps.ml.outputs.has_updated_sources == 1 && (
@@ -133,7 +143,7 @@ jobs:
             github.event.pull_request.head.repo.full_name == github.repository
           ) && !contains(github.event.head_commit.message, 'skip fix')
         name: Commit and push applied linter fixes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           branch: |-
             ${{
