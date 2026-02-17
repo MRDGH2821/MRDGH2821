@@ -1,24 +1,56 @@
-from_latest_tag = false
-ignore_merge_commits = false
-ignore_fixup_commits = true
-disable_changelog = true
+branch_whitelist = []
 disable_bump_commit = true
+disable_changelog = true
+from_latest_tag = false
 generate_mono_repository_global_tag = false
 generate_mono_repository_package_tags = false
-skip_ci = "[skip ci]"
-skip_untracked = false
+ignore_fixup_commits = false
+ignore_merge_commits = false
+post_bump_hooks = []
+post_package_bump_hooks = []
+pre = "alpha.*"
+pre_bump_hooks = [
+  "bunx git-cliff -o CHANGELOG.md -c cocogitto --tag {{version_tag}}",
+  "treefmt -v",
+  "echo 'bumping from {{latest_tag|0.0.0}} to {{version_tag|0.0.1}}'"
+]
+pre_package_bump_hooks = []
 scopes = [
   "clock",
+  "cocogitto",
+  "copier",
   "cspell",
   "deps",
   "deps-dev",
   "devcontainer",
   "game",
+  "github",
   "helpers",
   "jekyll",
+  "jscpd",
   "linter",
   "markdownlint",
   "megalinter",
+  "pre-commit",
+  "prettier",
+  "version",
   "vscode",
-  "zed",
+  "zed"
 ]
+skip_ci = "[skip ci]"
+skip_untracked = false
+tag_prefix = "v"
+
+[bump_profiles]
+
+[changelog]
+authors = [{ signature = "ask.mrdgh2821@outlook.com", username = "MRDGH2821" }]
+owner = "MRDGH2821"
+path = "CHANGELOG.md"
+template = "remote"
+
+[commit_types]
+
+[git_hooks]
+
+[packages]

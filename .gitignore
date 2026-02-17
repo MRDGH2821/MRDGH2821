@@ -1,6 +1,8 @@
-megalinter-reports/
-_site
-.sass-cache
 .jekyll-cache
 .jekyll-metadata
+.sass-cache
+.venv/
+_site
+megalinter-reports/
+node_modules/
 vendor
