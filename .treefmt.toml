@@ -35,6 +35,12 @@ includes = ["*.typ"]
 options = ["-s", "otbs"]
 priority = 2
 
+[formatter.refactor-game.md]
+command = "bun"
+includes = ["miscellaneous/game.md"]
+options = ["./helpers/refactor-markdown-links.js", "miscellaneous/game.md"]
+priority = 1
+
 [formatter.ruff-format]
 command = "ruff"
 excludes = []
@@ -54,6 +60,12 @@ command = "shfmt"
 includes = ["*.sh"]
 options = ["--indent", "2"]
 priority = 1
+
+[formatter.sort-markdown-tables]
+command = "bunx"
+includes = ["*.md"]
+options = ["@fmma-npm/sort-markdown-tables", "-i"]
+priority = 2
 
 [formatter.sort-package-json]
 command = "bunx"
