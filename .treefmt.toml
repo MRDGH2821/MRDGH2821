@@ -19,7 +19,17 @@ priority = 9
 [formatter.prettier]
 command = "prettier"
 excludes = []
-includes = ["*.yaml", "*.yml", "*.json", "*.json", "*.toml", "*.md"]
+# tombi: format.rules.array-values-order = "ascending"
+includes = [
+  "*.js",
+  "*.json",
+  "*.json",
+  "*.md",
+  "*.toml",
+  "*.ts",
+  "*.yaml",
+  "*.yml"
+]
 options = ["--log-level", "debug", "--write"]
 priority = 100
 
@@ -38,7 +48,7 @@ priority = 2
 [formatter.refactor-game.md]
 command = "bun"
 includes = ["miscellaneous/game.md"]
-options = ["./helpers/refactor-markdown-links.js", "miscellaneous/game.md"]
+options = ["helpers/refactor-markdown-links.js"]
 priority = 1
 
 [formatter.ruff-format]
@@ -98,7 +108,8 @@ priority = 8
 
 [formatter.yq-key-sort]
 command = "bash"
-includes = ["*.yaml", "*.yml", "*.json"]
+# tombi: format.rules.array-values-order = "ascending"
+includes = ["*.json", "*.yaml", "*.yml"]
 options = [
   "-c",
   "for file in \"$@\"; do yq -i -P 'sort_keys(..)' \"$file\"; done",
