@@ -125,14 +125,14 @@ I like these games, and would definitely play, but not right now.
 
 <!-- sort-table -->
 
-| Game name                  | Link                                                                                         | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                              |
-| -------------------------- | -------------------------------------------------------------------------------------------- | ---- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Game Dev Story             | [Play Store](https://play.google.com/store/apps/details?id=net.kairosoft.android.gamedev3en) | 🕓   | 2026-02-12    |             |      | 🚫  |               |             |      | I like the concept, but I think I myself would need some more explanation on how to play.                                             |
-| Nightingale                | [Steam][nightingale-steam]                                                                   | 🕓🐧 | 2025-06-04    |             |      |     |               |             |      |                                                                                                                                       |
-| Of Life and Land           | [Steam][of-life-and-land-steam]                                                              | 🕓🐧 | 2025-03-30    |             |      | 🚫  |               |             |      | Pretty good indie game about city building. I liked the appeal when I played the demo.                                                |
-| Outward Definitive Edition | [Steam][outward-definitive-edition-steam]                                                    | 🕓🐧 | 2025-03-09    |             |      |     |               |             |      |                                                                                                                                       |
-| The Wild Darkness          | [Play Store][the-wild-darkness-playstore]                                                    | 🕓   | 2025-01-30    |             |      | 🚫  |               |             |      | It filled the itch of playing a good game, but with low stakes. By low stakes I mean it is turn based. Comfortable to play on mobile. |
-| Tiny Space Program         | [Play Store][tiny-space-program-playstore]                                                   | 🕓   |               |             |      | 🚫  |               |             |      | This is a decent game, despite the grind. But it doesn't have exportable game saves, so not playing until there's something.          |
+| Game name                  | Link                                       | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                              |
+| -------------------------- | ------------------------------------------ | ---- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Game Dev Story             | [Play Store][game-dev-story-playstore]     | 🕓   | 2026-02-12    |             |      | 🚫  |               |             |      | I like the concept, but I think I myself would need some more explanation on how to play.                                             |
+| Nightingale                | [Steam][nightingale-steam]                 | 🕓🐧 | 2025-06-04    |             |      |     |               |             |      |                                                                                                                                       |
+| Of Life and Land           | [Steam][of-life-and-land-steam]            | 🕓🐧 | 2025-03-30    |             |      | 🚫  |               |             |      | Pretty good indie game about city building. I liked the appeal when I played the demo.                                                |
+| Outward Definitive Edition | [Steam][outward-definitive-edition-steam]  | 🕓🐧 | 2025-03-09    |             |      |     |               |             |      |                                                                                                                                       |
+| The Wild Darkness          | [Play Store][the-wild-darkness-playstore]  | 🕓   | 2025-01-30    |             |      | 🚫  |               |             |      | It filled the itch of playing a good game, but with low stakes. By low stakes I mean it is turn based. Comfortable to play on mobile. |
+| Tiny Space Program         | [Play Store][tiny-space-program-playstore] | 🕓   |               |             |      | 🚫  |               |             |      | This is a decent game, despite the grind. But it doesn't have exportable game saves, so not playing until there's something.          |
 
 ## Completed Games
 
@@ -353,12 +353,15 @@ Those games with hardly any story and can be played endlessly.
 Technically all games would fit this list,
 but I'll be adding only those which I played even after completing main objective.
 
-| Game name          | Link                               | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️    | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️   | 📝 Notes                                                                                                                                                                             |
-| ------------------ | ---------------------------------- | --- | ------------- | ----------- | ------- | ---- | ------------- | ----------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Factorio           | [Steam][factorio-steam]            | 📭  | 2022-06-24    | 2023-01-14  | 2266:54 | 📭   | 2024-10-22    | 2025-04-12  | 588:22 | Finished the vanilla game, ~~now playing Space Exploration mod~~. Abandoned SE mod. ~~Playing~~ Finished Space Age DLC. May play with some mods in future.                           |
-| Home Quest         | [Play Store][home-quest-playstore] |     | 2022-10       |             |         | 🔒   |               |             |        | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story, but there's few DLCs which do.                                      |
-| No Man's Sky       | [Steam][no-mans-sky-steam]         |     | 2024-08-05    | 2024-09     | 108:07  | 🚫   |               |             |        | Best Space related game played till date. Finished all quests in 4-5 weeks. Causes issues with Vulkan swap chain when alt tabbed on fullscreen mode. Best played in borderless mode. |
-| Rusty's Retirement | [Steam][rustys-retirement-steam]   | 📭  | 2024-10-29    |             | 002:12  | 🔒📭 |               |             |        | This game sits on the bottom of the screen, ~~so that I can multitask.~~                                                                                                             |
+<!-- sort-table -->
+
+| Game name                      | Link                                    | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️    | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️   | 📝 Notes                                                                                                                                                                             |
+| ------------------------------ | --------------------------------------- | --- | ------------- | ----------- | ------- | ---- | ------------- | ----------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ExoMiner - Idle Miner Universe | [Play Store][exominer---idle-playstore] | 📭  | 2026-02-16    | 2026-02-17  | 002:52  | 🚫   |               |             |        | Has a good appeal, but once you go to new planet, that gameplay loop repeats again.                                                                                                  |
+| Factorio                       | [Steam][factorio-steam]                 | 📭  | 2022-06-24    | 2023-01-14  | 2266:54 | 📭   | 2024-10-22    | 2025-04-12  | 588:22 | Finished the vanilla game, ~~now playing Space Exploration mod~~. Abandoned SE mod. ~~Playing~~ Finished Space Age DLC. May play with some mods in future.                           |
+| Home Quest                     | [Play Store][home-quest-playstore]      | ✅  | 2022-10       |             |         | ✅   |               |             |        | Nice indie game on mobile & the new update in 2024-04-30 brought more content. Extra content doesn't have story, but there's few DLCs which do.                                      |
+| No Man's Sky                   | [Steam][no-mans-sky-steam]              |     | 2024-08-05    | 2024-09     | 108:07  | 🚫   |               |             |        | Best Space related game played till date. Finished all quests in 4-5 weeks. Causes issues with Vulkan swap chain when alt tabbed on fullscreen mode. Best played in borderless mode. |
+| Rusty's Retirement             | [Steam][rustys-retirement-steam]        | 📭  | 2024-10-29    |             | 002:12  | 🔒📭 |               |             |        | This game sits on the bottom of the screen, ~~so that I can multitask.~~                                                                                                             |
 
 ## Others
 
@@ -512,6 +515,7 @@ The other games listed here are those I'm totally skipping.
 [eternights-egs]: https://store.epicgames.com/en-US/p/eternights-c2fbca
 [everything-egs]: https://store.epicgames.com/en-US/p/everything
 [evoland-steam]: https://store.steampowered.com/app/233470/Evoland/
+[exominer---idle-playstore]: https://play.google.com/store/apps/details?id=com.eldring.exominer
 [factorio-steam]: https://store.steampowered.com/app/427520/Factorio/
 [faeria-egs]: https://store.epicgames.com/en-US/p/faeria
 [fearless-fantasy-steam]: https://store.steampowered.com/app/282100/Fearless_Fantasy/
@@ -524,6 +528,7 @@ The other games listed here are those I'm totally skipping.
 [fogpiercer-demo-steam]: https://store.steampowered.com/app/3350900/Fogpiercer_Demo/
 [forestrike-demo-steam]: https://store.steampowered.com/app/2325930/Forestrike_Demo/
 [frost-punk-egs]: https://store.epicgames.com/en-US/p/frostpunk
+[game-dev-story-playstore]: https://play.google.com/store/apps/details?id=net.kairosoft.android.gamedev3en
 [gaming-terms-you-should-know]: https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know
 [ghostwire-tokyo-egs]: https://store.epicgames.com/en-US/p/ghostwire-tokyo
 [gnog-egs]: https://store.epicgames.com/en-US/p/gnog
