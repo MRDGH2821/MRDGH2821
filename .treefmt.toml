@@ -1,4 +1,4 @@
-allow-missing-formatter = true
+# :schema https://gist.githubusercontent.com/MRDGH2821/d61a45f6d91c94d1c9d3d1307036d361/raw/48ecf6440582706aa85b856f2c4c3539bc5d03a5/treefmt-schma.json
 
 [formatter.alejandra]
 command = "alejandra"
@@ -17,11 +17,11 @@ options = [
 priority = 9
 
 [formatter.prettier]
-command = "prettier"
+command = "bunx"
 excludes = []
 # tombi: format.rules.array-values-order = "ascending"
 includes = ["*.js", "*.json", "*.md", "*.toml", "*.ts", "*.yaml", "*.yml"]
-options = ["--log-level", "debug", "--write"]
+options = ["prettier", "--log-level", "debug", "--write"]
 priority = 100
 
 [formatter.prettypst-default]
@@ -36,24 +36,24 @@ includes = ["*.typ"]
 options = ["-s", "otbs"]
 priority = 2
 
-[formatter.refactor-game.md]
+[formatter.refactor-game]
 command = "bun"
 includes = ["miscellaneous/game.md"]
 options = ["helpers/refactor-markdown-links.js"]
 priority = 1
 
 [formatter.ruff-format]
-command = "ruff"
+command = "uvx"
 excludes = []
 includes = ["*.py"]
-options = ["format"]
+options = ["ruff", "format"]
 priority = 9
 
 [formatter.ruff-lint]
-command = "ruff"
+command = "uvx"
 excludes = []
 includes = ["*.py"]
-options = ["check", "--fix"]
+options = ["ruff", "check", "--fix"]
 priority = 8
 
 [formatter.shfmt]
@@ -75,15 +75,15 @@ options = ["sort-package-json"]
 priority = 10
 
 [formatter.tombi-format]
-command = "tombi"
+command = "uvx"
 includes = ["*.toml"]
-options = ["format"]
+options = ["tombi", "format"]
 priority = 11
 
 [formatter.toml-sort]
-command = "toml-sort"
+command = "uvx"
 includes = ["*.toml"]
-options = ["-i", "--sort-table-keys", "--sort-inline-tables"]
+options = ["toml-sort", "-i", "--sort-table-keys", "--sort-inline-tables"]
 priority = 0
 
 [formatter.xmllint]
@@ -93,9 +93,10 @@ options = ["--format"]
 priority = 0
 
 [formatter.yamlfix]
-command = "yamlfix"
+command = "uvx"
 # tombi: format.rules.array-values-order = "ascending"
 includes = ["*.yaml", "*.yml"]
+options = ["yamlfix"]
 priority = 8
 
 [formatter.yq-key-sort]
