@@ -423,6 +423,7 @@ The other games listed here are those I'm totally skipping.
 | PixelJunk™ Eden                | [Steam][pixeljunk-eden-steam]                | I liked the visuals, but now I don't feel like playing.                                                                                                                                                       |
 | Qora                           | [Steam][qora-steam]                          | Felt boring in just few minutes of playing.                                                                                                                                                                   |
 | Remnant: From the Ashes        | [EGS][remnant-from-the-ashes-egs]            | Felt like skipping it, also too heavy on GPU.                                                                                                                                                                 |
+| Residual                       | [EGS Mobile][residual-egs-mobile]            | It took some time to figure out things. Not the type I would play on mobile.                                                                                                                                  |
 | Slime Rancher                  | [EGS][slime-rancher-egs]                     | It was FPS type, got je-baited.                                                                                                                                                                               |
 | Subnautica                     | [EGS][subnautica-egs]                        | Didn't understand the game.                                                                                                                                                                                   |
 | Surviving Mars                 | [EGS][surviving-mars-egs]                    | It was actually good one, but it is sandbox.                                                                                                                                                                  |
@@ -626,6 +627,7 @@ The other games listed here are those I'm totally skipping.
 [regions-of-ruin-steam]: https://store.steampowered.com/app/680360/Regions_Of_Ruin/
 [relicta-egs]: https://store.epicgames.com/en-US/p/relicta
 [remnant-from-the-ashes-egs]: https://store.epicgames.com/en-US/p/remnant-from-the-ashes
+[residual-egs-mobile]: https://store.epicgames.com/en-US/p/residual-android-eef593
 [restless-soul-demo-steam]: https://store.steampowered.com/app/1748230/RESTLESS_SOUL/
 [rime-egs]: https://store.epicgames.com/en-US/p/rime
 [rise-of-the-tomb-steam]: https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
