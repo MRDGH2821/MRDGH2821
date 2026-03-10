@@ -1,20 +1,45 @@
 # :schema https://gist.githubusercontent.com/MRDGH2821/d61a45f6d91c94d1c9d3d1307036d361/raw/48ecf6440582706aa85b856f2c4c3539bc5d03a5/treefmt-schma.json
 
+allow-missing-formatter = true
+
 [formatter.alejandra]
 command = "alejandra"
 includes = ["*.nix"]
 options = ["-q"]
-priority = 0
+priority = 10
 
 [formatter.cspell-sort]
 command = "bash"
-includes = [".cspell.json"]
+# tombi: format.rules.array-values-order = "ascending"
+includes = [
+  ".cSpell.json",
+  ".cspell.config.json",
+  ".cspell.config.jsonc",
+  ".cspell.config.yaml",
+  ".cspell.config.yml",
+  ".cspell.jsonc",
+  ".cspell.yaml",
+  ".cspell.yml",
+  "cSpell.json",
+  "cspell.config.json",
+  "cspell.config.jsonc",
+  "cspell.config.yaml",
+  "cspell.config.yml",
+  "cspell.jsonc",
+  "cspell.yaml",
+  "cspell.yml"
+]
 options = [
   "-c",
   "for file in \"$@\"; do yq -i '.words |= sort_by(downcase) | .ignorePaths |= sort_by(downcase)' \"$file\"; done",
   "--"
 ]
 priority = 9
+
+[formatter.nixfmt]
+command = "nixfmt"
+includes = ["*.nix"]
+priority = 1
 
 [formatter.prettier]
 command = "bunx"
@@ -28,13 +53,13 @@ priority = 100
 command = "prettypst"
 includes = ["*.typ"]
 options = ["-s", "default"]
-priority = 1
+priority = 2
 
 [formatter.prettypst-otbs]
 command = "prettypst"
 includes = ["*.typ"]
 options = ["-s", "otbs"]
-priority = 2
+priority = 3
 
 [formatter.refactor-game]
 command = "bun"
@@ -58,7 +83,8 @@ priority = 8
 
 [formatter.shfmt]
 command = "shfmt"
-includes = ["*.sh"]
+# tombi: format.rules.array-values-order = "ascending"
+includes = ["*.sh", ".envrc"]
 options = ["--indent", "2"]
 priority = 1
 
@@ -85,6 +111,12 @@ command = "uvx"
 includes = ["*.toml"]
 options = ["toml-sort", "-i", "--sort-table-keys", "--sort-inline-tables"]
 priority = 0
+
+[formatter.typstyle]
+command = "typstyle"
+includes = ["*.typ"]
+options = ["-i"]
+priority = 1
 
 [formatter.xmllint]
 command = "xmllint"
