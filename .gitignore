@@ -1,3 +1,5 @@
+.devenv
+.direnv
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
