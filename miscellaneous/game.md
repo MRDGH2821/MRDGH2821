@@ -66,32 +66,30 @@ Listed with priority order.
 
 <!-- smt -->
 
-| Game name | Link | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
-| --------- | ---- | --- | ------------- | ----------- | ---- | -------- |
+| Game name              | Link                                  | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
+| ---------------------- | ------------------------------------- | --- | ------------- | ----------- | ---- | -------- |
+| Main Sequence Playtest | [Steam][main-sequence-playtest-steam] | 🐧  |               |             |      |          |
+| Windrose Demo          | [Steam][windrose-demo-steam]          | 🐧  |               |             |      |          |
 
 ### Full games
 
 <!-- smt -->
 
-| Game name                          | Link                                                 | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                           |
-| ---------------------------------- | ---------------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ---------------------------------------------------------------------------------- |
-| Doodle God: Infinite Alchemy Merge | [EGS Mobile][doodle-god-infinite-alchemy-egs-mobile] | 🕓  | 2025-06-20    |             |      | 🚫  |               |             |      |                                                                                    |
-| Hidden Folks                       | [EGS Mobile][hidden-folks-egs-mobile]                | 🕓  | 2025-08-14    |             |      | 🚫  |               |             |      | Beautiful point & click game about finding items & people! Perfect as mobile game. |
-| Necromerger                        | [Play Store][necromerger-playstore]                  | 🕓  | 2025-08-31    |             |      | 🚫  |               |             |      | I got hooked to Necromerger 🤯                                                     |
+| Game name            | Link                                          | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                          |
+| -------------------- | --------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | --------------------------------- |
+| Boxes Lost Fragments | [EGS Mobile][boxes-lost-fragments-egs-mobile] |     | 2026-03-16    |             |      | 🚫  |               |             |      | I like the puzzle game & visuals. |
+| Exponential Idle     | [Play Store][exponential-idle-playstore]      |     | 2026-03-17    |             |      | 🚫  |               |             |      | Pretty good idle game!            |
 
 ### Travel Games
 
 Games which I will mainly play while I'm travelling.
 Same priority order as on going section
 
-| Game name                             | Link                                      | 🎮     | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                                                                                           |
-| ------------------------------------- | ----------------------------------------- | ------ | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Little Alchemy 2                      | [Play Store][little-alchemy-2-playstore]  | 🕓     | 2024-06-25    |             |      | 🔒📭 |               |             |      | Played this game once 2000+ days back, starting from 0 this time.                                                                                                                                  |
-| Active Neurons - Wonders Of The World | [Steam][active-neurons---steam]           | 🕓🐧📭 | 2024-10-04    |             |      | 🔒📭 |               |             |      | Great fit for a travel game                                                                                                                                                                        |
-| Curvatron                             | [Steam][curvatron-steam]                  | 🕓🐧📭 | 2024-10-04    |             |      | 🚫   |               |             |      | Great fit for a travel game                                                                                                                                                                        |
-| Triglav                               | [Play Store][triglav-playstore]           | 🕓     | 2024-11-05    |             |      | 🚫   |               |             |      | One of the good games for mobile.                                                                                                                                                                  |
-| Life in Adventure                     | [Play Store][life-in-adventure-playstore] | 🕓     | 2024-11-15    |             |      | 🕓   |               |             |      | This has a pretty good story for mobile game & the RNG style adventure story progression was appealing too. DLC is locked behind in-game curreny paywall & plays naturally within the game itself. |
-| Monument Valley 3                     | [Steam][mv3-steam]                        | 🕓🐧   | 2025-08-04    |             |      | 🚫   |               |             |      | The third game in Monument Valley. Beautiful as before.                                                                                                                                            |
+| Game name                             | Link                            | 🎮     | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                  |
+| ------------------------------------- | ------------------------------- | ------ | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | --------------------------------------------------------- |
+| Active Neurons - Wonders Of The World | [Steam][active-neurons---steam] | 🕓🐧📭 | 2024-10-04    |             |      | 🔒📭 |               |             |      | Great fit for a travel game                               |
+| Monument Valley 3                     | [Steam][mv3-steam]              | 🕓🐧   | 2025-08-04    |             |      | 🚫   |               |             |      | The third game in Monument Valley. Beautiful as before.   |
+| Okay?                                 | [Play Store][okay-playstore]    | 🕓     | 2026-02-21    |             |      | 🚫   |               |             |      | I like the aesthetics and it is a pretty good puzzle game |
 
 ### May play next
 
@@ -131,14 +129,21 @@ I like these games, and would definitely play, but not right now.
 
 <!-- smt -->
 
-| Game name                  | Link                                       | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                              |
-| -------------------------- | ------------------------------------------ | ---- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Game Dev Story             | [Play Store][game-dev-story-playstore]     | 🕓   | 2026-02-12    |             |      | 🚫  |               |             |      | I like the concept, but I think I myself would need some more explanation on how to play.                                             |
-| Nightingale                | [Steam][nightingale-steam]                 | 🕓🐧 | 2025-06-04    |             |      |     |               |             |      |                                                                                                                                       |
-| Of Life and Land           | [Steam][of-life-and-land-steam]            | 🕓🐧 | 2025-03-30    |             |      | 🚫  |               |             |      | Pretty good indie game about city building. I liked the appeal when I played the demo.                                                |
-| Outward Definitive Edition | [Steam][outward-definitive-edition-steam]  | 🕓🐧 | 2025-03-09    |             |      |     |               |             |      |                                                                                                                                       |
-| The Wild Darkness          | [Play Store][the-wild-darkness-playstore]  | 🕓   | 2025-01-30    |             |      | 🚫  |               |             |      | It filled the itch of playing a good game, but with low stakes. By low stakes I mean it is turn based. Comfortable to play on mobile. |
-| Tiny Space Program         | [Play Store][tiny-space-program-playstore] | 🕓   |               |             |      | 🚫  |               |             |      | This is a decent game, despite the grind. But it doesn't have exportable game saves, so not playing until there's something.          |
+| Game name                          | Link                                                 | 🎮     | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                                                                                           |
+| ---------------------------------- | ---------------------------------------------------- | ------ | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Curvatron                          | [Steam][curvatron-steam]                             | 🕓🐧📭 | 2024-10-04    |             |      | 🚫   |               |             |      | Great fit for a travel game                                                                                                                                                                        |
+| Doodle God: Infinite Alchemy Merge | [EGS Mobile][doodle-god-infinite-alchemy-egs-mobile] | 🕓     | 2025-06-20    |             |      | 🚫   |               |             |      |                                                                                                                                                                                                    |
+| Game Dev Story                     | [Play Store][game-dev-story-playstore]               | 🕓     | 2026-02-12    |             |      | 🚫   |               |             |      | I like the concept, but I think I myself would need some more explanation on how to play.                                                                                                          |
+| Hidden Folks                       | [EGS Mobile][hidden-folks-egs-mobile]                | 🕓     | 2025-08-14    |             |      | 🚫   |               |             |      | Beautiful point & click game about finding items & people! Perfect as mobile game.                                                                                                                 |
+| Life in Adventure                  | [Play Store][life-in-adventure-playstore]            | 🕓     | 2024-11-15    |             |      | 🕓   |               |             |      | This has a pretty good story for mobile game & the RNG style adventure story progression was appealing too. DLC is locked behind in-game curreny paywall & plays naturally within the game itself. |
+| Little Alchemy 2                   | [Play Store][little-alchemy-2-playstore]             | 🕓     | 2024-06-25    |             |      | 🔒📭 |               |             |      | Played this game once 2000+ days back, starting from 0 this time.                                                                                                                                  |
+| Necromerger                        | [Play Store][necromerger-playstore]                  | 🕓     | 2025-08-31    |             |      | 🚫   |               |             |      | I got hooked to Necromerger 🤯                                                                                                                                                                     |
+| Nightingale                        | [Steam][nightingale-steam]                           | 🕓🐧   | 2025-06-04    |             |      |      |               |             |      |                                                                                                                                                                                                    |
+| Of Life and Land                   | [Steam][of-life-and-land-steam]                      | 🕓🐧   | 2025-03-30    |             |      | 🚫   |               |             |      | Pretty good indie game about city building. I liked the appeal when I played the demo.                                                                                                             |
+| Outward Definitive Edition         | [Steam][outward-definitive-edition-steam]            | 🕓🐧   | 2025-03-09    |             |      |      |               |             |      |                                                                                                                                                                                                    |
+| The Wild Darkness                  | [Play Store][the-wild-darkness-playstore]            | 🕓     | 2025-01-30    |             |      | 🚫   |               |             |      | It filled the itch of playing a good game, but with low stakes. By low stakes I mean it is turn based. Comfortable to play on mobile.                                                              |
+| Tiny Space Program                 | [Play Store][tiny-space-program-playstore]           | 🕓     |               |             |      | 🚫   |               |             |      | This is a decent game, despite the grind. But it doesn't have exportable game saves, so not playing until there's something.                                                                       |
+| Triglav                            | [Play Store][triglav-playstore]                      | 🕓     | 2024-11-05    |             |      | 🚫   |               |             |      | One of the good games for mobile.                                                                                                                                                                  |
 
 ## Completed Games
 
@@ -340,6 +345,7 @@ These normally won't have DLC content, hence omitted from the table.
 | SHINOBI: Art of Vengeance Demo                  | [Steam][shinobi-art-of-vengeance-steam]         | 🐧     | 2026-01-02    | 2026-01-02  | 000:36 | I'm liking the fluid motion of fighting in this game. SO SMOOTH!                                                                                                                                                                                     |
 | Sandustry                                       | [Steam][sandustry-steam]                        | 📭🕓🐧 | 2025-08-15    | 2025-08-15  | 001:15 | The game is good, but a little tedious in start.                                                                                                                                                                                                     |
 | Skate Story Demo                                | [Steam][skate-story-demo-steam]                 | 🐧     | 2025-12-15    | 2025-12-15  | 000:41 | Pretty good game! This is my first ever skate boarding game and it does feel like controller would be needed to enjoy it better. Music is also good.                                                                                                 |
+| Snacktorio Demo                                 | [Steam][snacktorio-demo-steam]                  | 🕓🐧   | 2026-03-03    | 2026-04-10  | 001:16 | I like the appeal of this game. Just not enough time with me to play through.                                                                                                                                                                        |
 | Steel Artery: Train City Builder Playtest       | [Steam][steel-artery-train-city-steam]          | 🐧     | 2025-12-16    | 2025-12-16  | 001:55 | Pretty good city builder, but needs polishing like alerts for various things and extended tutorial                                                                                                                                                   |
 | Stellar Blade Demo                              | [Steam][stellar-blade-demo-steam]               | 🐧     | 2025-06-01    | 2025-06-11  | 001:22 | Controls need a bit tweaking, but accessibility options are great and the game overall is good too. Has some movement flaws similar to Sekiro & Nier Automata.                                                                                       |
 | TIRELESS: Prepare For The Adrenaline (Playtest) | [Steam][tireless-prepare-for-the-steam]         | 📭     | 2024-05-13    | 2024-06-01  | 001:01 | Challenging fast paced game! Made by my friend's friend.                                                                                                                                                                                             |
@@ -417,6 +423,7 @@ The other games listed here are those I'm totally skipping.
 | Everything                     | [EGS][everything-egs]                        | Felt boring.                                                                                                                                                                                                  |
 | Faeria                         | [EGS][faeria-egs]                            | Card game, got je-baited.                                                                                                                                                                                     |
 | GNOG                           | [EGS][gnog-egs]                              | Didn't understand the game.                                                                                                                                                                                   |
+| Green The Planet 2             | [Play Store][green-the-planet-2-playstore]   | I like the game, but it became repetitive and lost interest.                                                                                                                                                  |
 | Hyper Light Drifter            | [EGS][hyper-light-drifter-egs]               | Although I liked the visuals, I don't feel like playing it anymore.                                                                                                                                           |
 | Janosik                        | [Steam][janosik-steam]                       | Even though I like 2D side scrollers, I feel this one was too much for me with regards to controls.                                                                                                           |
 | Kingdom Come Deliverance       | [EGS][kingdom-come-deliverance-egs]          | 1st person view & complex game economy made me skip.                                                                                                                                                          |
@@ -483,6 +490,7 @@ The other games listed here are those I'm totally skipping.
 [bookworm-adventures-vol-2-gog-dreamlist]: https://www.gog.com/dreamlist/game/bookworm-adventures-volume-2-2009
 [bookworm-adventures-vol-2-steam]: https://steamcommunity.com/app/3630/
 [botanicula-egs-mobile]: https://store.epicgames.com/en-US/p/botanicula-android-7eeaa6
+[boxes-lost-fragments-egs-mobile]: https://store.epicgames.com/en-US/p/boxes-lost-fragments-android-356638
 [braveland-steam]: https://store.steampowered.com/app/285800/Braveland/
 [bridge-constructor-the-walking-egs-mobile]: https://store.epicgames.com/en-US/p/bridge-constructor-the-walking-dead-android-794a0b
 [bs-i-steam]: https://store.steampowered.com/app/8870/BioShock_Infinite/
@@ -525,6 +533,7 @@ The other games listed here are those I'm totally skipping.
 [everything-egs]: https://store.epicgames.com/en-US/p/everything
 [evoland-steam]: https://store.steampowered.com/app/233470/Evoland/
 [exominer---idle-playstore]: https://play.google.com/store/apps/details?id=com.eldring.exominer
+[exponential-idle-playstore]: https://play.google.com/store/apps/details?id=com.conicgames.exponentialidle
 [factorio-steam]: https://store.steampowered.com/app/427520/Factorio/
 [faeria-egs]: https://store.epicgames.com/en-US/p/faeria
 [fearless-fantasy-steam]: https://store.steampowered.com/app/282100/Fearless_Fantasy/
@@ -541,6 +550,7 @@ The other games listed here are those I'm totally skipping.
 [gaming-terms-you-should-know]: https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know
 [ghostwire-tokyo-egs]: https://store.epicgames.com/en-US/p/ghostwire-tokyo
 [gnog-egs]: https://store.epicgames.com/en-US/p/gnog
+[green-the-planet-2-playstore]: https://play.google.com/store/apps/details?id=jp.ne.mkb.games.gr2
 [grimvalor-playstore]: https://play.google.com/store/apps/details?id=com.direlight.grimvalor
 [gris-steam]: https://store.steampowered.com/app/683320/GRIS/
 [haste-broken-worlds-demo-steam]: https://store.steampowered.com/app/2940200/Haste_Broken_Worlds_Demo/
@@ -578,6 +588,7 @@ The other games listed here are those I'm totally skipping.
 [loop-hero-playstore]: https://play.google.com/store/apps/details?id=com.playdigious.loophero
 [magic-rampage-playstore]: https://play.google.com/store/apps/details?id=com.asanteegames.magicrampage
 [main-page-repo]: ../readme.md
+[main-sequence-playtest-steam]: https://store.steampowered.com/app/2487190/Main_Sequence/
 [mandagon-steam]: https://store.steampowered.com/app/461560/MANDAGON/
 [mandragora-demo-steam]: https://store.steampowered.com/app/1721060/Mandragora_Whispers_of_the_Witch_Tree/
 [marvels-guardians-of-the-egs]: https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy
@@ -609,6 +620,7 @@ The other games listed here are those I'm totally skipping.
 [of-life-and-land-steam]: https://store.steampowered.com/app/1733110/Of_Life_and_Land/
 [ogu-and-the-secret-egs-mobile]: https://store.epicgames.com/en-US/p/ogu-and-the-secret-forest-android-362ff7
 [oh-my-god-look-steam]: https://store.steampowered.com/app/781440/OH_MY_GOD_LOOK_AT_THIS_KNIGHT/
+[okay-playstore]: https://play.google.com/store/apps/details?id=de.stollenmayer.philipp.Pop_1_1_Android
 [omelet-you-cook-demo-steam]: https://store.steampowered.com/app/3291300/Omelet_You_Cook_Demo/
 [oscuro-blossoms-glow-demo-steam]: https://store.steampowered.com/app/3462840/Oscuro_Blossoms_Glow_Demo/
 [out-there-omega-edition-egs-mobile]: https://store.epicgames.com/en-US/p/out-there-omega-edition-android-449172
@@ -649,6 +661,7 @@ The other games listed here are those I'm totally skipping.
 [skate-story-demo-steam]: https://store.steampowered.com/app/1263240/Skate_Story/
 [slain-back-from-hell-egs]: https://store.epicgames.com/en-US/p/slain-aea303
 [slime-rancher-egs]: https://store.epicgames.com/en-US/p/slime-rancher
+[snacktorio-demo-steam]: https://store.steampowered.com/app/1902940/Snacktorio/
 [soulstice-egs]: https://store.epicgames.com/en-US/p/soulstice
 [sprout-steam]: https://store.steampowered.com/app/758530/Sprout/
 [steel-artery-train-city-steam]: https://store.steampowered.com/app/3602030/Steel_Artery_Train_City_Builder/
@@ -708,6 +721,7 @@ The other games listed here are those I'm totally skipping.
 [wd-egs]: https://store.epicgames.com/en-US/p/watch-dogs
 [wd2-egs]: https://store.epicgames.com/en-US/p/watch-dogs-2
 [windbound-egs]: https://store.epicgames.com/en-US/p/windbound
+[windrose-demo-steam]: https://store.steampowered.com/app/4291770/Windrose_Demo/
 [witcher1-gog]: https://www.gog.com/game/the_witcher
 [witcher2-gog]: https://www.gog.com/game/the_witcher_2
 [witcher3-steam]: https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/
