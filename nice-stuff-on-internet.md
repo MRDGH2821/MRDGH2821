@@ -10,22 +10,26 @@ So, do not forget to check this [page!](./miscellaneous/invitations.md)
 Visit my online [Profiles](myself-on-internet.md).
 _Back to [main page](readme.md)_
 
+<!-- smt -->
+
 | Link                                                                                                                                                                | Expiry  | Notes                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Student email benefits!](https://www.makeuseof.com/tag/discounts-edu-email-address/)                                                                               | Depends |                                                                                                                                               |
-| [Learn Skills for In-Demand jobs](https://opportunity.linkedin.com/skills-for-in-demand-jobs)                                                                       | -       |                                                                                                                                               |
-| [Free Quantum Computing Course](https://www.qubitbyqubit.org/programs)                                                                                              | -       |                                                                                                                                               |
 | [EBooks Repo](https://github.com/RohitM-IN/E-books)                                                                                                                 | -       | [Download from here](https://mega.nz/folder/Z0FwFBbD#YPCBJVRrQ_o0hK7zCrbalA)                                                                  |
 | [Free Coding Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)                                                                        | -       | There are more if you [search](https://www.freecodecamp.org/news/search?query=Free%20Online%20Programming%20&%20Computer%20Science%20Courses) |
+| [Free Quantum Computing Course](https://www.qubitbyqubit.org/programs)                                                                                              | -       |                                                                                                                                               |
+| [Learn Skills for In-Demand jobs](https://opportunity.linkedin.com/skills-for-in-demand-jobs)                                                                       | -       |                                                                                                                                               |
 | [LinkedIn Tips Compilation Vol.1](https://gist.github.com/MRDGH2821/630686b23ecee28b959f7e19977395c9)                                                               | -       | A compilation of LinkedIn tips which I personally feel & found over internet.                                                                 |
 | [OpenAI Prompt Engineering Course](https://learn.deeplearning.ai/)                                                                                                  | -       | Useful in the era of ChatGPT                                                                                                                  |
 | [Practical Applications of Data Structures and Algorithms](https://web.archive.org/web/20210401000000*/https://www.informatik.uni-leipzig.de/~paxton/algorithmics/) | -       | A nice material for interview preparation                                                                                                     |
 | [Saatvik Recipes](https://1drv.ms/f/s!AqbOAR5ggpjc7lbqt0kf37DXN1jp?embed=1)                                                                                         | -       | An excel sheet containing Saatvik Recipes + a video on how to use it                                                                          |
+| [Student email benefits!](https://www.makeuseof.com/tag/discounts-edu-email-address/)                                                                               | Depends |                                                                                                                                               |
 | [This free Linux course has trained a million people in open-source tools](https://tek.io/3cHmNf8)                                                                  | -       | [Link to course](https://www.edx.org/learn/linux/the-linux-foundation-introduction-to-linux)                                                  |
 
 ## Other stuff I found useful
 
 This is how I got knowledge of tech. Subscribe for their Newsletter!
+
+<!-- smt -->
 
 | Site                                                                                                                                                     | Notes                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |

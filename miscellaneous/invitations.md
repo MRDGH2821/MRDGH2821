@@ -15,6 +15,8 @@ Want to go back to [main page](../readme.md)?
 
 ## Productivity & Work
 
+<!-- smt -->
+
 | Site                                                                                                           | Invite/Referral Link/code                            | Expiry Date/Notes                                                                |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------- |
 | [![AMCAT][AMCAT-badge]](https://www.myamcat.com/)                                                              | REJ1MJK                                              | 21-Nov-2023                                                                      |
@@ -23,12 +25,16 @@ Want to go back to [main page](../readme.md)?
 
 ## Payment apps
 
+<!-- smt -->
+
 | Site                                                                         | Invite/Referral Link/code                      |
 | ---------------------------------------------------------------------------- | ---------------------------------------------- |
 | [![Google Pay India][Google-Pay-India-Badge]](https://g.co/payinvite/i3zb2q) | i3zb2q                                         |
 | [![PayTM][PayTM-Badge]](https://p.paytm.me/xCTH/03csjsrk)                    | [Click here](https://p.paytm.me/xCTH/03csjsrk) |
 
 ## Miscellaneous
+
+<!-- smt -->
 
 | Site                                                                                    | Invite/Referral Link/code                                 |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------- |
@@ -37,6 +43,8 @@ Want to go back to [main page](../readme.md)?
 | [![Uber][Uber-Badge]](https://www.uber.com/invite/mihirr1010ue)                         | [mihirr1010ue](https://www.uber.com/invite/mihirr1010ue)  |
 
 ## Game related
+
+<!-- smt -->
 
 | Site                                                                                         | Invite/Referral Link/code                                         | Expiry Date/Notes |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------- |

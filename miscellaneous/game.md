@@ -19,6 +19,8 @@ Want to go back to [main page][main-page-repo]?
 
 ## Notations
 
+<!-- smt column=2 -->
+
 | Emoji | Meaning                        |
 | ----- | ------------------------------ |
 | 💯    | 100% Complete with 🏆 & 🔍     |
@@ -27,18 +29,20 @@ Want to go back to [main page][main-page-repo]?
 | ✅    | Completed                      |
 | 🎁    | DLC(s) Story/Campaign Complete |
 | 🎮    | Main Story/Campaign Complete   |
+| 📭    | No Story                       |
 | 🚫    | Not Applicable                 |
 | ❎    | Not Completed                  |
 | 🔒    | Not purchased                  |
 | 🕓    | Partially Completed            |
-| ⏱️    | Time Taken                     |
-| 📭    | No Story                       |
 | 🐧    | Played on Linux                |
+| ⏱️    | Time Taken                     |
+
+<!-- smt -->
 
 | Shortform | Long form            | Notes                                                                                           |
 | --------- | -------------------- | ----------------------------------------------------------------------------------------------- |
-| GOTY      | Game of the Year     |                                                                                                 |
 | DLC       | Downloadable content | Here it refers to additionally purchased playable content, different from base game story wise. |
+| GOTY      | Game of the Year     |                                                                                                 |
 
 Some notations will be mixed like:
 
@@ -60,12 +64,14 @@ Listed with priority order.
 
 ### Demos
 
-<!-- sort-table -->
+<!-- smt -->
 
 | Game name | Link | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
 | --------- | ---- | --- | ------------- | ----------- | ---- | -------- |
 
 ### Full games
+
+<!-- smt -->
 
 | Game name                          | Link                                                 | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                           |
 | ---------------------------------- | ---------------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ---------------------------------------------------------------------------------- |
@@ -123,7 +129,7 @@ This table is sorted first by `How long to beat?` then `🎮⏱️`.
 
 I like these games, and would definitely play, but not right now.
 
-<!-- sort-table -->
+<!-- smt -->
 
 | Game name                  | Link                                       | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                                                              |
 | -------------------------- | ------------------------------------------ | ---- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -146,7 +152,7 @@ The numbers are put to match their release date.
 Some of the games with start dates are determined from first achievement,
 wherever it made sense.
 
-<!-- sort-table -->
+<!-- smt -->
 
 | Game name                                          | Link                                                    | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️       | 📝 Notes                                                                                                                                                                                                                                      |
 | -------------------------------------------------- | ------------------------------------------------------- | ---- | ------------- | ----------- | ------ | ---- | ------------- | ----------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -284,7 +290,7 @@ wherever it made sense.
 Some game demos which I liked & played.
 These normally won't have DLC content, hence omitted from the table.
 
-<!-- sort-table -->
+<!-- smt -->
 
 | Game name                                       | Link                                            | 🎮     | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 📝 Notes                                                                                                                                                                                                                                             |
 | ----------------------------------------------- | ----------------------------------------------- | ------ | ------------- | ----------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -354,7 +360,7 @@ Those games with hardly any story and can be played endlessly.
 Technically all games would fit this list,
 but I'll be adding only those which I played even after completing main objective.
 
-<!-- sort-table -->
+<!-- smt -->
 
 | Game name                      | Link                                    | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️    | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️   | 📝 Notes                                                                                                                                                                             |
 | ------------------------------ | --------------------------------------- | --- | ------------- | ----------- | ------- | ---- | ------------- | ----------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -400,7 +406,7 @@ And I skip online games too, because Online & cannot speed run to complete.
 I also skip card games, as they are too long.
 The other games listed here are those I'm totally skipping.
 
-<!-- sort-table -->
+<!-- smt -->
 
 | Game name                      | Link                                         | Notes                                                                                                                                                                                                         |
 | ------------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
