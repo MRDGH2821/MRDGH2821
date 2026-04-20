@@ -75,10 +75,11 @@ Listed with priority order.
 
 <!-- smt -->
 
-| Game name            | Link                                          | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                          |
-| -------------------- | --------------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | --------------------------------- |
-| Boxes Lost Fragments | [EGS Mobile][boxes-lost-fragments-egs-mobile] |     | 2026-03-16    |             |      | 🚫  |               |             |      | I like the puzzle game & visuals. |
-| Exponential Idle     | [Play Store][exponential-idle-playstore]      |     | 2026-03-17    |             |      | 🚫  |               |             |      | Pretty good idle game!            |
+| Game name            | Link                                          | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                          |
+| -------------------- | --------------------------------------------- | ---- | ------------- | ----------- | ------ | --- | ------------- | ----------- | ---- | --------------------------------- |
+| Boxes Lost Fragments | [EGS Mobile][boxes-lost-fragments-egs-mobile] |      | 2026-03-16    |             |        | 🚫  |               |             |      | I like the puzzle game & visuals. |
+| Exponential Idle     | [Play Store][exponential-idle-playstore]      |      | 2026-03-17    |             |        | 🚫  |               |             |      | Pretty good idle game!            |
+| Snake pass           | [Steam][snake-pass-steam]                     | 🕓🐧 | 2020-07-15    |             | 002:18 | 🚫  |               |             |      |                                   |
 
 ### Travel Games
 
@@ -243,7 +244,7 @@ wherever it made sense.
 | Moonlighter                                        | [EGS][moonlighter-egs]                                  |      |               | 2020-09-21  | 011:54 | 🔒   |               |             |            | -                                                                                                                                                                                                                                             |
 | Nier: Automata                                     | [Steam][nier-automata-steam]                            | 🏆   | 2024-03-22    | 2024-04-22  | 041:38 | ✅🏆 | (Included)    | 2024-04-22  | (Included) | Expected some playable content after Ending E, but it was good nonetheless. Achieved all 27 endings. Forest Underground Colosseum was a bit difficult. Didn't do S rank.                                                                      |
 | OH MY GOD LOOK AT THIS KNIGHT                      | [Steam][oh-my-god-look-steam]                           | 💯   | 2018-03-25    | 2024-05-26  | 000:52 | 🚫   |               |             |            | Actually finished the game on start date itself. Did the achievements run on end date.                                                                                                                                                        |
-| Ogu and the Secret Forest                          | [EGS Mobile][ogu-and-the-secret-egs-mobile]             | 🕓   | 2025-06-06    | 2025-07-23  | 013:29 | 🚫   |               |             |            | Pretty good mobile adventure game. Kid friendly too. It is about saving another world & adventuring between regions. I had frequent itches to play the PC version though.                                                                     |
+| Ogu and the Secret Forest                          | [EGS Mobile][ogu-and-the-secret-egs-mobile]             |      | 2025-06-06    | 2025-07-23  | 013:29 | 🚫   |               |             |            | Pretty good mobile adventure game. Kid friendly too. It is about saving another world & adventuring between regions. I had frequent itches to play the PC version though.                                                                     |
 | Out There: Omega Edition                           | [EGS Mobile][out-there-omega-edition-egs-mobile]        |      | 2025-04-02    | 2025-05-03  |        | 🚫   |               |             |            | Pretty good mobile game. Involves Space Exploration. Can be hard due to RNG. Completed Red & Green endings out of total 5.                                                                                                                    |
 | Oxenfree                                           | [EGS][oxenfree-egs]                                     |      |               |             | 005:30 | 🚫   |               |             |            | -                                                                                                                                                                                                                                             |
 | Pilgrims                                           | [EGS Mobile][pilgrims-egs-mobile]                       |      | 2025-08-02    | 2025-08-07  |        | 🚫   |               |             |            | Nice point & click game for mobile. Has multiple ways to complete objectives.                                                                                                                                                                 |
@@ -359,6 +360,7 @@ These normally won't have DLC content, hence omitted from the table.
 | Ultimate Grandma Simulator Demo                 | [Steam][ultimate-grandma-simulator-demo-steam]  | 📭🐧   | 2025-12-17    | 2025-12-17  | 000:05 | This game clearly takes inspiration from Baby Steps and I rage quit.                                                                                                                                                                                 |
 | Vehicle No. 4                                   | [Steam][vehicle-no-4-steam]                     | 📭🐧   | 2025-07-23    | 2025-07-23  | 000:22 | This game needs polishing, especially UI & Tutorial. Otherwise the game is fun to play!                                                                                                                                                              |
 | WORLD WAR V: LAST CALL Demo                     | [Steam][world-war-v-last-steam]                 | 🐧     | 2026-01-02    | 2026-01-02  | 000:34 | I like the voxel art. Game play is decent too.                                                                                                                                                                                                       |
+| Wall World Strategy Playtest                    | [Steam][wall-world-strategy-playtest-steam]     | 🐧     | 2026-04-20    | 2026-04-20  | 001:08 | I like the gameplay. Needs brief polish & some QoL from Factorio. Story is also good.                                                                                                                                                                |
 
 ## Endless Games
 
@@ -662,6 +664,7 @@ The other games listed here are those I'm totally skipping.
 [slain-back-from-hell-egs]: https://store.epicgames.com/en-US/p/slain-aea303
 [slime-rancher-egs]: https://store.epicgames.com/en-US/p/slime-rancher
 [snacktorio-demo-steam]: https://store.steampowered.com/app/1902940/Snacktorio/
+[snake-pass-steam]: https://store.steampowered.com/app/544330/Snake_Pass/
 [soulstice-egs]: https://store.epicgames.com/en-US/p/soulstice
 [sprout-steam]: https://store.steampowered.com/app/758530/Sprout/
 [steel-artery-train-city-steam]: https://store.steampowered.com/app/3602030/Steel_Artery_Train_City_Builder/
@@ -716,6 +719,7 @@ The other games listed here are those I'm totally skipping.
 [vampires-fall-origins-playstore]: https://play.google.com/store/apps/details?id=com.earlymorningstudio.vampiresfall2
 [vehicle-no-4-steam]: https://store.steampowered.com/app/3363890/Vehicle_No_4/
 [vendir-playstore]: https://play.google.com/store/apps/details?id=com.earlymorningstudio.vendirplagueoflies
+[wall-world-strategy-playtest-steam]: https://store.steampowered.com/app/4218360/Wall_World_Strategy/
 [wandersong-steam]: https://store.steampowered.com/app/530320/Wandersong/
 [warhammer-40000-space-marine-steam]: https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
 [wd-egs]: https://store.epicgames.com/en-US/p/watch-dogs
