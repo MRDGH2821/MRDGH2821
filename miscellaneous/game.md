@@ -69,7 +69,6 @@ Listed with priority order.
 | Game name              | Link                                  | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
 | ---------------------- | ------------------------------------- | --- | ------------- | ----------- | ---- | -------- |
 | Main Sequence Playtest | [Steam][main-sequence-playtest-steam] | 🐧  |               |             |      |          |
-| Windrose Demo          | [Steam][windrose-demo-steam]          | 🐧  |               |             |      |          |
 
 ### Full games
 
