@@ -6,9 +6,27 @@
         "parser": "json",
         "trailingComma": "none"
       }
+    },
+    {
+      "files": ["*.sh", "**/.envrc"],
+      "options": {
+        "parser": "sh",
+        "trailingComma": "none"
+      }
+    },
+    {
+      "files": [".editorconfig"],
+      "options": {
+        "parser": "ini"
+      }
     }
   ],
-  "plugins": ["prettier-plugin-toml"],
+  "plugins": [
+    "prettier-plugin-toml",
+    "@prettier/plugin-xml",
+    "prettier-plugin-sh",
+    "prettier-plugin-ini"
+  ],
   "tabWidth": 2,
   "trailingComma": "none",
   "useTabs": false
