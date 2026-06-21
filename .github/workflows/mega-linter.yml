@@ -1,6 +1,4 @@
 ---
-# MegaLinter GitHub Action configuration file
-# More info at https://megalinter.io
 concurrency:
   cancel-in-progress: true
   group: ${{ github.ref }}-${{ github.workflow }}
@@ -16,7 +14,7 @@ env:
   APPLY_FIXES_EVENT: pull_request
   # If APPLY_FIXES is used, defines if the fixes are directly committed (commit)
   # or posted in a PR (pull_request)
-  APPLY_FIXES_MODE: commit
+  APPLY_FIXES_MODE: pull_request
 jobs:
   megalinter:
     name: MegaLinter
@@ -35,6 +33,19 @@ jobs:
           # If you use VALIDATE_ALL_CODEBASE = true, you can remove this line to
           # improve performance
           fetch-depth: 0
+          # Comment this line and uncomment the next one if you use APPLY_FIXES
+          # persist-credentials: false
+          persist-credentials: true
+          # zizmor: ignore[artipacked]
+          # SECURITY NOTE: Using a Personal Access Token (PAT) is NOT
+          # recommended. Open-source projects have been heavily targeted by
+          # supply-chain attacks in recent months, and a leaked PAT can give
+          # attackers broad write access to your repository — better safe
+          # than sorry! If you only need workflows to re-trigger after
+          # MegaLinter applies fixes, prefer one of these safer alternatives:
+          #   - Manually re-run the workflow from the GitHub Actions tab, or
+          #   - Push another commit on the branch to trigger workflows again.
+          # Only define `secrets.PAT` if you fully understand the trade-off.
           token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
       # MegaLinter
       # All available variables are described in documentation
@@ -81,7 +92,7 @@ jobs:
         name: MegaLinter
         # You can override MegaLinter flavor used to have faster performances
         # More info at https://megalinter.io/latest/flavors/
-        uses: oxsecurity/megalinter/flavors/documentation@0e3ce9b9c8c10effb9b269509cc47ca17cae31c7 # v9.5.0
+        uses: oxsecurity/megalinter@0e3ce9b9c8c10effb9b269509cc47ca17cae31c7 # v9.5.0
       # Upload MegaLinter artifacts
       - if: success() || failure()
         name: Archive production artifacts
@@ -109,8 +120,15 @@ jobs:
           commit-message: "chore(megalinter): apply linters automatic fixes"
           labels: bot
           title: "chore(megalinter): apply linters automatic fixes"
+          # SECURITY NOTE: see the warning on the checkout step above —
+          # using `secrets.PAT` is NOT recommended for security reasons.
+          # Prefer manually re-running the workflow or pushing another
+          # commit on the branch to trigger workflows again.
           token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
-      - if: |-
+      - env:
+          PR_NUMBER: ${{ steps.cpr.outputs.pull-request-number }}
+          PR_URL: ${{ steps.cpr.outputs.pull-request-url }}
+        if: |-
           steps.ml.outputs.has_updated_sources == 1 && (
             env.APPLY_FIXES_EVENT == 'all' ||
             env.APPLY_FIXES_EVENT == github.event_name
@@ -120,8 +138,8 @@ jobs:
           ) && !contains(github.event.head_commit.message, 'skip fix')
         name: Create PR output
         run: |
-          echo "PR Number - ${{ steps.cpr.outputs.pull-request-number }}"
-          echo "PR URL - ${{ steps.cpr.outputs.pull-request-url }}"
+          echo "PR Number - ${PR_NUMBER}"
+          echo "PR URL - ${PR_URL}"
       # Push new commit if applicable
       # (for now works only on PR from same repository, not from forks)
       - if: |-
@@ -165,4 +183,4 @@ on:
   # Comment this line to trigger action only on pull-requests
   # (not recommended if you don't pay for GH Actions)
   push:
-permissions: read-all
+permissions: {}
