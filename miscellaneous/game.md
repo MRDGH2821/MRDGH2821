@@ -66,18 +66,18 @@ Listed with priority order.
 
 <!-- smt -->
 
-| Game name              | Link                                  | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
-| ---------------------- | ------------------------------------- | --- | ------------- | ----------- | ---- | -------- |
-| Main Sequence Playtest | [Steam][main-sequence-playtest-steam] | 🐧  |               |             |      |          |
+| Game name | Link | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
+| --------- | ---- | --- | ------------- | ----------- | ---- | -------- |
 
 ### Full games
 
 <!-- smt -->
 
-| Game name        | Link                                     | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes               |
-| ---------------- | ---------------------------------------- | ---- | ------------- | ----------- | ------ | --- | ------------- | ----------- | ---- | ---------------------- |
-| Exponential Idle | [Play Store][exponential-idle-playstore] |      | 2026-03-17    |             |        | 🚫  |               |             |      | Pretty good idle game! |
-| Snake pass       | [Steam][snake-pass-steam]                | 🕓🐧 | 2020-07-15    |             | 002:18 | 🚫  |               |             |      |                        |
+| Game name                         | Link                                      | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                   |
+| --------------------------------- | ----------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | -------------------------------------------------------------------------- |
+| Exponential Idle                  | [Play Store][exponential-idle-playstore]  |     | 2026-03-17    |             |      | 🚫  |               |             |      | Pretty good idle game!                                                     |
+| Magical Survival                  | [Play Store][magical-survival-playstore]  |     | 2026-05-12    |             |      | 🚫  |               |             |      | Nice bullet heaven game for mobile. I like the spell combinations in this. |
+| There is no game: Wrong Dimension | [EGS Mobile][there-is-no-game-egs-mobile] |     | 2026-06-22    |             |      | 🚫  |               |             |      | I am liking the way it is presented!                                       |
 
 ### Travel Games
 
@@ -88,7 +88,7 @@ Same priority order as on going section
 | ------------------------------------- | ------------------------------- | ------ | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | --------------------------------------------------------- |
 | Active Neurons - Wonders Of The World | [Steam][active-neurons---steam] | 🕓🐧📭 | 2024-10-04    |             |      | 🔒📭 |               |             |      | Great fit for a travel game                               |
 | Monument Valley 3                     | [Steam][mv3-steam]              | 🕓🐧   | 2025-08-04    |             |      | 🚫   |               |             |      | The third game in Monument Valley. Beautiful as before.   |
-| Okay?                                 | [Play Store][okay-playstore]    | 🕓     | 2026-02-21    |             |      | 🚫   |               |             |      | I like the aesthetics and it is a pretty good puzzle game |
+| Okay?                                 | [Play Store][okay-playstore]    | 🕓📭   | 2026-02-21    |             |      | 🚫   |               |             |      | I like the aesthetics and it is a pretty good puzzle game |
 
 ### May play next
 
@@ -266,6 +266,7 @@ wherever it made sense.
 | Salt & Sanctuary                                   | [EGS][salt-sanctuary-egs]                               |      | 2022-05-14    | 2023-12-15  | 006:00 | 🚫   |               |             |            | This game didn't have cloud saves. Had to restart the run. Didn't do NG+.                                                                                                                                                                     |
 | Shadow Fight 2                                     | [Play Store][shadow-fight-2-playstore]                  |      |               |             |        | ✅   |               |             |            | This game fulfilled the action fighting itch. One of the good games on mobile. Extra content is standalone game available to purchase separately.                                                                                             |
 | Shadow of Tomb Raider: Definitive Edition          | [Steam][shadow-of-tomb-raider-steam]                    |      | 2021-04-11    | 2021-05-23  | 015:00 | ✖️   |               |             |            | -                                                                                                                                                                                                                                             |
+| Shotgun King: The Final Checkmate                  | [EGS Mobile][shotgun-king-the-final-egs-mobile]         |      | 2026-06-18    | 2026-06-22  |        | 🚫   |               |             |            | This was a nice twist on chess! Had to play aggressive to win and it was satisfying!                                                                                                                                                          |
 | Sprout                                             | [Steam][sprout-steam]                                   | 💯   | 2018-05-24    | 2018-05-24  | 000:22 | 🚫   |               |             |            | -                                                                                                                                                                                                                                             |
 | Strange Horticulture                               | [EGS][strange-horticulture-egs]                         | 🐧   | 2026-06-19    | 2026-06-21  | 003:58 | 🚫   |               |             |            | Initially started on Mobile, but it was painful to zoom everytime, thus continued on PC. It is a good detective game, I was able to wing some of the plant identifications in Epilogue.                                                       |
 | Swordigo                                           | [Play Store][swordigo-playstore]                        |      |               |             |        | 🚫   |               |             |            | This is an incredible 2D platformer adventure game. One of the good games available on mobile.                                                                                                                                                |
@@ -328,6 +329,7 @@ These normally won't have DLC content, hence omitted from the table.
 | Iron Village Demo                               | [Steam][iron-village-demo-steam]                | 🐧     | 2025-04-13    | 2025-0-13   | 000:30 | Progression is fast, but that's all in this demo. Still a pretty decent game. I like the art style & relaxing, no-pressure game play.                                                                                                                |
 | Jitter Demo                                     | [Steam][jitter-demo-steam]                      | 🕓🐧   | 2025-08-22    | 2025-12-17  | 001:33 | I Like the appeal of the game.                                                                                                                                                                                                                       |
 | LIFTED Demo                                     | [Steam][lifted-demo-steam]                      | 🕓🐧   | 2025-12-11    | 2025-12-11  | 000:19 | Has pretty nice visuals.                                                                                                                                                                                                                             |
+| Main Sequence Playtest                          | [Steam][main-sequence-playtest-steam]           | 🕓🐧   | 2026-05       | 2026-05     |        | I played this, but didn't have much fun. It does need some more polish.                                                                                                                                                                              |
 | Mandragora Demo                                 | [Steam][mandragora-demo-steam]                  | 🕓🐧   | 2025-05-10    | 2025-05-12  | 001:17 | Visuals are nice, game is good. Couldn't play the demo after 28 May 2025, so here it is.                                                                                                                                                             |
 | Memories in Orbit Demo                          | [Steam][memories-in-orbit-demo-steam]           | 🕓🐧   | 2025-06-12    | 2025-06-20  | 002:06 | Game is interesting. At the start feels little bland. But later on, once you start finding secret pathways, there's more content to explore. I quit after failing to defeat the first boss after 4th attempt.                                        |
 | Monument Valley 3 Demo                          | [Steam][mv3-steam]                              | 🐧     | 2024-06-11    | 2024-06-11  | 000:24 | The 3rd game in Monument Valley series! The beauty of this game is still same as I remember!                                                                                                                                                         |
@@ -444,6 +446,7 @@ The other games listed here are those I'm totally skipping.
 | Remnant: From the Ashes        | [EGS][remnant-from-the-ashes-egs]            | Felt like skipping it, also too heavy on GPU.                                                                                                                                                                 |
 | Residual                       | [EGS Mobile][residual-egs-mobile]            | It took some time to figure out things. Not the type I would play on mobile.                                                                                                                                  |
 | Slime Rancher                  | [EGS][slime-rancher-egs]                     | It was FPS type, got je-baited.                                                                                                                                                                               |
+| Snake pass                     | [Steam][snake-pass-steam]                    | This game failed to launch in Linux. Didn't entertain it any more.                                                                                                                                            |
 | Subnautica                     | [EGS][subnautica-egs]                        | Didn't understand the game.                                                                                                                                                                                   |
 | Surviving Mars                 | [EGS][surviving-mars-egs]                    | It was actually good one, but it is sandbox.                                                                                                                                                                  |
 | Syberia                        | [Steam][syberia-steam]                       | This game is too much old and it crashed midway and due to absence of auto saves, I lost a big chunk of progress. Originally installed this game to try out in my linux tablet. Still needs mouse & keyboard. |
@@ -596,6 +599,7 @@ The other games listed here are those I'm totally skipping.
 [little-alchemy-2-playstore]: https://play.google.com/store/apps/details?id=com.recloak.littlealchemy2
 [loop-hero-playstore]: https://play.google.com/store/apps/details?id=com.playdigious.loophero
 [magic-rampage-playstore]: https://play.google.com/store/apps/details?id=com.asanteegames.magicrampage
+[magical-survival-playstore]: https://play.google.com/store/apps/details?id=com.vkslrzm.Zombie
 [main-page-repo]: ../readme.md
 [main-sequence-playtest-steam]: https://store.steampowered.com/app/2487190/Main_Sequence/
 [mandagon-steam]: https://store.steampowered.com/app/461560/MANDAGON/
@@ -668,6 +672,7 @@ The other games listed here are those I'm totally skipping.
 [shadow-fight-2-playstore]: https://play.google.com/store/apps/details?id=com.nekki.shadowfight
 [shadow-of-tomb-raider-steam]: https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
 [shinobi-art-of-vengeance-steam]: https://store.steampowered.com/app/3489510/SHINOBI_Art_of_Vengeance_Demo/
+[shotgun-king-the-final-egs-mobile]: https://store.epicgames.com/p/shotgun-king-android-74f556?lang=en-US
 [skate-story-demo-steam]: https://store.steampowered.com/app/1263240/Skate_Story/
 [slain-back-from-hell-egs]: https://store.epicgames.com/en-US/p/slain-aea303
 [slime-rancher-egs]: https://store.epicgames.com/en-US/p/slime-rancher
@@ -704,6 +709,7 @@ The other games listed here are those I'm totally skipping.
 [the-unexpected-quest-steam]: https://store.steampowered.com/app/1419100/The_Unexpected_Quest_Prologue/
 [the-way-home-playstore]: https://play.google.com/store/apps/details?id=io.concode.p3
 [the-wild-darkness-playstore]: https://play.google.com/store/apps/details?id=com.ctugames.km2
+[there-is-no-game-egs-mobile]: https://store.epicgames.com/p/there-is-no-game-wd-android-ccd766?lang=en-US
 [thief-egs]: https://store.epicgames.com/en-US/p/thief-5bb95f
 [this-is-fine-maximum-steam]: https://store.steampowered.com/app/3994730/This_Is_Fine_Maximum_Cope__Demo/
 [tiny-space-program-playstore]: https://play.google.com/store/apps/details?id=com.companyname.Space_Program
