@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "author": {
+    "name": "MRDGH2821",
+    "url": "https://github.com/MRDGH2821/MRDGH2821"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@prettier/plugin-xml": "^3.4.2",
+    "prettier-plugin-ini": "^1.3.0",
+    "prettier-plugin-sh": "^0.18.1",
+    "prettier-plugin-toml": "^2.0.6"
+  }
+}
