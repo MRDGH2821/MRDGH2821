@@ -101,6 +101,8 @@ but these are the ones I'm prioritising first.
 
 This table is sorted first by `How long to beat?` then `🎮⏱️`.
 
+<!-- smt column=3 order=desc -->
+
 | Game Name                        | Link                                 | 🎮⏱️   | Notes                           | How long to beat? |
 | -------------------------------- | ------------------------------------ | ------ | ------------------------------- | ----------------- |
 | Chip's Challenge 1               | [Steam][chips-challenge-1-steam]     | 003:48 | Reliving childhood game         | 048:00            |
