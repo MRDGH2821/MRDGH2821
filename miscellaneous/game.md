@@ -107,7 +107,6 @@ This table is sorted first by `How long to beat?` then `🎮⏱️`.
 | -------------------------------- | ------------------------------------ | ------ | ------------------------------- | ----------------- |
 | Chip's Challenge 1               | [Steam][chips-challenge-1-steam]     | 003:48 | Reliving childhood game         | 048:00            |
 | Chip's Challenge 2               | [Steam][chips-challenge-2-steam]     | 002:48 | Reliving childhood game         | 037:30            |
-| Kitaria Fables                   | [Steam][kitaria-fables-steam]        | 001:18 | Because trading card drops      | 016:30            |
 | Fez                              | [EGS][fez-egs]                       | 000:39 | I liked its 2.5D                | 006:00            |
 | The End is Nigh                  | [EGS][the-end-is-nigh-egs]           | 000:17 | Because Platformer              | 008:00            |
 | Axiom Verge                      | [EGS][axiom-verge-egs]               | 000:15 | Because Platformer              | 010:30            |
@@ -439,6 +438,7 @@ The other games listed here are those I'm totally skipping.
 | Hyper Light Drifter            | [EGS][hyper-light-drifter-egs]               | Although I liked the visuals, I don't feel like playing it anymore.                                                                                                                                           |
 | Janosik                        | [Steam][janosik-steam]                       | Even though I like 2D side scrollers, I feel this one was too much for me with regards to controls.                                                                                                           |
 | Kingdom Come Deliverance       | [EGS][kingdom-come-deliverance-egs]          | 1st person view & complex game economy made me skip.                                                                                                                                                          |
+| Kitaria Fables                 | [Steam][kitaria-fables-steam]                | I was pretty much forcing myself to play this game. Decided to uninstall.                                                                                                                                     |
 | Monster Prom                   | [Steam][monster-prom-steam]                  | It has a lot of RNG and will take a lot of time to get all endings.                                                                                                                                           |
 | Mortal Shell                   | [EGS][mortal-shell-egs]                      | Excited because Souls like, skipped because controls.                                                                                                                                                         |
 | Mutant year Zero Road to Eden  | [EGS][mutant-year-zero-road-egs]             | Felt like skipping it.                                                                                                                                                                                        |
