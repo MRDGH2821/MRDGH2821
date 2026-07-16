@@ -4,6 +4,12 @@
     "name": "MRDGH2821",
     "url": "https://github.com/MRDGH2821/MRDGH2821"
   },
+  "scripts": {
+    "clock": "helpers/converter/clock.js",
+    "game-line-transformer": "helpers/line-transformer/game-line-transformer.js",
+    "game-lines-transformer": "helpers/line-transformer/game-lines-transformer.js",
+    "refactor-markdown-links": "helpers/refactor-markdown-links.js"
+  },
   "dependencies": {},
   "devDependencies": {
     "@prettier/plugin-xml": "^3.4.2",
