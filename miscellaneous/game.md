@@ -73,21 +73,23 @@ Listed with priority order.
 
 <!-- smt -->
 
-| Game name        | Link                                     | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                   |
-| ---------------- | ---------------------------------------- | --- | ------------- | ----------- | ---- | --- | ------------- | ----------- | ---- | -------------------------------------------------------------------------- |
-| Exponential Idle | [Play Store][exponential-idle-playstore] |     | 2026-03-17    |             |      | 🚫  |               |             |      | Pretty good idle game!                                                     |
-| Magical Survival | [Play Store][magical-survival-playstore] |     | 2026-05-12    |             |      | 🚫  |               |             |      | Nice bullet heaven game for mobile. I like the spell combinations in this. |
+| Game name        | Link                                     | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                              |
+| ---------------- | ---------------------------------------- | ---- | ------------- | ----------- | ------ | --- | ------------- | ----------- | ---- | ----------------------------------------------------------------------------------------------------- |
+| Exponential Idle | [Play Store][exponential-idle-playstore] |      | 2026-03-17    |             |        | 🚫  |               |             |      | Pretty good idle game!                                                                                |
+| Foretales        | [EGS Mobile][foretales-egs-mobile]       |      | 2026-07-24    |             |        | 🚫  |               |             |      | I like how the story is presented using cards. It is similar to text adventure games, but with cards! |
+| Soulstice        | [EGS][soulstice-egs]                     | 🕓🐧 | 2026-07-16    |             | 001:30 | 🚫  |               |             |      | I liked the hack & slash action.                                                                      |
 
 ### Travel Games
 
 Games which I will mainly play while I'm travelling.
 Same priority order as on going section
 
-| Game name                             | Link                            | 🎮     | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                  |
-| ------------------------------------- | ------------------------------- | ------ | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | --------------------------------------------------------- |
-| Active Neurons - Wonders Of The World | [Steam][active-neurons---steam] | 🕓🐧📭 | 2024-10-04    |             |      | 🔒📭 |               |             |      | Great fit for a travel game                               |
-| Monument Valley 3                     | [Steam][mv3-steam]              | 🕓🐧   | 2025-08-04    |             |      | 🚫   |               |             |      | The third game in Monument Valley. Beautiful as before.   |
-| Okay?                                 | [Play Store][okay-playstore]    | 🕓📭   | 2026-02-21    |             |      | 🚫   |               |             |      | I like the aesthetics and it is a pretty good puzzle game |
+| Game name                             | Link                                     | 🎮     | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 🎁   | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                   |
+| ------------------------------------- | ---------------------------------------- | ------ | ------------- | ----------- | ---- | ---- | ------------- | ----------- | ---- | -------------------------------------------------------------------------- |
+| Magical Survival                      | [Play Store][magical-survival-playstore] |        | 2026-05-12    |             |      | 🚫   |               |             |      | Nice bullet heaven game for mobile. I like the spell combinations in this. |
+| Active Neurons - Wonders Of The World | [Steam][active-neurons---steam]          | 🕓🐧📭 | 2024-10-04    |             |      | 🔒📭 |               |             |      | Great fit for a travel game                                                |
+| Monument Valley 3                     | [Steam][mv3-steam]                       | 🕓🐧   | 2025-08-04    |             |      | 🚫   |               |             |      | The third game in Monument Valley. Beautiful as before.                    |
+| Okay?                                 | [Play Store][okay-playstore]             | 🕓📭   | 2026-02-21    |             |      | 🚫   |               |             |      | I like the aesthetics and it is a pretty good puzzle game                  |
 
 ### May play next
 
@@ -102,25 +104,24 @@ This table is sorted first by `How long to beat?` then `🎮⏱️`.
 
 <!-- smt column=3 order=desc -->
 
-| Game Name                        | Link                                 | 🎮⏱️   | Notes                           | How long to beat? |
-| -------------------------------- | ------------------------------------ | ------ | ------------------------------- | ----------------- |
-| Chip's Challenge 1               | [Steam][chips-challenge-1-steam]     | 003:48 | Reliving childhood game         | 048:00            |
-| Chip's Challenge 2               | [Steam][chips-challenge-2-steam]     | 002:48 | Reliving childhood game         | 037:30            |
-| Fez                              | [EGS][fez-egs]                       | 000:39 | I liked its 2.5D                | 006:00            |
-| The End is Nigh                  | [EGS][the-end-is-nigh-egs]           | 000:17 | Because Platformer              | 008:00            |
-| Axiom Verge                      | [EGS][axiom-verge-egs]               | 000:15 | Because Platformer              | 010:30            |
-| Super Meat Boy                   | [EGS][super-meat-boy-egs]            | 000:15 | Because Platformer              | 009:30            |
-| Slain: Back From Hell            | [EGS][slain-back-from-hell-egs]      | 000:14 | Because Platformer              | 006:00            |
-| RiME                             | [EGS][rime-egs]                      | 000:12 | I liked the visuals             | 005:30            |
-| Nioh: The Complete Edition       | [EGS][nioh-the-complete-edition-egs] | 000:00 | -                               | 042:00            |
-| The Long Dark                    | [EGS][the-long-dark-egs]             | 000:00 | I liked the visuals             | 021:00            |
-| Marvel's Guardians of the Galaxy | [EGS][marvels-guardians-of-the-egs]  | 000:00 | -                               | 017:30            |
-| Soulstice                        | [EGS][soulstice-egs]                 | 000:00 | I liked the hack & slash action | 017:00            |
-| Prey (2017)                      | [EGS][prey-2017-egs]                 | 000:00 | -                               | 016:00            |
-| Windbound                        | [EGS][windbound-egs]                 | 000:00 | I liked the visuals             | 013:00            |
-| Ghostwire: Tokyo                 | [EGS][ghostwire-tokyo-egs]           | 000:00 | -                               | 011:00            |
-| Hob                              | [EGS][hob-egs]                       | 000:00 | Mechs & Puzzles!                | 010:30            |
-| Never Alone                      | [EGS][never-alone-egs]               | 000:00 | -                               | 003:00            |
+| Game Name                        | Link                                 | 🎮⏱️   | Notes                   | How long to beat? |
+| -------------------------------- | ------------------------------------ | ------ | ----------------------- | ----------------- |
+| Chip's Challenge 1               | [Steam][chips-challenge-1-steam]     | 003:48 | Reliving childhood game | 048:00            |
+| Chip's Challenge 2               | [Steam][chips-challenge-2-steam]     | 002:48 | Reliving childhood game | 037:30            |
+| Fez                              | [EGS][fez-egs]                       | 000:39 | I liked its 2.5D        | 006:00            |
+| The End is Nigh                  | [EGS][the-end-is-nigh-egs]           | 000:17 | Because Platformer      | 008:00            |
+| Axiom Verge                      | [EGS][axiom-verge-egs]               | 000:15 | Because Platformer      | 010:30            |
+| Super Meat Boy                   | [EGS][super-meat-boy-egs]            | 000:15 | Because Platformer      | 009:30            |
+| Slain: Back From Hell            | [EGS][slain-back-from-hell-egs]      | 000:14 | Because Platformer      | 006:00            |
+| RiME                             | [EGS][rime-egs]                      | 000:12 | I liked the visuals     | 005:30            |
+| Nioh: The Complete Edition       | [EGS][nioh-the-complete-edition-egs] | 000:00 | -                       | 042:00            |
+| The Long Dark                    | [EGS][the-long-dark-egs]             | 000:00 | I liked the visuals     | 021:00            |
+| Marvel's Guardians of the Galaxy | [EGS][marvels-guardians-of-the-egs]  | 000:00 | -                       | 017:30            |
+| Prey (2017)                      | [EGS][prey-2017-egs]                 | 000:00 | -                       | 016:00            |
+| Windbound                        | [EGS][windbound-egs]                 | 000:00 | I liked the visuals     | 013:00            |
+| Ghostwire: Tokyo                 | [EGS][ghostwire-tokyo-egs]           | 000:00 | -                       | 011:00            |
+| Hob                              | [EGS][hob-egs]                       | 000:00 | Mechs & Puzzles!        | 010:30            |
+| Never Alone                      | [EGS][never-alone-egs]               | 000:00 | -                       | 003:00            |
 
 ### May play some other time
 
@@ -266,7 +267,7 @@ wherever it made sense.
 | Salt & Sanctuary                                   | [EGS][salt-sanctuary-egs]                               |      | 2022-05-14    | 2023-12-15  | 006:00 | 🚫   |               |             |            | This game didn't have cloud saves. Had to restart the run. Didn't do NG+.                                                                                                                                                                     |
 | Shadow Fight 2                                     | [Play Store][shadow-fight-2-playstore]                  |      |               |             |        | ✅   |               |             |            | This game fulfilled the action fighting itch. One of the good games on mobile. Extra content is standalone game available to purchase separately.                                                                                             |
 | Shadow of Tomb Raider: Definitive Edition          | [Steam][shadow-of-tomb-raider-steam]                    |      | 2021-04-11    | 2021-05-23  | 015:00 | ✖️   |               |             |            | -                                                                                                                                                                                                                                             |
-| Shotgun King: The Final Checkmate                  | [EGS Mobile][shotgun-king-the-final-egs-mobile]         |      | 2026-06-18    | 2026-06-22  |        | 🚫   |               |             |            | This was a nice twist on chess! Had to play aggressive to win and it was satisfying!                                                                                                                                                          |
+| Shotgun King: The Final Checkmate                  | [EGS Mobile][shotgun-king-the-final-egs-mobile]         |      | 2026-06-18    | 2026-06-22  |        | 🚫   |               |             |            | This was a nice twist on chess! Had to play aggressive to win and it was satisfying! It was fun blowing up chess pieces!                                                                                                                      |
 | Sprout                                             | [Steam][sprout-steam]                                   | 💯   | 2018-05-24    | 2018-05-24  | 000:22 | 🚫   |               |             |            | -                                                                                                                                                                                                                                             |
 | SteamWorld Dig                                     | [Steam][steamworld-dig-steam]                           | 🐧   | 2026-07-10    | 2026-07-11  | 003:17 | 🚫   |               |             |            | I like the game. Nice platformer & metroidvaina. Short enough to finish as well.                                                                                                                                                              |
 | Strange Horticulture                               | [EGS][strange-horticulture-egs]                         | 🐧   | 2026-06-19    | 2026-06-21  | 003:58 | 🚫   |               |             |            | Initially started on Mobile, but it was painful to zoom everytime, thus continued on PC. It is a good detective game, I was able to wing some of the plant identifications in Epilogue.                                                       |
@@ -561,6 +562,7 @@ The other games listed here are those I'm totally skipping.
 [flintlock-the-siege-of-steam]: https://store.steampowered.com/app/1832040/Flintlock_The_Siege_of_Dawn/
 [fogpiercer-demo-steam]: https://store.steampowered.com/app/3350900/Fogpiercer_Demo/
 [forestrike-demo-steam]: https://store.steampowered.com/app/2325930/Forestrike_Demo/
+[foretales-egs-mobile]: https://store.epicgames.com/p/foretales-android-7c6e1c?lang=en-US
 [frost-punk-egs]: https://store.epicgames.com/en-US/p/frostpunk
 [game-dev-story-playstore]: https://play.google.com/store/apps/details?id=net.kairosoft.android.gamedev3en
 [gaming-terms-you-should-know]: https://www.makeuseof.com/tag/learn-the-lingo-common-gaming-terms-you-should-know
@@ -678,6 +680,7 @@ The other games listed here are those I'm totally skipping.
 [shadow-fight-2-playstore]: https://play.google.com/store/apps/details?id=com.nekki.shadowfight
 [shadow-of-tomb-raider-steam]: https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
 [shinobi-art-of-vengeance-steam]: https://store.steampowered.com/app/3489510/SHINOBI_Art_of_Vengeance_Demo/
+[shotgun-king-egs-mobile]: store.epicgames.com/p/shotgun-king-android-74f556?lang=en-US
 [shotgun-king-the-final-egs-mobile]: https://store.epicgames.com/p/shotgun-king-android-74f556?lang=en-US
 [skate-story-demo-steam]: https://store.steampowered.com/app/1263240/Skate_Story/
 [slain-back-from-hell-egs]: https://store.epicgames.com/en-US/p/slain-aea303
