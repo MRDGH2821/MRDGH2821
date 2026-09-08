@@ -6,3 +6,4 @@ This section contains -
 
 1. [Game section](./game.md)
 2. [Invitations Section](./invitations.md)
+3. [AI Stack](./ai-stack.md)
