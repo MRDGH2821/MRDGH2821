@@ -36,6 +36,7 @@ _In case you are recruiter or a company official, contact me at [LinkedIn](https
 - [Miscellaneous](./miscellaneous/readme.md)
   - [Game](./miscellaneous/game.md)
   - [Invitations](./miscellaneous/invitations.md)
+  - [AI Stack](./miscellaneous/ai-stack.md)
 - [Legal](./legal/readme.md)
 
 ### Brief Info About myself
