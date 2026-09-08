@@ -12,8 +12,10 @@ I have multiple tools which I use.
 
 [Ponytail](https://github.com/DietrichGebert/ponytail)
 
-[Caveman](https://github.com/JuliusBrussee/caveman)
-
 [Memorix](https://github.com/AVIDS2/memorix)
 
 [RTK](https://github.com/rtk-ai/rtk)
+
+## Considered
+
+[Caveman](https://github.com/JuliusBrussee/caveman) - may conflict with Superpowers. While planning phase may bring some token savings, but in all other phases token output is less, so it _might_ be net-negative.
