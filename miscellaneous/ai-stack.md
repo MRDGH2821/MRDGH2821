@@ -6,7 +6,7 @@ I have multiple tools which I use.
 
 [Superpowers](https://github.com/obra/superpowers)
 
-[Paad](https://github.com/ovid/paad)
+[PAAD - Pushback Alignment Architecture Discipline](https://github.com/ovid/paad)
 
 ## AI token saving stack
 
