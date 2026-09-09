@@ -2,6 +2,12 @@
 
 I have multiple tools which I use.
 
+## Tools
+
+[Herdr](https://herdr.dev/)
+
+[Collie](https://colliepwa.dev/)
+
 ## Agentic Engineering stack
 
 [Superpowers](https://github.com/obra/superpowers)
