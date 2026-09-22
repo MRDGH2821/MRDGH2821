@@ -8,6 +8,8 @@ I have multiple tools which I use.
 
 [Collie](https://colliepwa.dev/)
 
+[Capa](https://capa.sh/)
+
 ## Agentic Engineering stack
 
 [Superpowers](https://github.com/obra/superpowers)
