@@ -67,9 +67,8 @@ Listed with priority order.
 
 <!-- smt -->
 
-| Game name        | Link                            | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
-| ---------------- | ------------------------------- | ---- | ------------- | ----------- | ---- | -------- |
-| Scarlet Deer Inn | [Steam][scarlet-deer-inn-steam] | 🕓🐧 | 2026-08-10    |             |      |          |
+| Game name | Link | 🎮  | 🎮 Start Date | 🎮 End Date | 🎮⏱️ | 📝 Notes |
+| --------- | ---- | --- | ------------- | ----------- | ---- | -------- |
 
 ### Full games
 
@@ -358,6 +357,7 @@ These normally won't have DLC content, hence omitted from the table.
 | SCHiM Demo                                      | [Steam][schim-demo-steam]                       |        | 2024-06-27    | 2024-06-27  | 000:31 | A fun game where we jump between shadows.                                                                                                                                                                                                            |
 | SHINOBI: Art of Vengeance Demo                  | [Steam][shinobi-art-of-vengeance-steam]         | 🐧     | 2026-01-02    | 2026-01-02  | 000:36 | I'm liking the fluid motion of fighting in this game. SO SMOOTH!                                                                                                                                                                                     |
 | Sandustry                                       | [Steam][sandustry-steam]                        | 📭🕓🐧 | 2025-08-15    | 2025-08-15  | 001:15 | The game is good, but a little tedious in start.                                                                                                                                                                                                     |
+| Scarlet Deer Inn                                | [Steam][scarlet-deer-inn-steam]                 | 🐧     | 2026-08-10    | 2026-09-22  | 000:34 | The game is nice and I like the music.                                                                                                                                                                                                               |
 | Skate Story Demo                                | [Steam][skate-story-demo-steam]                 | 🐧     | 2025-12-15    | 2025-12-15  | 000:41 | Pretty good game! This is my first ever skate boarding game and it does feel like controller would be needed to enjoy it better. Music is also good.                                                                                                 |
 | Snacktorio Demo                                 | [Steam][snacktorio-demo-steam]                  | 🕓🐧   | 2026-03-03    | 2026-04-10  | 001:16 | I like the appeal of this game. Just not enough time with me to play through.                                                                                                                                                                        |
 | Steel Artery: Train City Builder Playtest       | [Steam][steel-artery-train-city-steam]          | 🐧     | 2025-12-16    | 2025-12-16  | 001:55 | Pretty good city builder, but needs polishing like alerts for various things and extended tutorial                                                                                                                                                   |
