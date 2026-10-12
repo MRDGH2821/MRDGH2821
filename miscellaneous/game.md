@@ -74,11 +74,11 @@ Listed with priority order.
 
 <!-- smt -->
 
-| Game name        | Link                                     | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                                                              |
-| ---------------- | ---------------------------------------- | ---- | ------------- | ----------- | ------ | --- | ------------- | ----------- | ---- | ----------------------------------------------------------------------------------------------------- |
-| Exponential Idle | [Play Store][exponential-idle-playstore] | 📱   | 2026-03-17    |             |        | 🚫  |               |             |      | Pretty good idle game!                                                                                |
-| Foretales        | [EGS Mobile][foretales-egs-mobile]       | 📱   | 2026-07-24    |             |        | 🚫  |               |             |      | I like how the story is presented using cards. It is similar to text adventure games, but with cards! |
-| Soulstice        | [EGS][soulstice-egs]                     | 🕓🐧 | 2026-07-16    |             | 001:30 | 🚫  |               |             |      | I liked the hack & slash action.                                                                      |
+| Game name        | Link                                     | 🎮   | 🎮 Start Date | 🎮 End Date | 🎮⏱️   | 🎁  | 🎁 Start Date | 🎁 End Date | 🎁⏱️ | 📝 Notes                                                         |
+| ---------------- | ---------------------------------------- | ---- | ------------- | ----------- | ------ | --- | ------------- | ----------- | ---- | ---------------------------------------------------------------- |
+| Exponential Idle | [Play Store][exponential-idle-playstore] | 📱   | 2026-03-17    |             |        | 🚫  |               |             |      | Pretty good idle game!                                           |
+| Idle Fantasy     | [F-Droid][idle-fantasy-web]              | 📱   | 2026-09-26    |             |        | 🚫  |               |             |      | Pretty good idle game! And it does enforce waiting for progress. |
+| Soulstice        | [EGS][soulstice-egs]                     | 🕓🐧 | 2026-07-16    |             | 001:30 | 🚫  |               |             |      | I liked the hack & slash action.                                 |
 
 ### Travel Games
 
@@ -219,6 +219,7 @@ wherever it made sense.
 | Final Outpost                                      | [Play Store][final-outpost-playstore]                   | 📱   | 2025-03-15    | 2025-04-08  |        | 🚫   |               |             |            | I like the base builder + tower defence combo. Good for mobile. The max I went was 60 days before quitting.                                                                                                                                   |
 | Find You                                           | [Steam][find-you-steam]                                 | 📭   |               | 2024-07-30  | 003:43 | 🚫   |               |             |            | Challenging platformer.                                                                                                                                                                                                                       |
 | Finding Paradise                                   | [Steam][finding-paradise-steam]                         | 🏆   |               | 2019-05-07  | 006:18 | 🚫   |               |             |            | -                                                                                                                                                                                                                                             |
+| Foretales                                          | [EGS Mobile][foretales-egs-mobile]                      | 📱   | 2026-07-24    | 2026-10-10  | 011:19 | 🚫   |               |             |            | I like how the story is presented using cards. It is similar to text adventure games, but with cards! Did 4 runs to get perfect ending.                                                                                                       |
 | Frost Punk                                         | [EGS][frost-punk-egs]                                   |      |               |             | 007:09 | 🔒   |               |             |            | -                                                                                                                                                                                                                                             |
 | Grimvalor                                          | [Play Store][grimvalor-playstore]                       | 📱   |               |             |        | 🚫   |               |             |            | This is incredible 2D action platformer game. One of the good games available on mobile.                                                                                                                                                      |
 | Gris                                               | [Steam][gris-steam]                                     |      | 2020-06-03    | 2020-06-15  | 004:18 | 🚫   |               |             |            | Good Indie game.                                                                                                                                                                                                                              |
@@ -587,6 +588,7 @@ The other games listed here are those I'm totally skipping.
 [hotk3-ms-store]: https://www.microsoft.com/store/productId/9NDW3SLT17V3
 [hyper-light-drifter-egs]: https://store.epicgames.com/en-US/p/hyper-light-drifter
 [hyperslice-demo-steam]: https://store.steampowered.com/app/2977820/Hyperslice/
+[idle-fantasy-web]: https://f-droid.org/en/packages/com.tristinbaker.idlefantasy/
 [implosion---never-playstore]: https://play.google.com/store/apps/details?id=com.rayark.implosion
 [injustice-gods-among-us-steam]: https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/
 [inside-egs]: https://store.epicgames.com/en-US/p/inside
