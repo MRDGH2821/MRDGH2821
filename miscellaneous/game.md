@@ -79,6 +79,7 @@ Listed with priority order.
 | Exponential Idle | [Play Store][exponential-idle-playstore] | 📱   | 2026-03-17    |             |        | 🚫  |               |             |      | Pretty good idle game!                                           |
 | Idle Fantasy     | [F-Droid][idle-fantasy-web]              | 📱   | 2026-09-26    |             |        | 🚫  |               |             |      | Pretty good idle game! And it does enforce waiting for progress. |
 | Soulstice        | [EGS][soulstice-egs]                     | 🕓🐧 | 2026-07-16    |             | 001:30 | 🚫  |               |             |      | I liked the hack & slash action.                                 |
+| Wytchwood        | [EGS Mobile][wytchwood-egs-mobile]       | 📱   | 2026-10-25    |             |        | 🚫  |               |             |      |                                                                  |
 
 ### Travel Games
 
@@ -760,6 +761,7 @@ The other games listed here are those I'm totally skipping.
 [witcher3-steam]: https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/
 [world-of-goo-egs]: https://store.epicgames.com/en-US/p/world-of-goo
 [world-war-v-last-steam]: https://store.steampowered.com/app/4039000/WORLD_WAR_V_LAST_CALL_Demo/
+[wytchwood-egs-mobile]: https://store.epicgames.com/p/wytchwood-android-cad0ea
 [yesterday-origins-steam]: https://store.steampowered.com/app/465280/Yesterday_Origins/
 [zoeti-egs]: https://store.epicgames.com/en-US/p/zoeti-3ccef9
 [zoeti-egs-mobile]: https://store.epicgames.com/en-US/p/zoeti-android-15ba72
